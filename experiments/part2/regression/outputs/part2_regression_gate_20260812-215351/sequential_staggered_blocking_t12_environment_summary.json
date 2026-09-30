@@ -1,0 +1,81 @@
+{
+  "branch_counts": {
+    "direct": 140,
+    "failed": 0,
+    "multi_region_visibility": 16,
+    "single_region": 0
+  },
+  "branch_percentages": {
+    "direct": 0.8974358974358975,
+    "failed": 0.0,
+    "multi_region_visibility": 0.10256410256410256,
+    "single_region": 0.0
+  },
+  "branch_time_aggregate_sec": {
+    "direct": 0.0003939999151043594,
+    "failed": 0.0,
+    "multi_region_visibility": 90.04348580003716,
+    "single_region": 0.0
+  },
+  "branch_time_stats": {
+    "direct": {
+      "count": 140,
+      "max_sec": 8.300004992634058e-06,
+      "mean_sec": 2.8142851078882815e-06,
+      "median_sec": 2.3999600671231747e-06,
+      "min_sec": 2.1999585442245007e-06
+    },
+    "failed": {
+      "count": 0,
+      "max_sec": null,
+      "mean_sec": null,
+      "median_sec": null,
+      "min_sec": null
+    },
+    "multi_region_visibility": {
+      "count": 16,
+      "max_sec": 5.6653399000060745,
+      "mean_sec": 5.6277178625023225,
+      "median_sec": 5.623697799979709,
+      "min_sec": 5.5984527000109665
+    },
+    "single_region": {
+      "count": 0,
+      "max_sec": null,
+      "mean_sec": null,
+      "median_sec": null,
+      "min_sec": null
+    }
+  },
+  "cluster_count": 3,
+  "counter_availability": {
+    "available": [
+      "native_nfz_count",
+      "cluster_count",
+      "singleton_region_count",
+      "multi_nfz_cluster_count",
+      "wrapped_region_count",
+      "relevant_blocking_region_count",
+      "tangent_call_count",
+      "blocking_checks",
+      "reblocking_checks"
+    ],
+    "unavailable_without_algorithm_changes": [
+      "tangent_exit_check_count",
+      "visibility_edge_clearance_checks"
+    ]
+  },
+  "diagnostic_runtime_sec": 90.047385199985,
+  "directed_pair_count": 156,
+  "environment_id": "sequential_staggered_blocking_001_t12",
+  "instance_id": "part1_controlled_001",
+  "multi_nfz_cluster_count": 3,
+  "native_nfz_count": 6,
+  "node_count": 13,
+  "schema": "nfz_part2_proposed_environment_summary_v1",
+  "seed": null,
+  "singleton_region_count": 0,
+  "target_count": 12,
+  "topology": "sequential_staggered_blocking",
+  "wrapped_region_count": 3
+}

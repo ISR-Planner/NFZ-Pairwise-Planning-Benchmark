@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "nfz_part2_proposed_pair_diagnostics.schema.json",
+  "title": "Part II Proposed Per-Pair Diagnostics",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "environment_id",
+    "topology",
+    "instance_id",
+    "seed",
+    "source_node",
+    "destination_node",
+    "branch_class",
+    "pair_time_sec",
+    "path_distance_km",
+    "feasible"
+  ],
+  "properties": {
+    "environment_id": {
+      "type": "string"
+    },
+    "topology": {
+      "type": "string"
+    },
+    "instance_id": {
+      "type": "string"
+    },
+    "seed": {
+      "type": ["integer", "null"]
+    },
+    "source_node": {
+      "type": "string"
+    },
+    "destination_node": {
+      "type": "string"
+    },
+    "branch_class": {
+      "enum": ["direct", "single_region", "multi_region_visibility", "failed"]
+    },
+    "pair_time_sec": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "path_distance_km": {
+      "type": ["number", "null"]
+    },
+    "feasible": {
+      "type": "boolean"
+    },
+    "native_nfz_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "cluster_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "singleton_region_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "multi_nfz_cluster_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "wrapped_region_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "relevant_blocking_region_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "tangent_call_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "tangent_exit_check_count": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "visibility_edge_clearance_checks": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "blocking_checks": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    },
+    "reblocking_checks": {
+      "type": ["integer", "null"],
+      "minimum": 0
+    }
+  }
+}

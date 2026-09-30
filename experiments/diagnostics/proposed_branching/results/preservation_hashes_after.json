@@ -1,0 +1,94 @@
+{
+  "all_hashes_match": true,
+  "changed_files": [],
+  "created_at": "2026-08-09T21:59:32.244082+00:00",
+  "files": [
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.csv",
+      "sha256": "57AD9F8FCCC73A7A5E0394E21AAD008AAD22E5E1E927214DB6A8AEB06EED2F6C",
+      "size_bytes": 37358
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.json",
+      "sha256": "A58EBAA1C47B736CC33AA7E066D7456C25A37D8A08FE718A3A3E8F25A62071EC",
+      "size_bytes": 213444
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.log",
+      "sha256": "7D7C3885BA86D3024B92D7A596A4B98CEAB5B909145C20109DD501B634DF44FF",
+      "size_bytes": 463679
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_analysis.csv",
+      "sha256": "CD9AC7D0A235ECDC77740627C8787EB69A4D03101A8422271C1195EBFBD59ECA",
+      "size_bytes": 5650
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_analysis.md",
+      "sha256": "592CC8056E894F34862F808609C84190ED2F75494AAB69D56D60D83EF5F9E0D5",
+      "size_bytes": 8777
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\proposed\\__init__.py",
+      "sha256": "919AA8838FDBD0D7648D7D01B9D2E6EEFD6A8308C9C11DF716537D1099550DB3",
+      "size_bytes": 44
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\proposed\\method.py",
+      "sha256": "9D9D452D3E07BD1146E76B86F0477C373B44A1636FFA24751842D3CB92EC5AA0",
+      "size_bytes": 1281
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_distance_matrix.py",
+      "sha256": "CD5736AC37B946FA30D4303CDBC5CAA4339F3EE380CBBF0972993973D06C1F23",
+      "size_bytes": 27027
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\projection.py",
+      "sha256": "2F252A0608AD1DB8BE8B7CEF99340D6F0AE5DF67E632779B21D80B7FF6FFC8B8",
+      "size_bytes": 5989
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_bridge.py",
+      "sha256": "ECD02F52BA2199BEACFB66F2F7AB09D51575391985AD2095CA57A8049D18D52C",
+      "size_bytes": 2301
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_mission.py",
+      "sha256": "211B69751CACA5E6F94590ECD0D282A8C8906826CB3582C1AE2218A76CF4239B",
+      "size_bytes": 110162
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\target_allocator.py",
+      "sha256": "B65F612F921E439910712B4DBB9F51EC27D05E37766DAE689EC31A817DAF3798",
+      "size_bytes": 41214
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\orienteering_solver.py",
+      "sha256": "1A97196B3ADBD0F3167CC4065AD7797BC0A043E93295DC8A5D13C58D36AF9572",
+      "size_bytes": 3146
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_interface.py",
+      "sha256": "EFF5F47722973B167060C77A41C4C934FECE1364C61C8452CFC49D0418A96DC3",
+      "size_bytes": 2403
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\path_planning_core\\boundary_navigation.py",
+      "sha256": "7191E6E7582D6C94A34F82F4CD4BB66A01DD9807666905F9BA9DD1078C62E846",
+      "size_bytes": 43597
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\path_planning_core\\sam_wrapping.py",
+      "sha256": "184954E71665119450B91A0C34E4255B6DA30803090B30F5F68C804DD64D13C0",
+      "size_bytes": 12958
+    },
+    {
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\path_planning_core\\__init__.py",
+      "sha256": "8E173A2D07BA3B821639ADAD9E67E34E9A9B8A99934D8813AB7F5BAAB4223CF1",
+      "size_bytes": 459
+    }
+  ],
+  "protected_file_count": 17,
+  "purpose": "after hashes for proposed_branching diagnostic protected artifacts and sources"
+}

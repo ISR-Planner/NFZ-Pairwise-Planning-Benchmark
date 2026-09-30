@@ -1,0 +1,24 @@
+{
+  "analysis_artifacts": {
+    "execution_summary_csv": "experiments\\part2\\analysis\\part2_primary_run01_execution_summary.csv",
+    "execution_summary_json": "experiments\\part2\\analysis\\part2_primary_run01_execution_summary.json",
+    "markdown_summary": "experiments\\part2\\analysis\\PART2_PRIMARY_RUN01_SUMMARY.md",
+    "part1_comparison_csv": "experiments\\part2\\analysis\\part2_primary_run01_part1_comparison.csv",
+    "part1_comparison_json": "experiments\\part2\\analysis\\part2_primary_run01_part1_comparison.json",
+    "topology_method_summary_csv": "experiments\\part2\\analysis\\part2_primary_run01_topology_method_summary.csv",
+    "topology_method_summary_json": "experiments\\part2\\analysis\\part2_primary_run01_topology_method_summary.json",
+    "vg_proposed_ratios_csv": "experiments\\part2\\analysis\\part2_primary_run01_vg_proposed_ratios.csv",
+    "vg_proposed_ratios_json": "experiments\\part2\\analysis\\part2_primary_run01_vg_proposed_ratios.json"
+  },
+  "campaign_id": "part2_generalization_primary_20260812-194711",
+  "execution_order": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\execution_order.json",
+  "primary_manifest_csv": "experiments\\part2\\manifests\\part2_primary_run01_manifest.csv",
+  "primary_manifest_json": "experiments\\part2\\manifests\\part2_primary_run01_manifest.json",
+  "progress_manifest": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\campaign_status.json",
+  "results_csv": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\part2_generalization_primary_20260812-194711.csv",
+  "results_json": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\part2_generalization_primary_20260812-194711.json",
+  "results_jsonl": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\part2_generalization_primary_20260812-194711_rows.jsonl",
+  "run": "run_01_20260812-194711",
+  "run_directory": "experiments\\part2\\results\\primary\\run_01_20260812-194711",
+  "schema": "nfz_part2_primary_campaign_artifacts_v1"
+}

@@ -1,0 +1,16 @@
+environment_id,topology,instance_id,connectivity_agreement,distance_values_within_tolerance,max_distance_delta,differing_availability,differing_distance_values
+ctrap_i01_t12,c_trap,i01,True,True,0.0,0,0
+ctrap_i02_t12,c_trap,i02,True,True,0.0,0,0
+ctrap_i03_t12,c_trap,i03,True,True,0.0,0,0
+ctrap_i04_t12,c_trap,i04,True,True,0.0,0,0
+ctrap_i05_t12,c_trap,i05,True,True,0.0,0,0
+sequential_i01_t12,sequential_staggered_blocking,i01,True,True,0.0,0,0
+sequential_i02_t12,sequential_staggered_blocking,i02,True,True,0.0,0,0
+sequential_i03_t12,sequential_staggered_blocking,i03,True,True,0.0,0,0
+sequential_i04_t12,sequential_staggered_blocking,i04,True,True,0.0,0,0
+sequential_i05_t12,sequential_staggered_blocking,i05,True,True,0.0,0,0
+asymmetric_i01_t12,asymmetric_corridor,i01,True,True,0.0,0,0
+asymmetric_i02_t12,asymmetric_corridor,i02,True,True,0.0,0,0
+asymmetric_i03_t12,asymmetric_corridor,i03,True,True,0.0,0,0
+asymmetric_i04_t12,asymmetric_corridor,i04,True,True,0.0,0,0
+asymmetric_i05_t12,asymmetric_corridor,i05,True,True,0.0,0,0

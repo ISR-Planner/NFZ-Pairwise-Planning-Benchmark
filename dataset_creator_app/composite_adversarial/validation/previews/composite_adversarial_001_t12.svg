@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<rect x="0" y="0" width="600" height="600" fill="none" stroke="#334155" stroke-width="2"/>
+<line x1="0.00" y1="0" x2="0.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="600.00" x2="600" y2="600.00" stroke="#d8dee9" stroke-width="1"/>
+<line x1="100.00" y1="0" x2="100.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="500.00" x2="600" y2="500.00" stroke="#d8dee9" stroke-width="1"/>
+<line x1="200.00" y1="0" x2="200.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="400.00" x2="600" y2="400.00" stroke="#d8dee9" stroke-width="1"/>
+<line x1="300.00" y1="0" x2="300.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="300.00" x2="600" y2="300.00" stroke="#d8dee9" stroke-width="1"/>
+<line x1="400.00" y1="0" x2="400.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="200.00" x2="600" y2="200.00" stroke="#d8dee9" stroke-width="1"/>
+<line x1="500.00" y1="0" x2="500.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="100.00" x2="600" y2="100.00" stroke="#d8dee9" stroke-width="1"/>
+<line x1="600.00" y1="0" x2="600.00" y2="600" stroke="#d8dee9" stroke-width="1"/>
+<line x1="0" y1="0.00" x2="600" y2="0.00" stroke="#d8dee9" stroke-width="1"/>
+<circle cx="114.82" cy="181.34" r="40.00" fill="#d95f02" fill-opacity="0.25" stroke="#d95f02" stroke-width="2"/>
+<text x="114.82" y="181.34" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ01</text>
+<circle cx="171.94" cy="218.06" r="60.00" fill="#d95f02" fill-opacity="0.25" stroke="#d95f02" stroke-width="2"/>
+<text x="171.94" y="218.06" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ02</text>
+<circle cx="196.42" cy="281.30" r="40.00" fill="#d95f02" fill-opacity="0.25" stroke="#d95f02" stroke-width="2"/>
+<text x="196.42" y="281.30" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ03</text>
+<circle cx="171.94" cy="344.54" r="60.00" fill="#d95f02" fill-opacity="0.25" stroke="#d95f02" stroke-width="2"/>
+<text x="171.94" y="344.54" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ04</text>
+<circle cx="124.90" cy="374.78" r="20.00" fill="#d95f02" fill-opacity="0.25" stroke="#d95f02" stroke-width="2"/>
+<text x="124.90" y="374.78" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ05</text>
+<circle cx="268.00" cy="400.00" r="20.00" fill="#1b9e77" fill-opacity="0.25" stroke="#1b9e77" stroke-width="2"/>
+<text x="268.00" y="400.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ06</text>
+<circle cx="268.00" cy="368.00" r="20.00" fill="#1b9e77" fill-opacity="0.25" stroke="#1b9e77" stroke-width="2"/>
+<text x="268.00" y="368.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ07</text>
+<circle cx="336.00" cy="252.00" r="20.00" fill="#1b9e77" fill-opacity="0.25" stroke="#1b9e77" stroke-width="2"/>
+<text x="336.00" y="252.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ08</text>
+<circle cx="336.00" cy="220.00" r="20.00" fill="#1b9e77" fill-opacity="0.25" stroke="#1b9e77" stroke-width="2"/>
+<text x="336.00" y="220.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ09</text>
+<circle cx="404.00" cy="388.00" r="20.00" fill="#1b9e77" fill-opacity="0.25" stroke="#1b9e77" stroke-width="2"/>
+<text x="404.00" y="388.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ10</text>
+<circle cx="404.00" cy="356.00" r="20.00" fill="#1b9e77" fill-opacity="0.25" stroke="#1b9e77" stroke-width="2"/>
+<text x="404.00" y="356.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ11</text>
+<circle cx="464.00" cy="224.00" r="40.00" fill="#7570b3" fill-opacity="0.25" stroke="#7570b3" stroke-width="2"/>
+<text x="464.00" y="224.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ12</text>
+<circle cx="508.00" cy="216.00" r="40.00" fill="#7570b3" fill-opacity="0.25" stroke="#7570b3" stroke-width="2"/>
+<text x="508.00" y="216.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ13</text>
+<circle cx="548.00" cy="224.00" r="20.00" fill="#7570b3" fill-opacity="0.25" stroke="#7570b3" stroke-width="2"/>
+<text x="548.00" y="224.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ14</text>
+<circle cx="472.00" cy="380.00" r="40.00" fill="#7570b3" fill-opacity="0.25" stroke="#7570b3" stroke-width="2"/>
+<text x="472.00" y="380.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ15</text>
+<circle cx="528.00" cy="368.00" r="40.00" fill="#7570b3" fill-opacity="0.25" stroke="#7570b3" stroke-width="2"/>
+<text x="528.00" y="368.00" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="10" fill="#0f172a">NFZ16</text>
+<rect x="35.00" y="275.00" width="10" height="10" fill="#111827"/>
+<text x="47.00" y="273.00" font-family="Arial" font-size="12" fill="#111827">A1</text>
+<circle cx="580.00" cy="180.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="586.00" y="174.00" font-family="Arial" font-size="12" fill="#075985">T1</text>
+<circle cx="580.00" cy="380.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="586.00" y="374.00" font-family="Arial" font-size="12" fill="#075985">T2</text>
+<circle cx="512.00" cy="88.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="518.00" y="82.00" font-family="Arial" font-size="12" fill="#075985">T3</text>
+<circle cx="520.00" cy="488.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="526.00" y="482.00" font-family="Arial" font-size="12" fill="#075985">T4</text>
+<circle cx="448.00" cy="148.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="454.00" y="142.00" font-family="Arial" font-size="12" fill="#075985">T5</text>
+<circle cx="448.00" cy="432.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="454.00" y="426.00" font-family="Arial" font-size="12" fill="#075985">T6</text>
+<circle cx="580.00" cy="268.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="586.00" y="262.00" font-family="Arial" font-size="12" fill="#075985">T7</text>
+<circle cx="580.00" cy="528.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="586.00" y="522.00" font-family="Arial" font-size="12" fill="#075985">T8</text>
+<circle cx="500.00" cy="296.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="506.00" y="290.00" font-family="Arial" font-size="12" fill="#075985">T9</text>
+<circle cx="388.00" cy="100.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="394.00" y="94.00" font-family="Arial" font-size="12" fill="#075985">T10</text>
+<circle cx="392.00" cy="480.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="398.00" y="474.00" font-family="Arial" font-size="12" fill="#075985">T11</text>
+<circle cx="580.00" cy="80.00" r="4.5" fill="#0ea5e9" stroke="#0369a1" stroke-width="1.5"/>
+<text x="586.00" y="74.00" font-family="Arial" font-size="12" fill="#075985">T12</text>
+<text x="12" y="22" font-family="Arial" font-size="16" fill="#0f172a">Composite Adversarial NFZ family</text>
+<text x="12" y="42" font-family="Arial" font-size="13" fill="#334155">t12: 12 cumulative targets, 16 NFZs</text>
+</svg>

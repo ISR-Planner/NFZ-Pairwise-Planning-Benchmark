@@ -1,0 +1,1 @@
+"""Visibility-graph benchmark method."""

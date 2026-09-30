@@ -1,0 +1,144 @@
+{
+  "source_dataset": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset",
+  "file_count": 9,
+  "files": [
+    {
+      "file": "asymmetric_corridor_001_t04.json",
+      "bytes": 9341,
+      "sha256": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c"
+    },
+    {
+      "file": "asymmetric_corridor_001_t08.json",
+      "bytes": 9949,
+      "sha256": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5"
+    },
+    {
+      "file": "asymmetric_corridor_001_t12.json",
+      "bytes": 10558,
+      "sha256": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36"
+    },
+    {
+      "file": "c_trap_001_t04.json",
+      "bytes": 9338,
+      "sha256": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0"
+    },
+    {
+      "file": "c_trap_001_t08.json",
+      "bytes": 9944,
+      "sha256": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038"
+    },
+    {
+      "file": "c_trap_001_t12.json",
+      "bytes": 10554,
+      "sha256": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50"
+    },
+    {
+      "file": "sequential_staggered_blocking_001_t04.json",
+      "bytes": 9484,
+      "sha256": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e"
+    },
+    {
+      "file": "sequential_staggered_blocking_001_t08.json",
+      "bytes": 10091,
+      "sha256": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6"
+    },
+    {
+      "file": "sequential_staggered_blocking_001_t12.json",
+      "bytes": 10700,
+      "sha256": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de"
+    }
+  ],
+  "matches_before": true,
+  "comparisons": [
+    {
+      "file": "asymmetric_corridor_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9341,
+      "bytes_after": 9341,
+      "sha256_before": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+      "sha256_after": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+      "byte_identical": true
+    },
+    {
+      "file": "asymmetric_corridor_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9949,
+      "bytes_after": 9949,
+      "sha256_before": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+      "sha256_after": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+      "byte_identical": true
+    },
+    {
+      "file": "asymmetric_corridor_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10558,
+      "bytes_after": 10558,
+      "sha256_before": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+      "sha256_after": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+      "byte_identical": true
+    },
+    {
+      "file": "c_trap_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9338,
+      "bytes_after": 9338,
+      "sha256_before": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+      "sha256_after": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+      "byte_identical": true
+    },
+    {
+      "file": "c_trap_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9944,
+      "bytes_after": 9944,
+      "sha256_before": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+      "sha256_after": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+      "byte_identical": true
+    },
+    {
+      "file": "c_trap_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10554,
+      "bytes_after": 10554,
+      "sha256_before": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+      "sha256_after": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+      "byte_identical": true
+    },
+    {
+      "file": "sequential_staggered_blocking_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9484,
+      "bytes_after": 9484,
+      "sha256_before": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+      "sha256_after": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+      "byte_identical": true
+    },
+    {
+      "file": "sequential_staggered_blocking_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10091,
+      "bytes_after": 10091,
+      "sha256_before": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+      "sha256_after": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+      "byte_identical": true
+    },
+    {
+      "file": "sequential_staggered_blocking_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10700,
+      "bytes_after": 10700,
+      "sha256_before": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+      "sha256_after": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+      "byte_identical": true
+    }
+  ]
+}

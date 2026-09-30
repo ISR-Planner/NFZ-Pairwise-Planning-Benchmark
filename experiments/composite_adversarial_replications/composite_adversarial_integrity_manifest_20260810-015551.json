@@ -1,0 +1,514 @@
+{
+  "condition_payload_hashes_after": {
+    "run1_csv_conditions": "78189d221f34acbc5ca17bcf7554695d40d2ae1ef8ab5c157c5f144888ae9556",
+    "run2_csv_conditions": "eb8e9123f32e8841fb0ceb1837335070b020fdfd6facb54670647b163d52b56c"
+  },
+  "condition_payload_hashes_before": {
+    "run1_csv_conditions": "78189d221f34acbc5ca17bcf7554695d40d2ae1ef8ab5c157c5f144888ae9556",
+    "run2_csv_conditions": "eb8e9123f32e8841fb0ceb1837335070b020fdfd6facb54670647b163d52b56c"
+  },
+  "condition_payloads_preserved": true,
+  "created_at_local": "2026-08-10T01:56:09",
+  "input_snapshot_count_after": 3,
+  "input_snapshot_count_before": 3,
+  "input_snapshots_byte_identical": true,
+  "mission_output_count_after": 54,
+  "mission_output_count_before": 54,
+  "mission_outputs_byte_identical": true,
+  "purpose": "neutral integrity manifest after composite replication normalization",
+  "remaining_obsolete_reference_count": 0,
+  "remaining_obsolete_references": [],
+  "run_directories": [
+    "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402",
+    "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140"
+  ],
+  "substantive_file_hashes_after": [
+    {
+      "category": "tabular_result_or_analysis",
+      "relative_path": "run_01_20260809-183402\\analysis\\composite_adversarial_run_01_20260809-183402_analysis.csv",
+      "sha256": "fe03097ea5d9903f2c42df3a4864183c77a8f795b06feacbc99529444d134fe4",
+      "size": 4400
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_bspline\\benchmark_summary.jsonl",
+      "sha256": "05c5b36aadf05a59747f5373104d4f304b11015bde98d633e5857d2033237308",
+      "size": 3576
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t04__appatt_bspline__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "45f4fd11afa5ceed9fc9805f101ed53b3ef5546abf1e169733b3d2000338e453",
+      "size": 86497
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t08__appatt_bspline__mission_seg_20260809-1950_N1_1.json",
+      "sha256": "ff16b7756d86c4c81a84951aadba07dd53678d49ecbe567e5345a462d49c101a",
+      "size": 178875
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260809-2130_N1_1.json",
+      "sha256": "8d4edbfedc853a922e286f5c34486a106bd6bc06576c5c90e674654991ee7bda",
+      "size": 323262
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_raw\\benchmark_summary.jsonl",
+      "sha256": "0c679f43ed52e62c82da0ad86544ac4aefd0043e59b993ec10099385ae4005b1",
+      "size": 3408
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t04__appatt_raw__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "927ab9630cd6a75af5535cf868c01d7a02f4493bb4f2697b093e6c2f0270dbe6",
+      "size": 67420
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t08__appatt_raw__mission_seg_20260809-1949_N1_1.json",
+      "sha256": "e9c5277569785d424ddda61649e8c971d1b2c55b3f76b7006a930b1c510182cc",
+      "size": 105009
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260809-2130_N1_1.json",
+      "sha256": "aa7fedcaf5e43f417e774669ba4c88016ca8f9f11aab64f27acaad825364d6b2",
+      "size": 161414
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\collision_rejection\\benchmark_summary.jsonl",
+      "sha256": "49458989f926cc6672645e153745bb421147c985992c317fcae3b5f5517d72ba",
+      "size": 2620
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t04__collision_rejection__mission_seg_20260809-1843_N1_1.json",
+      "sha256": "b0998738afe6b7f2da0822c71865145c4288418a822bd1d8bc30afe81e9cc550",
+      "size": 57704
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t08__collision_rejection__mission_seg_20260809-1927_N1_1.json",
+      "sha256": "dfe4e7ba91e9d48f778984fa5deb959e9defbd74e06e64c41bbcf601932d3830",
+      "size": 69635
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t12__collision_rejection__mission_seg_20260809-2043_N1_1.json",
+      "sha256": "b6b923a6d37a71331142098ee13d9cf057ff1f32b25abedfe720db35c33f46fc",
+      "size": 86724
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\euclidean\\benchmark_summary.jsonl",
+      "sha256": "c2e14b6d55a18859d13b33090e4585dd57b04fef45c6301d1ebe8b292bbeda34",
+      "size": 2458
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t04__euclidean__mission_seg_20260809-1843_N1_1.json",
+      "sha256": "e4f185e951ef25fba9e30dcfc26c918c96f09950b584905ed3df6a414328a32d",
+      "size": 58720
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t08__euclidean__mission_seg_20260809-1926_N1_1.json",
+      "sha256": "de6d5828ac9490bd695e110f669c75065bdfbdb7dfa100838950926ceaa2fd47",
+      "size": 74208
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t12__euclidean__mission_seg_20260809-2043_N1_1.json",
+      "sha256": "0985d4d7de0dd6ceac902052bfe67ec7372779275654a5e105139d6bfd59d9c3",
+      "size": 96725
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\grid_astar\\benchmark_summary.jsonl",
+      "sha256": "ade8a29b6b5c01c643b2314a7504ceebd30a9782b28fb4261457cb19ba19e474",
+      "size": 2487
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t04__grid_astar__mission_seg_20260809-1857_N1_1.json",
+      "sha256": "ed3410caeba0ca1fd514076a6c3ca7ea06eb915dc6f72501b58e9f1925daa97a",
+      "size": 183526
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t08__grid_astar__mission_seg_20260809-1948_N1_1.json",
+      "sha256": "3a417ba83084211ceaf8e313ddd1bc997d371b620c1a5a69807634f73e0c969c",
+      "size": 422334
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260809-2128_N1_1.json",
+      "sha256": "9093f89865792d9d9f99d02ecba82118a8e9362d721550a2369bfe2090b58917",
+      "size": 799178
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\proposed\\benchmark_summary.jsonl",
+      "sha256": "23b5be9769d6469e759a2d728543717af346bee46b6c44e15465c6fdce1917f8",
+      "size": 2439
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t04__proposed__mission_seg_20260809-1842_N1_1.json",
+      "sha256": "0d3b623e4b197e64d943cd4f4a7923bb37653ef30a2b72c4794899a152aa195b",
+      "size": 116760
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t08__proposed__mission_seg_20260809-1925_N1_1.json",
+      "sha256": "d92e8f52579f800969640246c8b3743eff64e5d2937a071caf6254191f18cf19",
+      "size": 165205
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260809-2041_N1_1.json",
+      "sha256": "882e0bda6474adced2ea346a68017d2322f9e952a7496721f7fd7ac2910d734c",
+      "size": 238323
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_bezier\\benchmark_summary.jsonl",
+      "sha256": "333a899b557500df89a3bae81ccac491ff0b275ccc02594c284b81655bd1ee22",
+      "size": 3377
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t04__tig_bezier__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "86072cd76d9f6f1b01bf6a3deb3ce0f7901df95994ffa31544a085b5772a043c",
+      "size": 89975
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t08__tig_bezier__mission_seg_20260809-1950_N1_1.json",
+      "sha256": "35a9f789ec71004f1ec99e553e8d2adcd925f53d3a1874b5e03611bba67734f5",
+      "size": 197174
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260809-2132_N1_1.json",
+      "sha256": "eba902a20e37211071800ccdcd9ee5b34136aece98ca7f63efc1ef59d4e6fac3",
+      "size": 393881
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_raw\\benchmark_summary.jsonl",
+      "sha256": "bdf2061970cb5adf649e4cccefd1b36a782586aa62136dd5604574f4205d6f8e",
+      "size": 3341
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t04__tig_raw__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "2f40d98d3b6ea6e269c0a6c62ec9d79b019b58b34981062eec60db0ab5860108",
+      "size": 88036
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t08__tig_raw__mission_seg_20260809-1950_N1_1.json",
+      "sha256": "450a5fca6dec46533fcb7851ab7fa5931c43bcbe3aac50aa466211b4f14575a7",
+      "size": 182019
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260809-2131_N1_1.json",
+      "sha256": "415672b0963b4e071b947bf37f0be815ea4d708b4a38b5257063f8b53bb4f6b8",
+      "size": 360098
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_01_20260809-183402\\outputs\\visibility_graph\\benchmark_summary.jsonl",
+      "sha256": "741b01492301046e55155de0af92abf34f23dd418c0a2f5d3092fff5a738dee6",
+      "size": 2508
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t04__visibility_graph__mission_seg_20260809-1856_N1_1.json",
+      "sha256": "303f464feb70d7796200ce5d8e9ab1d9e68047a4a11ff3dff2ef16e51feb0f43",
+      "size": 153707
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t08__visibility_graph__mission_seg_20260809-1947_N1_1.json",
+      "sha256": "4258b92db0f6118264005ad76a307c0db4860134356804d4b9144d58eea98edc",
+      "size": 213998
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260809-2127_N1_1.json",
+      "sha256": "bda0733a47a618cd75dcebb09a3a53b7235650cbdf230ce51a8a74695d1222f4",
+      "size": 305300
+    },
+    {
+      "category": "tabular_result_or_analysis",
+      "relative_path": "run_01_20260809-183402\\results\\composite_adversarial_run_01_20260809-183402.csv",
+      "sha256": "8383fcc5018fd245290bcd359959152dd971dc4ffc87964937e26f5195f15417",
+      "size": 17050
+    },
+    {
+      "category": "structured_result_or_integrity",
+      "relative_path": "run_01_20260809-183402\\results\\composite_adversarial_run_01_20260809-183402.json",
+      "sha256": "33b914747edf804a864187583d0bbdc93293e04fcb95b9407d55709d9be989aa",
+      "size": 68798
+    },
+    {
+      "category": "tabular_result_or_analysis",
+      "relative_path": "run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_analysis.csv",
+      "sha256": "9018aaea92b0aa2200d8438027be11ca346266057f7eea08c9dde937b82b39d6",
+      "size": 6951
+    },
+    {
+      "category": "input_snapshot",
+      "relative_path": "run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t04.json",
+      "sha256": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "size": 10934
+    },
+    {
+      "category": "input_snapshot",
+      "relative_path": "run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t08.json",
+      "sha256": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "size": 11542
+    },
+    {
+      "category": "input_snapshot",
+      "relative_path": "run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+      "sha256": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "size": 12153
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_bspline\\benchmark_summary.jsonl",
+      "sha256": "81aebc5728573c628a0b2ebe65b25bd4c1fd29d4ddd55e9efe6b5f040abfc551",
+      "size": 3839
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t04__appatt_bspline__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "45f4fd11afa5ceed9fc9805f101ed53b3ef5546abf1e169733b3d2000338e453",
+      "size": 86497
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t08__appatt_bspline__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "ff16b7756d86c4c81a84951aadba07dd53678d49ecbe567e5345a462d49c101a",
+      "size": 178875
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260810-0104_N1_1.json",
+      "sha256": "8d4edbfedc853a922e286f5c34486a106bd6bc06576c5c90e674654991ee7bda",
+      "size": 323262
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_raw\\benchmark_summary.jsonl",
+      "sha256": "ce9b92d2ccdcce67ea1d7f0824a26c8c899c6730eea78c75ab9abf0ad54ac31a",
+      "size": 3668
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t04__appatt_raw__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "927ab9630cd6a75af5535cf868c01d7a02f4493bb4f2697b093e6c2f0270dbe6",
+      "size": 67420
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t08__appatt_raw__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "e9c5277569785d424ddda61649e8c971d1b2c55b3f76b7006a930b1c510182cc",
+      "size": 105009
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260810-0104_N1_1.json",
+      "sha256": "aa7fedcaf5e43f417e774669ba4c88016ca8f9f11aab64f27acaad825364d6b2",
+      "size": 161414
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\collision_rejection\\benchmark_summary.jsonl",
+      "sha256": "663186f42e092bd4a1f3b494af5c754f4c2ecf5e2f616a28d93869b5693bd735",
+      "size": 2883
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t04__collision_rejection__mission_seg_20260809-2230_N1_1.json",
+      "sha256": "b0998738afe6b7f2da0822c71865145c4288418a822bd1d8bc30afe81e9cc550",
+      "size": 57704
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t08__collision_rejection__mission_seg_20260809-2303_N1_1.json",
+      "sha256": "dfe4e7ba91e9d48f778984fa5deb959e9defbd74e06e64c41bbcf601932d3830",
+      "size": 69635
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t12__collision_rejection__mission_seg_20260810-0018_N1_1.json",
+      "sha256": "b6b923a6d37a71331142098ee13d9cf057ff1f32b25abedfe720db35c33f46fc",
+      "size": 86724
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\euclidean\\benchmark_summary.jsonl",
+      "sha256": "05c2b71665402ccbdc53e98716ac20a6ee959f3fe625d5832e2cea79471b5ac0",
+      "size": 2718
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t04__euclidean__mission_seg_20260809-2230_N1_1.json",
+      "sha256": "e4f185e951ef25fba9e30dcfc26c918c96f09950b584905ed3df6a414328a32d",
+      "size": 58720
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t08__euclidean__mission_seg_20260809-2303_N1_1.json",
+      "sha256": "de6d5828ac9490bd695e110f669c75065bdfbdb7dfa100838950926ceaa2fd47",
+      "size": 74208
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t12__euclidean__mission_seg_20260810-0018_N1_1.json",
+      "sha256": "0985d4d7de0dd6ceac902052bfe67ec7372779275654a5e105139d6bfd59d9c3",
+      "size": 96725
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\grid_astar\\benchmark_summary.jsonl",
+      "sha256": "659db4c8220722422f7459c254fd960f393af6e976b5c3988caecdc3814c0810",
+      "size": 2749
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t04__grid_astar__mission_seg_20260809-2238_N1_1.json",
+      "sha256": "ed3410caeba0ca1fd514076a6c3ca7ea06eb915dc6f72501b58e9f1925daa97a",
+      "size": 183526
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t08__grid_astar__mission_seg_20260809-2324_N1_1.json",
+      "sha256": "3a417ba83084211ceaf8e313ddd1bc997d371b620c1a5a69807634f73e0c969c",
+      "size": 422334
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260810-0102_N1_1.json",
+      "sha256": "9093f89865792d9d9f99d02ecba82118a8e9362d721550a2369bfe2090b58917",
+      "size": 799178
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\proposed\\benchmark_summary.jsonl",
+      "sha256": "2ba4a8933eca94b88e457f935462e49f0fb9f54c20fffc50671abbc840796864",
+      "size": 2696
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t04__proposed__mission_seg_20260809-2229_N1_1.json",
+      "sha256": "0d3b623e4b197e64d943cd4f4a7923bb37653ef30a2b72c4794899a152aa195b",
+      "size": 116760
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t08__proposed__mission_seg_20260809-2302_N1_1.json",
+      "sha256": "d92e8f52579f800969640246c8b3743eff64e5d2937a071caf6254191f18cf19",
+      "size": 165205
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260810-0017_N1_1.json",
+      "sha256": "882e0bda6474adced2ea346a68017d2322f9e952a7496721f7fd7ac2910d734c",
+      "size": 238323
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_bezier\\benchmark_summary.jsonl",
+      "sha256": "a49eb3cb2dbd4d22fa6390cb8c72281dd89488010da23a4fb08d54bca257deb8",
+      "size": 3637
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t04__tig_bezier__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "86072cd76d9f6f1b01bf6a3deb3ce0f7901df95994ffa31544a085b5772a043c",
+      "size": 89975
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t08__tig_bezier__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "35a9f789ec71004f1ec99e553e8d2adcd925f53d3a1874b5e03611bba67734f5",
+      "size": 197174
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260810-0105_N1_1.json",
+      "sha256": "eba902a20e37211071800ccdcd9ee5b34136aece98ca7f63efc1ef59d4e6fac3",
+      "size": 393881
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_raw\\benchmark_summary.jsonl",
+      "sha256": "c8754c646966d2894cbb20815938426a89674e77a15585afae16552a958770c6",
+      "size": 3600
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t04__tig_raw__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "2f40d98d3b6ea6e269c0a6c62ec9d79b019b58b34981062eec60db0ab5860108",
+      "size": 88036
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t08__tig_raw__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "450a5fca6dec46533fcb7851ab7fa5931c43bcbe3aac50aa466211b4f14575a7",
+      "size": 182019
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260810-0105_N1_1.json",
+      "sha256": "415672b0963b4e071b947bf37f0be815ea4d708b4a38b5257063f8b53bb4f6b8",
+      "size": 360098
+    },
+    {
+      "category": "benchmark_summary_jsonl",
+      "relative_path": "run_02_20260809-222140\\outputs\\visibility_graph\\benchmark_summary.jsonl",
+      "sha256": "4c8cd1e096fd9e148e1a44d803c03ab47e1e6817f4114e2cd206d31f21829d0c",
+      "size": 2770
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t04__visibility_graph__mission_seg_20260809-2237_N1_1.json",
+      "sha256": "303f464feb70d7796200ce5d8e9ab1d9e68047a4a11ff3dff2ef16e51feb0f43",
+      "size": 153707
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t08__visibility_graph__mission_seg_20260809-2323_N1_1.json",
+      "sha256": "4258b92db0f6118264005ad76a307c0db4860134356804d4b9144d58eea98edc",
+      "size": 213998
+    },
+    {
+      "category": "mission_output",
+      "relative_path": "run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260810-0101_N1_1.json",
+      "sha256": "bda0733a47a618cd75dcebb09a3a53b7235650cbdf230ce51a8a74695d1222f4",
+      "size": 305300
+    },
+    {
+      "category": "tabular_result_or_analysis",
+      "relative_path": "run_02_20260809-222140\\results\\composite_adversarial_run_02_20260809-222140.csv",
+      "sha256": "3db317e98b8fd86b804142c3a8e7ef8176eddcb6309423a1bf2c775598375645",
+      "size": 17496
+    },
+    {
+      "category": "structured_result_or_integrity",
+      "relative_path": "run_02_20260809-222140\\results\\composite_adversarial_run_02_20260809-222140.json",
+      "sha256": "ecb432658ebeb77cc902c5485993635f4012d3b0cd88f627765ae91b0f7227c5",
+      "size": 96464
+    }
+  ],
+  "temporary_before_manifest": "<temporary-directory>\\composite_normalization_before_20260810-015551.json"
+}

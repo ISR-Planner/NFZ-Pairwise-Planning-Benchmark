@@ -1,0 +1,52 @@
+{
+  "campaign_id": "part2_generalization_primary_20260812-194711",
+  "rows": [
+    {
+      "part1_proposed_matrix_time_sec": 0.2239389000023948,
+      "part1_proposed_position": "within Part II range",
+      "part1_ratio_position": "within Part II range",
+      "part1_vg_matrix_time_sec": 40.95156040000438,
+      "part1_vg_position": "above Part II range",
+      "part1_vg_proposed_ratio": 182.86934694939757,
+      "part2_proposed_values_sec": "0.2507547000423074;0.18069790001027286;0.20589070004643872;0.23989119997713715;0.24553840002045035",
+      "part2_ratio_max": 189.39396582945236,
+      "part2_ratio_mean": 157.8041166187143,
+      "part2_ratio_min": 143.86491955828552,
+      "part2_vg_values_sec": "36.08962809998775;34.22309189999942;29.62044899998;39.30350380000891;36.33938620000845",
+      "topology": "c_trap",
+      "topology_display": "C-Trap"
+    },
+    {
+      "part1_proposed_matrix_time_sec": 59.967958699999144,
+      "part1_proposed_position": "within Part II range",
+      "part1_ratio_position": "near Part II low end",
+      "part1_vg_matrix_time_sec": 26.252014900004724,
+      "part1_vg_position": "below Part II range",
+      "part1_vg_proposed_ratio": 0.4377673589213751,
+      "part2_proposed_values_sec": "60.347027399984654;50.67146909999428;65.47634520003339;70.66605119995074;66.9036238999688",
+      "part2_ratio_max": 0.7735181605708448,
+      "part2_ratio_mean": 0.5576820271274316,
+      "part2_ratio_min": 0.4030011504356694,
+      "part2_vg_values_sec": "36.92624200001592;26.629931000003126;50.64714210003149;33.527622399968095;26.962237400002778",
+      "topology": "sequential_staggered_blocking",
+      "topology_display": "Sequential Staggered Blocking"
+    },
+    {
+      "part1_proposed_matrix_time_sec": 24.48722719999205,
+      "part1_proposed_position": "above Part II range",
+      "part1_ratio_position": "near Part II high end",
+      "part1_vg_matrix_time_sec": 36.62124819999735,
+      "part1_vg_position": "above Part II range",
+      "part1_vg_proposed_ratio": 1.4955244994014367,
+      "part2_proposed_values_sec": "17.97579409996979;18.297066600003745;19.779253599990625;14.405557799967937;19.15830680000363",
+      "part2_ratio_max": 1.531475539257213,
+      "part2_ratio_mean": 1.2255673514688599,
+      "part2_ratio_min": 0.8365173737750307,
+      "part2_vg_values_sec": "26.60008220002055;15.305814100021962;16.964069499983452;22.06175940000685;27.2508079999825",
+      "topology": "asymmetric_corridor",
+      "topology_display": "Asymmetric Corridor"
+    }
+  ],
+  "run": "run_01_20260812-194711",
+  "schema": "nfz_part2_primary_run01_part1_comparison_v1"
+}

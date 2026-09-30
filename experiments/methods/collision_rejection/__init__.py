@@ -1,0 +1,2 @@
+"""Collision-rejection benchmark method."""
+

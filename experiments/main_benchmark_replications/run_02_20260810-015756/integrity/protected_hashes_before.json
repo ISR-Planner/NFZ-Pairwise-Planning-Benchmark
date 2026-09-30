@@ -1,0 +1,1120 @@
+{
+  "created_at_local": "2026-08-10T01:57:56",
+  "files": [
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t04.json",
+      "relative_path": null,
+      "sha256": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+      "size": 9338
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t08.json",
+      "relative_path": null,
+      "sha256": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+      "size": 9944
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t12.json",
+      "relative_path": null,
+      "sha256": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+      "size": 10554
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t04.json",
+      "relative_path": null,
+      "sha256": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+      "size": 9484
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t08.json",
+      "relative_path": null,
+      "sha256": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+      "size": 10091
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t12.json",
+      "relative_path": null,
+      "sha256": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+      "size": 10700
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t04.json",
+      "relative_path": null,
+      "sha256": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+      "size": 9341
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t08.json",
+      "relative_path": null,
+      "sha256": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+      "size": 9949
+    },
+    {
+      "category": "original_controlled_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t12.json",
+      "relative_path": null,
+      "sha256": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+      "size": 10558
+    },
+    {
+      "category": "original_composite_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t04.json",
+      "relative_path": null,
+      "sha256": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "size": 10934
+    },
+    {
+      "category": "original_composite_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t08.json",
+      "relative_path": null,
+      "sha256": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "size": 11542
+    },
+    {
+      "category": "original_composite_environment",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t12.json",
+      "relative_path": null,
+      "sha256": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "size": 12153
+    },
+    {
+      "category": "controlled_run_1_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.csv",
+      "relative_path": "results\\main_benchmark_run_20260809-160107.csv",
+      "sha256": "57ad9f8fccc73a7a5e0394e21aad008aad22e5e1e927214db6a8aeb06eed2f6c",
+      "size": 37358
+    },
+    {
+      "category": "controlled_run_1_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.json",
+      "relative_path": "results\\main_benchmark_run_20260809-160107.json",
+      "sha256": "a58ebaa1c47b736cc33aa7e066d7456c25a37d8a08fe718a3a3e8f25a62071ec",
+      "size": 213444
+    },
+    {
+      "category": "controlled_run_1_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.log",
+      "relative_path": "results\\main_benchmark_run_20260809-160107.log",
+      "sha256": "7d7c3885ba86d3024b92d7a596a4b98ceab5b909145c20109dd501b634df44ff",
+      "size": 463679
+    },
+    {
+      "category": "controlled_run_1_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_analysis.csv",
+      "relative_path": "results\\main_benchmark_run_20260809-160107_analysis.csv",
+      "sha256": "cd9ac7d0a235ecdc77740627c8787eb69a4d03101a8422271c1195ebfbd59eca",
+      "size": 5650
+    },
+    {
+      "category": "controlled_run_1_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_analysis.md",
+      "relative_path": "results\\main_benchmark_run_20260809-160107_analysis.md",
+      "sha256": "592cc8056e894f34862f808609c84190ed2f75494aab69d56d60d83ef5f9e0d5",
+      "size": 8777
+    },
+    {
+      "category": "controlled_run_1_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_rows.jsonl",
+      "relative_path": "results\\main_benchmark_run_20260809-160107_rows.jsonl",
+      "sha256": "609f31d86b44fe0e566e27885d4ab01cbd18f3e3f2d3db12b07e6675c8a2356b",
+      "size": 82558
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\analysis\\composite_adversarial_run_01_20260809-183402_analysis.csv",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\analysis\\composite_adversarial_run_01_20260809-183402_analysis.csv",
+      "sha256": "fe03097ea5d9903f2c42df3a4864183c77a8f795b06feacbc99529444d134fe4",
+      "size": 4400
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\analysis\\composite_adversarial_run_01_20260809-183402_analysis.md",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\analysis\\composite_adversarial_run_01_20260809-183402_analysis.md",
+      "sha256": "0328b56d3e9f6690e6b1dc48c838b23d9123863452030f5ea9c365dce048c0ec",
+      "size": 14557
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\integrity\\protected_hashes_after.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\integrity\\protected_hashes_after.json",
+      "sha256": "f3e92eda4e196b550ef5b2ff6b7fb32b1b5e45d0020cb0e1b92839180b9c1360",
+      "size": 80832
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\integrity\\protected_hashes_before.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\integrity\\protected_hashes_before.json",
+      "sha256": "dfc8cd6f464eb345cb32c3607ae2d7429a3a439bdcd85c4eb8d00b2b8e9e0b99",
+      "size": 33157
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\integrity\\relocation_manifest_sha256.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\integrity\\relocation_manifest_sha256.json",
+      "sha256": "b6831441a7a0b033463a4340d64b20dcbfa3430a6be593fdd0c49643443c9f21",
+      "size": 28000
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\logs\\composite_adversarial_run_01_20260809-183402.log",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\logs\\composite_adversarial_run_01_20260809-183402.log",
+      "sha256": "71e9b306a7553fff224539b7cf12c7b315da25fb0a3e71e8405a29ff2bbde68a",
+      "size": 340597
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\benchmark_summary.jsonl",
+      "sha256": "05c5b36aadf05a59747f5373104d4f304b11015bde98d633e5857d2033237308",
+      "size": 3576
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t04__appatt_bspline__mission_seg_20260809-1859_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t04__appatt_bspline__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "45f4fd11afa5ceed9fc9805f101ed53b3ef5546abf1e169733b3d2000338e453",
+      "size": 86497
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t08__appatt_bspline__mission_seg_20260809-1950_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t08__appatt_bspline__mission_seg_20260809-1950_N1_1.json",
+      "sha256": "ff16b7756d86c4c81a84951aadba07dd53678d49ecbe567e5345a462d49c101a",
+      "size": 178875
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260809-2130_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260809-2130_N1_1.json",
+      "sha256": "8d4edbfedc853a922e286f5c34486a106bd6bc06576c5c90e674654991ee7bda",
+      "size": 323262
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\benchmark_summary.jsonl",
+      "sha256": "0c679f43ed52e62c82da0ad86544ac4aefd0043e59b993ec10099385ae4005b1",
+      "size": 3408
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t04__appatt_raw__mission_seg_20260809-1859_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t04__appatt_raw__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "927ab9630cd6a75af5535cf868c01d7a02f4493bb4f2697b093e6c2f0270dbe6",
+      "size": 67420
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t08__appatt_raw__mission_seg_20260809-1949_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t08__appatt_raw__mission_seg_20260809-1949_N1_1.json",
+      "sha256": "e9c5277569785d424ddda61649e8c971d1b2c55b3f76b7006a930b1c510182cc",
+      "size": 105009
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260809-2130_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260809-2130_N1_1.json",
+      "sha256": "aa7fedcaf5e43f417e774669ba4c88016ca8f9f11aab64f27acaad825364d6b2",
+      "size": 161414
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\benchmark_summary.jsonl",
+      "sha256": "49458989f926cc6672645e153745bb421147c985992c317fcae3b5f5517d72ba",
+      "size": 2620
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t04__collision_rejection__mission_seg_20260809-1843_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t04__collision_rejection__mission_seg_20260809-1843_N1_1.json",
+      "sha256": "b0998738afe6b7f2da0822c71865145c4288418a822bd1d8bc30afe81e9cc550",
+      "size": 57704
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t08__collision_rejection__mission_seg_20260809-1927_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t08__collision_rejection__mission_seg_20260809-1927_N1_1.json",
+      "sha256": "dfe4e7ba91e9d48f778984fa5deb959e9defbd74e06e64c41bbcf601932d3830",
+      "size": 69635
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t12__collision_rejection__mission_seg_20260809-2043_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t12__collision_rejection__mission_seg_20260809-2043_N1_1.json",
+      "sha256": "b6b923a6d37a71331142098ee13d9cf057ff1f32b25abedfe720db35c33f46fc",
+      "size": 86724
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\benchmark_summary.jsonl",
+      "sha256": "c2e14b6d55a18859d13b33090e4585dd57b04fef45c6301d1ebe8b292bbeda34",
+      "size": 2458
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t04__euclidean__mission_seg_20260809-1843_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t04__euclidean__mission_seg_20260809-1843_N1_1.json",
+      "sha256": "e4f185e951ef25fba9e30dcfc26c918c96f09950b584905ed3df6a414328a32d",
+      "size": 58720
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t08__euclidean__mission_seg_20260809-1926_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t08__euclidean__mission_seg_20260809-1926_N1_1.json",
+      "sha256": "de6d5828ac9490bd695e110f669c75065bdfbdb7dfa100838950926ceaa2fd47",
+      "size": 74208
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t12__euclidean__mission_seg_20260809-2043_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\euclidean\\missions\\composite_adversarial_001_t12__euclidean__mission_seg_20260809-2043_N1_1.json",
+      "sha256": "0985d4d7de0dd6ceac902052bfe67ec7372779275654a5e105139d6bfd59d9c3",
+      "size": 96725
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\benchmark_summary.jsonl",
+      "sha256": "ade8a29b6b5c01c643b2314a7504ceebd30a9782b28fb4261457cb19ba19e474",
+      "size": 2487
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t04__grid_astar__mission_seg_20260809-1857_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t04__grid_astar__mission_seg_20260809-1857_N1_1.json",
+      "sha256": "ed3410caeba0ca1fd514076a6c3ca7ea06eb915dc6f72501b58e9f1925daa97a",
+      "size": 183526
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t08__grid_astar__mission_seg_20260809-1948_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t08__grid_astar__mission_seg_20260809-1948_N1_1.json",
+      "sha256": "3a417ba83084211ceaf8e313ddd1bc997d371b620c1a5a69807634f73e0c969c",
+      "size": 422334
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260809-2128_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260809-2128_N1_1.json",
+      "sha256": "9093f89865792d9d9f99d02ecba82118a8e9362d721550a2369bfe2090b58917",
+      "size": 799178
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\benchmark_summary.jsonl",
+      "sha256": "23b5be9769d6469e759a2d728543717af346bee46b6c44e15465c6fdce1917f8",
+      "size": 2439
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t04__proposed__mission_seg_20260809-1842_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t04__proposed__mission_seg_20260809-1842_N1_1.json",
+      "sha256": "0d3b623e4b197e64d943cd4f4a7923bb37653ef30a2b72c4794899a152aa195b",
+      "size": 116760
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t08__proposed__mission_seg_20260809-1925_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t08__proposed__mission_seg_20260809-1925_N1_1.json",
+      "sha256": "d92e8f52579f800969640246c8b3743eff64e5d2937a071caf6254191f18cf19",
+      "size": 165205
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260809-2041_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260809-2041_N1_1.json",
+      "sha256": "882e0bda6474adced2ea346a68017d2322f9e952a7496721f7fd7ac2910d734c",
+      "size": 238323
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\benchmark_summary.jsonl",
+      "sha256": "333a899b557500df89a3bae81ccac491ff0b275ccc02594c284b81655bd1ee22",
+      "size": 3377
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t04__tig_bezier__mission_seg_20260809-1859_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t04__tig_bezier__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "86072cd76d9f6f1b01bf6a3deb3ce0f7901df95994ffa31544a085b5772a043c",
+      "size": 89975
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t08__tig_bezier__mission_seg_20260809-1950_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t08__tig_bezier__mission_seg_20260809-1950_N1_1.json",
+      "sha256": "35a9f789ec71004f1ec99e553e8d2adcd925f53d3a1874b5e03611bba67734f5",
+      "size": 197174
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260809-2132_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260809-2132_N1_1.json",
+      "sha256": "eba902a20e37211071800ccdcd9ee5b34136aece98ca7f63efc1ef59d4e6fac3",
+      "size": 393881
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\benchmark_summary.jsonl",
+      "sha256": "bdf2061970cb5adf649e4cccefd1b36a782586aa62136dd5604574f4205d6f8e",
+      "size": 3341
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t04__tig_raw__mission_seg_20260809-1859_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t04__tig_raw__mission_seg_20260809-1859_N1_1.json",
+      "sha256": "2f40d98d3b6ea6e269c0a6c62ec9d79b019b58b34981062eec60db0ab5860108",
+      "size": 88036
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t08__tig_raw__mission_seg_20260809-1950_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t08__tig_raw__mission_seg_20260809-1950_N1_1.json",
+      "sha256": "450a5fca6dec46533fcb7851ab7fa5931c43bcbe3aac50aa466211b4f14575a7",
+      "size": 182019
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260809-2131_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260809-2131_N1_1.json",
+      "sha256": "415672b0963b4e071b947bf37f0be815ea4d708b4a38b5257063f8b53bb4f6b8",
+      "size": 360098
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\benchmark_summary.jsonl",
+      "sha256": "741b01492301046e55155de0af92abf34f23dd418c0a2f5d3092fff5a738dee6",
+      "size": 2508
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t04__visibility_graph__mission_seg_20260809-1856_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t04__visibility_graph__mission_seg_20260809-1856_N1_1.json",
+      "sha256": "303f464feb70d7796200ce5d8e9ab1d9e68047a4a11ff3dff2ef16e51feb0f43",
+      "size": 153707
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t08__visibility_graph__mission_seg_20260809-1947_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t08__visibility_graph__mission_seg_20260809-1947_N1_1.json",
+      "sha256": "4258b92db0f6118264005ad76a307c0db4860134356804d4b9144d58eea98edc",
+      "size": 213998
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260809-2127_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260809-2127_N1_1.json",
+      "sha256": "bda0733a47a618cd75dcebb09a3a53b7235650cbdf230ce51a8a74695d1222f4",
+      "size": 305300
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\README.md",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\README.md",
+      "sha256": "edbb1fed06136c0b138d8d2101db746ad4a5d1256fd1d749b1f858d03628bd37",
+      "size": 424
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\results\\composite_adversarial_run_01_20260809-183402.csv",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\results\\composite_adversarial_run_01_20260809-183402.csv",
+      "sha256": "8383fcc5018fd245290bcd359959152dd971dc4ffc87964937e26f5195f15417",
+      "size": 17050
+    },
+    {
+      "category": "composite_run_01_20260809-183402_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_01_20260809-183402\\results\\composite_adversarial_run_01_20260809-183402.json",
+      "relative_path": "composite_adversarial_replications\\run_01_20260809-183402\\results\\composite_adversarial_run_01_20260809-183402.json",
+      "sha256": "33b914747edf804a864187583d0bbdc93293e04fcb95b9407d55709d9be989aa",
+      "size": 68798
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_analysis.csv",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_analysis.csv",
+      "sha256": "9018aaea92b0aa2200d8438027be11ca346266057f7eea08c9dde937b82b39d6",
+      "size": 6951
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_analysis.md",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_analysis.md",
+      "sha256": "37784fa4ee03b46f9bd9d55c9b902c3ffd321042ea38d1d4bf7193ffa8fdd579",
+      "size": 7257
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_final_report.md",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_final_report.md",
+      "sha256": "cfc4f72b323d45a4835f319d60daff692afa6dc670c6e1b558995f5bb75a3623",
+      "size": 3255
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_run1_comparison.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\analysis\\composite_adversarial_run_02_20260809-222140_run1_comparison.json",
+      "sha256": "7860ff91832d85d26788454433c476f59fba1ac0b4267003998375552a833e58",
+      "size": 50991
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t04.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t04.json",
+      "sha256": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "size": 10934
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t08.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t08.json",
+      "sha256": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "size": 11542
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+      "sha256": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "size": 12153
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\integrity\\input_hash_verification.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\integrity\\input_hash_verification.json",
+      "sha256": "ecb7e5cc0c5a1c97ebaf3365c1ce7528bbb10648efff55934f279ecaec1db47f",
+      "size": 2465
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\integrity\\protected_hashes_after.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\integrity\\protected_hashes_after.json",
+      "sha256": "77d770192927e6521827b4bd7adcdc0ea182f925c06f12b5593efca74305bc8f",
+      "size": 114196
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\integrity\\protected_hashes_before.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\integrity\\protected_hashes_before.json",
+      "sha256": "d67cea4e19a2b1871ca48593046b68592bb37a3921b4295b65179c950a89f65c",
+      "size": 48160
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\logs\\composite_adversarial_run_02_20260809-222140.log",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\logs\\composite_adversarial_run_02_20260809-222140.log",
+      "sha256": "6409fbad593a7065757b1cc0083650535fcd5f926467ec9384b1bc054a0264a8",
+      "size": 169524
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\logs\\run_replication_driver.py",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\logs\\run_replication_driver.py",
+      "sha256": "e30ac6ad727cc5ba61f27f2d942c0619091a83948af2d5c00ea1c37ee6eb4724",
+      "size": 3404
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\logs\\run_status.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\logs\\run_status.json",
+      "sha256": "6d6e746181a0d15c7b50547ede7db137b55a4396bac46a142ff232e48aaa4ee2",
+      "size": 138
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\benchmark_summary.jsonl",
+      "sha256": "81aebc5728573c628a0b2ebe65b25bd4c1fd29d4ddd55e9efe6b5f040abfc551",
+      "size": 3839
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t04__appatt_bspline__mission_seg_20260809-2239_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t04__appatt_bspline__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "45f4fd11afa5ceed9fc9805f101ed53b3ef5546abf1e169733b3d2000338e453",
+      "size": 86497
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t08__appatt_bspline__mission_seg_20260809-2326_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t08__appatt_bspline__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "ff16b7756d86c4c81a84951aadba07dd53678d49ecbe567e5345a462d49c101a",
+      "size": 178875
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260810-0104_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260810-0104_N1_1.json",
+      "sha256": "8d4edbfedc853a922e286f5c34486a106bd6bc06576c5c90e674654991ee7bda",
+      "size": 323262
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\benchmark_summary.jsonl",
+      "sha256": "ce9b92d2ccdcce67ea1d7f0824a26c8c899c6730eea78c75ab9abf0ad54ac31a",
+      "size": 3668
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t04__appatt_raw__mission_seg_20260809-2239_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t04__appatt_raw__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "927ab9630cd6a75af5535cf868c01d7a02f4493bb4f2697b093e6c2f0270dbe6",
+      "size": 67420
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t08__appatt_raw__mission_seg_20260809-2326_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t08__appatt_raw__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "e9c5277569785d424ddda61649e8c971d1b2c55b3f76b7006a930b1c510182cc",
+      "size": 105009
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260810-0104_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260810-0104_N1_1.json",
+      "sha256": "aa7fedcaf5e43f417e774669ba4c88016ca8f9f11aab64f27acaad825364d6b2",
+      "size": 161414
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\benchmark_summary.jsonl",
+      "sha256": "663186f42e092bd4a1f3b494af5c754f4c2ecf5e2f616a28d93869b5693bd735",
+      "size": 2883
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t04__collision_rejection__mission_seg_20260809-2230_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t04__collision_rejection__mission_seg_20260809-2230_N1_1.json",
+      "sha256": "b0998738afe6b7f2da0822c71865145c4288418a822bd1d8bc30afe81e9cc550",
+      "size": 57704
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t08__collision_rejection__mission_seg_20260809-2303_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t08__collision_rejection__mission_seg_20260809-2303_N1_1.json",
+      "sha256": "dfe4e7ba91e9d48f778984fa5deb959e9defbd74e06e64c41bbcf601932d3830",
+      "size": 69635
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t12__collision_rejection__mission_seg_20260810-0018_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\collision_rejection\\missions\\composite_adversarial_001_t12__collision_rejection__mission_seg_20260810-0018_N1_1.json",
+      "sha256": "b6b923a6d37a71331142098ee13d9cf057ff1f32b25abedfe720db35c33f46fc",
+      "size": 86724
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\benchmark_summary.jsonl",
+      "sha256": "05c2b71665402ccbdc53e98716ac20a6ee959f3fe625d5832e2cea79471b5ac0",
+      "size": 2718
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t04__euclidean__mission_seg_20260809-2230_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t04__euclidean__mission_seg_20260809-2230_N1_1.json",
+      "sha256": "e4f185e951ef25fba9e30dcfc26c918c96f09950b584905ed3df6a414328a32d",
+      "size": 58720
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t08__euclidean__mission_seg_20260809-2303_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t08__euclidean__mission_seg_20260809-2303_N1_1.json",
+      "sha256": "de6d5828ac9490bd695e110f669c75065bdfbdb7dfa100838950926ceaa2fd47",
+      "size": 74208
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t12__euclidean__mission_seg_20260810-0018_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\euclidean\\missions\\composite_adversarial_001_t12__euclidean__mission_seg_20260810-0018_N1_1.json",
+      "sha256": "0985d4d7de0dd6ceac902052bfe67ec7372779275654a5e105139d6bfd59d9c3",
+      "size": 96725
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\benchmark_summary.jsonl",
+      "sha256": "659db4c8220722422f7459c254fd960f393af6e976b5c3988caecdc3814c0810",
+      "size": 2749
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t04__grid_astar__mission_seg_20260809-2238_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t04__grid_astar__mission_seg_20260809-2238_N1_1.json",
+      "sha256": "ed3410caeba0ca1fd514076a6c3ca7ea06eb915dc6f72501b58e9f1925daa97a",
+      "size": 183526
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t08__grid_astar__mission_seg_20260809-2324_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t08__grid_astar__mission_seg_20260809-2324_N1_1.json",
+      "sha256": "3a417ba83084211ceaf8e313ddd1bc997d371b620c1a5a69807634f73e0c969c",
+      "size": 422334
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260810-0102_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260810-0102_N1_1.json",
+      "sha256": "9093f89865792d9d9f99d02ecba82118a8e9362d721550a2369bfe2090b58917",
+      "size": 799178
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\benchmark_summary.jsonl",
+      "sha256": "2ba4a8933eca94b88e457f935462e49f0fb9f54c20fffc50671abbc840796864",
+      "size": 2696
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t04__proposed__mission_seg_20260809-2229_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t04__proposed__mission_seg_20260809-2229_N1_1.json",
+      "sha256": "0d3b623e4b197e64d943cd4f4a7923bb37653ef30a2b72c4794899a152aa195b",
+      "size": 116760
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t08__proposed__mission_seg_20260809-2302_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t08__proposed__mission_seg_20260809-2302_N1_1.json",
+      "sha256": "d92e8f52579f800969640246c8b3743eff64e5d2937a071caf6254191f18cf19",
+      "size": 165205
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260810-0017_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260810-0017_N1_1.json",
+      "sha256": "882e0bda6474adced2ea346a68017d2322f9e952a7496721f7fd7ac2910d734c",
+      "size": 238323
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\benchmark_summary.jsonl",
+      "sha256": "a49eb3cb2dbd4d22fa6390cb8c72281dd89488010da23a4fb08d54bca257deb8",
+      "size": 3637
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t04__tig_bezier__mission_seg_20260809-2239_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t04__tig_bezier__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "86072cd76d9f6f1b01bf6a3deb3ce0f7901df95994ffa31544a085b5772a043c",
+      "size": 89975
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t08__tig_bezier__mission_seg_20260809-2326_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t08__tig_bezier__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "35a9f789ec71004f1ec99e553e8d2adcd925f53d3a1874b5e03611bba67734f5",
+      "size": 197174
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260810-0105_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260810-0105_N1_1.json",
+      "sha256": "eba902a20e37211071800ccdcd9ee5b34136aece98ca7f63efc1ef59d4e6fac3",
+      "size": 393881
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\benchmark_summary.jsonl",
+      "sha256": "c8754c646966d2894cbb20815938426a89674e77a15585afae16552a958770c6",
+      "size": 3600
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t04__tig_raw__mission_seg_20260809-2239_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t04__tig_raw__mission_seg_20260809-2239_N1_1.json",
+      "sha256": "2f40d98d3b6ea6e269c0a6c62ec9d79b019b58b34981062eec60db0ab5860108",
+      "size": 88036
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t08__tig_raw__mission_seg_20260809-2326_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t08__tig_raw__mission_seg_20260809-2326_N1_1.json",
+      "sha256": "450a5fca6dec46533fcb7851ab7fa5931c43bcbe3aac50aa466211b4f14575a7",
+      "size": 182019
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260810-0105_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260810-0105_N1_1.json",
+      "sha256": "415672b0963b4e071b947bf37f0be815ea4d708b4a38b5257063f8b53bb4f6b8",
+      "size": 360098
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\benchmark_summary.jsonl",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\benchmark_summary.jsonl",
+      "sha256": "4c8cd1e096fd9e148e1a44d803c03ab47e1e6817f4114e2cd206d31f21829d0c",
+      "size": 2770
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t04__visibility_graph__mission_seg_20260809-2237_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t04__visibility_graph__mission_seg_20260809-2237_N1_1.json",
+      "sha256": "303f464feb70d7796200ce5d8e9ab1d9e68047a4a11ff3dff2ef16e51feb0f43",
+      "size": 153707
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t08__visibility_graph__mission_seg_20260809-2323_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t08__visibility_graph__mission_seg_20260809-2323_N1_1.json",
+      "sha256": "4258b92db0f6118264005ad76a307c0db4860134356804d4b9144d58eea98edc",
+      "size": 213998
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260810-0101_N1_1.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260810-0101_N1_1.json",
+      "sha256": "bda0733a47a618cd75dcebb09a3a53b7235650cbdf230ce51a8a74695d1222f4",
+      "size": 305300
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\results\\composite_adversarial_run_02_20260809-222140.csv",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\results\\composite_adversarial_run_02_20260809-222140.csv",
+      "sha256": "3db317e98b8fd86b804142c3a8e7ef8176eddcb6309423a1bf2c775598375645",
+      "size": 17496
+    },
+    {
+      "category": "composite_run_02_20260809-222140_artifact",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\results\\composite_adversarial_run_02_20260809-222140.json",
+      "relative_path": "composite_adversarial_replications\\run_02_20260809-222140\\results\\composite_adversarial_run_02_20260809-222140.json",
+      "sha256": "ecb432658ebeb77cc902c5485993635f4012d3b0cd88f627765ae91b0f7227c5",
+      "size": 96464
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\proposed\\method.py",
+      "relative_path": "methods\\proposed\\method.py",
+      "sha256": "9d9d452d3e07bd1146e76b86f0477c373b44a1636ffa24751842d3cb92ec5aa0",
+      "size": 1281
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\euclidean\\method.py",
+      "relative_path": "methods\\euclidean\\method.py",
+      "sha256": "3cca1981ec83adaa4bb5ed66c329de2253948f5e20217df816aebd4d96b48d6b",
+      "size": 3858
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\collision_rejection\\method.py",
+      "relative_path": "methods\\collision_rejection\\method.py",
+      "sha256": "078194908c7dacf6d928dc7655aab9cb5125e0df4164aaa58f9481ed0170b10c",
+      "size": 7655
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\visibility_graph\\method.py",
+      "relative_path": "methods\\visibility_graph\\method.py",
+      "sha256": "cec98d500657b6e9562ab70df9893a97af1f713683ceffc20ac176f08b677fa1",
+      "size": 16428
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\grid_astar\\method.py",
+      "relative_path": "methods\\grid_astar\\method.py",
+      "sha256": "0c3d4d6bd43247eb080e0259a576a7a0af180310507feef2333168bb96da1112",
+      "size": 16739
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_raw\\method.py",
+      "relative_path": "methods\\appatt_raw\\method.py",
+      "sha256": "e710993adff47d7e5218e0cb128044a53de5a32a6e0f4c08c9071e9f7595e129",
+      "size": 1369
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_bspline\\method.py",
+      "relative_path": "methods\\appatt_bspline\\method.py",
+      "sha256": "d3493a64519a8ae1fb09de8a706334857ccb0082cb9fa65c50c68fd7e7ac16e8",
+      "size": 15966
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_raw\\method.py",
+      "relative_path": "methods\\tig_raw\\method.py",
+      "sha256": "e700ad2dabfd11c7e36ed8754bb2810fb19c589985ba5b987084206a6806aa2a",
+      "size": 39711
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_bezier\\method.py",
+      "relative_path": "methods\\tig_bezier\\method.py",
+      "sha256": "c73bd3d7195469cd0aa6b19062f8d84087447e71e876185411abeeaae83eb1c2",
+      "size": 562
+    },
+    {
+      "category": "method_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt\\method.py",
+      "relative_path": "methods\\appatt\\method.py",
+      "sha256": "484b99b89d2ffb8a77bb2e1e5620ce5e664bd903f3b3fcd2d31340bedddc1465",
+      "size": 20970
+    },
+    {
+      "category": "benchmark_harness_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\run_benchmark.py",
+      "relative_path": "run_benchmark.py",
+      "sha256": "83aefd42336736bfa7a1bc8f5429ad389e13412b145694831d274a7f30ff4a8e",
+      "size": 2887
+    },
+    {
+      "category": "benchmark_harness_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\__init__.py",
+      "relative_path": "benchmark\\__init__.py",
+      "sha256": "93d83979760fc7b3cbc07deb5a6a322cc2b33f1fab09687b536d142af6e3ee22",
+      "size": 56
+    },
+    {
+      "category": "benchmark_harness_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\matrix_builders.py",
+      "relative_path": "benchmark\\matrix_builders.py",
+      "sha256": "2e921829a5be3b310c584e71a5a91a72eeb011863ed7e8b6442892f68035e778",
+      "size": 3330
+    },
+    {
+      "category": "benchmark_harness_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\native_io.py",
+      "relative_path": "benchmark\\native_io.py",
+      "sha256": "16b24b1130cc6a83df318a0986d7223cebe91e5cdf9cb85cb820182de0a631d0",
+      "size": 3284
+    },
+    {
+      "category": "benchmark_harness_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\planner_bridge.py",
+      "relative_path": "benchmark\\planner_bridge.py",
+      "sha256": "81b2f927e1fb9eb3ba64dea838685223b93eac748f073ea41e9914bd2f088730",
+      "size": 3046
+    },
+    {
+      "category": "benchmark_harness_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\runner.py",
+      "relative_path": "benchmark\\runner.py",
+      "sha256": "0b3f5e39b98bd8cb89b7c12104626e261a911d8241aa09da660c2d1af01c4763",
+      "size": 10066
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\__init__.py",
+      "relative_path": null,
+      "sha256": "38d0330322bba5c1009b540c6890749696c0bd87085b87f0f6da93d9e0bc2179",
+      "size": 258
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\airport_rules.py",
+      "relative_path": null,
+      "sha256": "6a210c426dc54167aa69f2d69f5949b00db3294b18b8f3a0281ba174f368c4d0",
+      "size": 1321
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\animation_frame.py",
+      "relative_path": null,
+      "sha256": "df449500979e540ca268f78189797b8c00f248131dc19b3a9b4c48ecdc773f29",
+      "size": 11683
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\constraints.py",
+      "relative_path": null,
+      "sha256": "94d99cfa532855e507308d33f8148420f900e854b2af35aa06a02d2c11649188",
+      "size": 3501
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\delivery_solver.py",
+      "relative_path": null,
+      "sha256": "ab30ea2f9b0fba48d1d4a72fd63ca4ea0925f767d0eae40a14215269f605a346",
+      "size": 5017
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\matrix_cache.py",
+      "relative_path": null,
+      "sha256": "2fbe2703e791d4c69734d48b9412748c7052be4f44c026dc5e4511e76777c427",
+      "size": 3916
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\mission_parser.py",
+      "relative_path": null,
+      "sha256": "13d24321a6b0b60b3c84c5784a8dfeb94552c95b935c3ade7755584acae87170",
+      "size": 3300
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_distance_calculator.py",
+      "relative_path": null,
+      "sha256": "376497794e3853711d1d496ac103916f471057f15cf1ea064c5feb28875b641b",
+      "size": 2536
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_trajectory_planner.py",
+      "relative_path": null,
+      "sha256": "fc748ae097e778afd323fcd0c2cf871f57ef6003c6bfc528c15359bdd953a51c",
+      "size": 3876
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\opportunistic_refuel.py",
+      "relative_path": null,
+      "sha256": "b82c6337c00f113fe677480c332414e9f69ef34fec02b177ff8af4d2418dcf7c",
+      "size": 28371
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\orienteering_solver.py",
+      "relative_path": null,
+      "sha256": "1a97196b3adbd0f3167cc4065ad7797bc0a043e93295dc8a5d13c58d36af9572",
+      "size": 3146
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\pipeline_runner.py",
+      "relative_path": null,
+      "sha256": "d1135c2e2537bf9a74237ef4287829553dea605f532f6c95a32978e77997ad21",
+      "size": 8212
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\post_optimizer.py",
+      "relative_path": null,
+      "sha256": "8366942825cff0be7bd5ba095fb71911194c15c00822fd92ab3fa67ae476349f",
+      "size": 1965
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\projection.py",
+      "relative_path": null,
+      "sha256": "2f252a0608ad1db8be8b7cef99340d6f0ae5df67e632779b21d80b7ff6ffc8b8",
+      "size": 5989
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_expansion.py",
+      "relative_path": null,
+      "sha256": "a26c4e7da68f61501c003729ca2edb9ea31b9d2edd68769b7d3e0c13823c2ba0",
+      "size": 14625
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_solver.py",
+      "relative_path": null,
+      "sha256": "bc26d58850285e04cd8997c755a7aa5029d1fca343c93c512b1fde641514a74e",
+      "size": 41487
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\routing_context.py",
+      "relative_path": null,
+      "sha256": "09af9566e567c051b1af2b35b2fbfe0022013e902647da2501fe33d0cf4a1aba",
+      "size": 2527
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_distance_matrix.py",
+      "relative_path": null,
+      "sha256": "cd5736ac37b946fa30d4303cdbc5caa4339f3ee380cbbf0972993973d06c1f23",
+      "size": 27027
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_navigation.py",
+      "relative_path": null,
+      "sha256": "0000d63605b78c07d418f6d858c42b826274bcc63753a4736769d8d2d83867cb",
+      "size": 668
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_config.py",
+      "relative_path": null,
+      "sha256": "aa7eaf54c256c112b4cc80f834915737692df633d49f1b9fc14b7ec310567ea0",
+      "size": 866
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_mission.py",
+      "relative_path": null,
+      "sha256": "211b69751caca5e6f94590ecd0d282a8c8906826cb3582c1ae2218a76cf4239b",
+      "size": 110162
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_one_leg.py",
+      "relative_path": null,
+      "sha256": "6f4152aec0187aca0f7e80cc1a30be825fab448ebb7fea27029ae660b437b164",
+      "size": 7073
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_bridge.py",
+      "relative_path": null,
+      "sha256": "ecd02f52ba2199beacfb66f2f7ab09d51575391985ad2095ca57a8049d18d52c",
+      "size": 2301
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_interface.py",
+      "relative_path": null,
+      "sha256": "eff5f47722973b167060c77a41c4c934fece1364c61c8452cfc49d0418a96dc3",
+      "size": 2403
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\target_allocator.py",
+      "relative_path": null,
+      "sha256": "b65f612f921e439910712b4dbb9f51ec27d05e37766dae689ec31a817daf3798",
+      "size": 41214
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner.py",
+      "relative_path": null,
+      "sha256": "9514a22391c961707a18fb77bf93419b354e58690659d0079128fdcc9a9fff54",
+      "size": 20358
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner_poly.py",
+      "relative_path": null,
+      "sha256": "9930f3a042ec8af13218c5d622218ef27a00fcc3d3f5893211775c1b14d86c88",
+      "size": 7299
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_drones.py",
+      "relative_path": null,
+      "sha256": "327d2dfdc0b3e76647ba6c3945d71936178a328fdab4dcd7624fe58efa4572a7",
+      "size": 22156
+    },
+    {
+      "category": "mission_planner_solver_source",
+      "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_sorties.py",
+      "relative_path": null,
+      "sha256": "716dd263a01ad523819c753d256f9592876395a888b8d745197a2b543a94b534",
+      "size": 9789
+    }
+  ],
+  "protected_file_count": 159,
+  "run_directory": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756"
+}

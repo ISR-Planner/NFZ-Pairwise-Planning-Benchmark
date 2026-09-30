@@ -1,0 +1,1087 @@
+{
+  "analysis_md": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_analysis_20260809-165543.md",
+  "diagnostic_environments": [
+    {
+      "filename": "c_trap_001_t12.json",
+      "target_count": 12,
+      "topology": "c_trap"
+    },
+    {
+      "filename": "sequential_staggered_blocking_001_t04.json",
+      "target_count": 4,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "filename": "sequential_staggered_blocking_001_t08.json",
+      "target_count": 8,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "filename": "sequential_staggered_blocking_001_t12.json",
+      "target_count": 12,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "filename": "asymmetric_corridor_001_t12.json",
+      "target_count": 12,
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "environment_summaries": [
+    {
+      "correlations": {
+        "blocked_checks": {
+          "pearson": -0.8777757585043787,
+          "spearman": -0.6297420484276303
+        },
+        "blocking_events": {
+          "pearson": 0.9743665210456044,
+          "spearman": 0.6263409806433139
+        },
+        "branch_expansions": {
+          "pearson": 0.9889880021740246,
+          "spearman": 0.6301533775620144
+        },
+        "collision_tests": {
+          "pearson": 0.9691577015525016,
+          "spearman": 0.6289188265974901
+        },
+        "fallback_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "max_recursion_depth": {
+          "pearson": null,
+          "spearman": null
+        },
+        "reblocking_events": {
+          "pearson": 0.9741210728690828,
+          "spearman": 0.6263409806433139
+        },
+        "recursive_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "tangent_calls": {
+          "pearson": 0.9889880021740246,
+          "spearman": 0.6301533775620144
+        }
+      },
+      "directed_pair_count": 156,
+      "environment": "c_trap_001_t12.json",
+      "max_pair_time_seconds": 0.012427200003003236,
+      "maximum_observed_recursion_depth": 0,
+      "mean_pair_time_seconds": 0.0014656750004528125,
+      "median_pair_time_seconds": 2.1000014385208488e-06,
+      "min_pair_time_seconds": 1.7999991541728377e-06,
+      "node_count": 13,
+      "pairs_for_50pct_pair_time": 11,
+      "pairs_for_80pct_pair_time": 19,
+      "pairs_for_90pct_pair_time": 22,
+      "slowest_10_directed_pairs": [
+        {
+          "blocking_events": 88,
+          "branch_expansions": 4,
+          "destination": "T1",
+          "fallback_calls": 0,
+          "method": "CW via left tangent, exit at idx 46",
+          "pair_time_seconds": 0.012427200003003236,
+          "reblocking_events": 87,
+          "share_of_pair_time": 0.05435143429217184,
+          "source": "A1",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 88,
+          "branch_expansions": 4,
+          "destination": "T3",
+          "fallback_calls": 0,
+          "method": "CW via left tangent, exit at idx 50",
+          "pair_time_seconds": 0.01163760000054026,
+          "reblocking_events": 87,
+          "share_of_pair_time": 0.050898050372978954,
+          "source": "A1",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 80,
+          "branch_expansions": 4,
+          "destination": "T7",
+          "fallback_calls": 0,
+          "method": "CW via left tangent, exit at idx 48",
+          "pair_time_seconds": 0.011424399999668822,
+          "reblocking_events": 79,
+          "share_of_pair_time": 0.04996560172520193,
+          "source": "A1",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 82,
+          "branch_expansions": 4,
+          "destination": "T5",
+          "fallback_calls": 0,
+          "method": "CW via left tangent, exit at idx 50",
+          "pair_time_seconds": 0.011308000001008622,
+          "reblocking_events": 81,
+          "share_of_pair_time": 0.04945651626127926,
+          "source": "A1",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 106,
+          "branch_expansions": 4,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "CCW via right tangent, exit at idx 60",
+          "pair_time_seconds": 0.010875500003749039,
+          "reblocking_events": 105,
+          "share_of_pair_time": 0.04756494010762133,
+          "source": "T1",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 106,
+          "branch_expansions": 4,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "CCW via right tangent, exit at idx 60",
+          "pair_time_seconds": 0.010359500003687572,
+          "reblocking_events": 105,
+          "share_of_pair_time": 0.045308169468110907,
+          "source": "T7",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 94,
+          "branch_expansions": 4,
+          "destination": "T11",
+          "fallback_calls": 0,
+          "method": "CCW via right tangent, exit at idx 21",
+          "pair_time_seconds": 0.010265000004437752,
+          "reblocking_events": 93,
+          "share_of_pair_time": 0.04489486554618194,
+          "source": "A1",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 106,
+          "branch_expansions": 4,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "CCW via right tangent, exit at idx 60",
+          "pair_time_seconds": 0.010173000002396293,
+          "reblocking_events": 105,
+          "share_of_pair_time": 0.0444924955783189,
+          "source": "T3",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 106,
+          "branch_expansions": 4,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "CCW via right tangent, exit at idx 60",
+          "pair_time_seconds": 0.009940000003552996,
+          "reblocking_events": 105,
+          "share_of_pair_time": 0.043473449926511,
+          "source": "T5",
+          "tangent_calls": 1
+        },
+        {
+          "blocking_events": 82,
+          "branch_expansions": 4,
+          "destination": "T12",
+          "fallback_calls": 0,
+          "method": "CW via left tangent, exit at idx 53",
+          "pair_time_seconds": 0.009840999999141786,
+          "reblocking_events": 81,
+          "share_of_pair_time": 0.04304046484271254,
+          "source": "A1",
+          "tangent_calls": 1
+        }
+      ],
+      "std_pair_time_seconds": 0.0034698981245411833,
+      "target_count": 12,
+      "top_10_pair_share": 0.47344598812108857,
+      "top_1_pair_share": 0.05435143429217184,
+      "top_5_pair_share": 0.25223654275925333,
+      "topology": "c_trap",
+      "total_blocking_events": 2276,
+      "total_branch_expansions": 96,
+      "total_fallback_calls": 0,
+      "total_instrumented_matrix_time_seconds": 0.28919889999815496,
+      "total_measured_serial_pair_time_seconds": 0.22864530007063877,
+      "total_reblocking_events": 2252,
+      "total_recursive_calls": 0,
+      "total_tangent_calls": 24,
+      "trace_based_4worker": {
+        "ideal_lower_bound_seconds": 0.05716132501765969,
+        "simulated_4worker_makespan_seconds": 0.057422200006840285,
+        "theoretical_task_level_speedup_excluding_ipc_startup": 3.981827586602428,
+        "total_measured_serial_pair_time_seconds": 0.22864530007063877
+      }
+    },
+    {
+      "correlations": {
+        "blocked_checks": {
+          "pearson": -0.9999867941572471,
+          "spearman": -0.6955207079430681
+        },
+        "blocking_events": {
+          "pearson": 0.9999867070293557,
+          "spearman": 0.6825738613046598
+        },
+        "branch_expansions": {
+          "pearson": 0.9999867941572471,
+          "spearman": 0.6955207079430681
+        },
+        "collision_tests": {
+          "pearson": 0.9999884129133478,
+          "spearman": 0.6998542122237651
+        },
+        "fallback_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "max_recursion_depth": {
+          "pearson": null,
+          "spearman": null
+        },
+        "reblocking_events": {
+          "pearson": 0.9999867070254375,
+          "spearman": 0.6825738613046598
+        },
+        "recursive_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "tangent_calls": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
+      "directed_pair_count": 20,
+      "environment": "sequential_staggered_blocking_001_t04.json",
+      "max_pair_time_seconds": 5.814028900000267,
+      "maximum_observed_recursion_depth": 0,
+      "mean_pair_time_seconds": 1.1538489200007462,
+      "median_pair_time_seconds": 2.6000052457675338e-06,
+      "min_pair_time_seconds": 2.3000029614195228e-06,
+      "node_count": 5,
+      "pairs_for_50pct_pair_time": 2,
+      "pairs_for_80pct_pair_time": 4,
+      "pairs_for_90pct_pair_time": 4,
+      "slowest_10_directed_pairs": [
+        {
+          "blocking_events": 22318,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (12 waypoints)",
+          "pair_time_seconds": 5.814028900000267,
+          "reblocking_events": 22317,
+          "share_of_pair_time": 0.25194064834746766,
+          "source": "T4",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22318,
+          "branch_expansions": 24977,
+          "destination": "T4",
+          "fallback_calls": 0,
+          "method": "visibility-graph (12 waypoints)",
+          "pair_time_seconds": 5.760204699996393,
+          "reblocking_events": 22317,
+          "share_of_pair_time": 0.24960827193878504,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22319,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 5.757867300002545,
+          "reblocking_events": 22318,
+          "share_of_pair_time": 0.24950698484853726,
+          "source": "T1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22319,
+          "branch_expansions": 24977,
+          "destination": "T1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 5.7448245999985375,
+          "reblocking_events": 22318,
+          "share_of_pair_time": 0.2489418025366277,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 0,
+          "branch_expansions": 0,
+          "destination": "T2",
+          "fallback_calls": 0,
+          "method": "direct",
+          "pair_time_seconds": 7.299997378140688e-06,
+          "reblocking_events": 0,
+          "share_of_pair_time": 3.163324613648712e-07,
+          "source": "T1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 0,
+          "branch_expansions": 0,
+          "destination": "T2",
+          "fallback_calls": 0,
+          "method": "direct",
+          "pair_time_seconds": 7.100003131199628e-06,
+          "reblocking_events": 0,
+          "share_of_pair_time": 3.076660647736723e-07,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 0,
+          "branch_expansions": 0,
+          "destination": "T1",
+          "fallback_calls": 0,
+          "method": "direct",
+          "pair_time_seconds": 6.000002031214535e-06,
+          "reblocking_events": 0,
+          "share_of_pair_time": 2.5999946471374497e-07,
+          "source": "T4",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 0,
+          "branch_expansions": 0,
+          "destination": "T1",
+          "fallback_calls": 0,
+          "method": "direct",
+          "pair_time_seconds": 2.7999994927085936e-06,
+          "reblocking_events": 0,
+          "share_of_pair_time": 1.2133302047493284e-07,
+          "source": "T3",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 0,
+          "branch_expansions": 0,
+          "destination": "T3",
+          "fallback_calls": 0,
+          "method": "direct",
+          "pair_time_seconds": 2.6999987312592566e-06,
+          "reblocking_events": 0,
+          "share_of_pair_time": 1.1699966453396302e-07,
+          "source": "T1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 0,
+          "branch_expansions": 0,
+          "destination": "T1",
+          "fallback_calls": 0,
+          "method": "direct",
+          "pair_time_seconds": 2.6000052457675338e-06,
+          "reblocking_events": 0,
+          "share_of_pair_time": 1.1266662388373395e-07,
+          "source": "T2",
+          "tangent_calls": 0
+        }
+      ],
+      "std_pair_time_seconds": 2.3077217029092703,
+      "target_count": 4,
+      "top_10_pair_share": 0.9999989426687174,
+      "top_1_pair_share": 0.25194064834746766,
+      "top_5_pair_share": 0.999998024003879,
+      "topology": "sequential_staggered_blocking",
+      "total_blocking_events": 89274,
+      "total_branch_expansions": 99908,
+      "total_fallback_calls": 0,
+      "total_instrumented_matrix_time_seconds": 23.07881559999805,
+      "total_measured_serial_pair_time_seconds": 23.076978400014923,
+      "total_reblocking_events": 89270,
+      "total_recursive_calls": 0,
+      "total_tangent_calls": 0,
+      "trace_based_4worker": {
+        "ideal_lower_bound_seconds": 5.769244600003731,
+        "simulated_4worker_makespan_seconds": 5.814028900000267,
+        "theoretical_task_level_speedup_excluding_ipc_startup": 3.9691888012482814,
+        "total_measured_serial_pair_time_seconds": 23.076978400014923
+      }
+    },
+    {
+      "correlations": {
+        "blocked_checks": {
+          "pearson": -0.9999442018267911,
+          "spearman": -0.6005281158031874
+        },
+        "blocking_events": {
+          "pearson": 0.9999431080192185,
+          "spearman": 0.597207572467471
+        },
+        "branch_expansions": {
+          "pearson": 0.9999442018267909,
+          "spearman": 0.6005281158031874
+        },
+        "collision_tests": {
+          "pearson": 0.9999458838239121,
+          "spearman": 0.5997812808063505
+        },
+        "fallback_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "max_recursion_depth": {
+          "pearson": null,
+          "spearman": null
+        },
+        "reblocking_events": {
+          "pearson": 0.9999431079619089,
+          "spearman": 0.597207572467471
+        },
+        "recursive_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "tangent_calls": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
+      "directed_pair_count": 72,
+      "environment": "sequential_staggered_blocking_001_t08.json",
+      "max_pair_time_seconds": 5.916436100000283,
+      "maximum_observed_recursion_depth": 0,
+      "mean_pair_time_seconds": 0.8067532027779534,
+      "median_pair_time_seconds": 2.5000044843181968e-06,
+      "min_pair_time_seconds": 2.1999949240125716e-06,
+      "node_count": 9,
+      "pairs_for_50pct_pair_time": 5,
+      "pairs_for_80pct_pair_time": 8,
+      "pairs_for_90pct_pair_time": 9,
+      "slowest_10_directed_pairs": [
+        {
+          "blocking_events": 22306,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (12 waypoints)",
+          "pair_time_seconds": 5.916436100000283,
+          "reblocking_events": 22305,
+          "share_of_pair_time": 0.1018560860101498,
+          "source": "T4",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22322,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (18 waypoints)",
+          "pair_time_seconds": 5.869160300004296,
+          "reblocking_events": 22321,
+          "share_of_pair_time": 0.10104219604849034,
+          "source": "T5",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22285,
+          "branch_expansions": 24977,
+          "destination": "T7",
+          "fallback_calls": 0,
+          "method": "visibility-graph (8 waypoints)",
+          "pair_time_seconds": 5.852148999998462,
+          "reblocking_events": 22284,
+          "share_of_pair_time": 0.10074933318185031,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22307,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 5.840884400000505,
+          "reblocking_events": 22306,
+          "share_of_pair_time": 0.1005554042613196,
+          "source": "T1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22316,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (9 waypoints)",
+          "pair_time_seconds": 5.8161505999960355,
+          "reblocking_events": 22315,
+          "share_of_pair_time": 0.10012959250268118,
+          "source": "T6",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22285,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (8 waypoints)",
+          "pair_time_seconds": 5.7780300000013085,
+          "reblocking_events": 22284,
+          "share_of_pair_time": 0.09947331648681729,
+          "source": "T7",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22306,
+          "branch_expansions": 24977,
+          "destination": "T4",
+          "fallback_calls": 0,
+          "method": "visibility-graph (12 waypoints)",
+          "pair_time_seconds": 5.77756610000506,
+          "reblocking_events": 22305,
+          "share_of_pair_time": 0.09946533008467937,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22316,
+          "branch_expansions": 24977,
+          "destination": "T6",
+          "fallback_calls": 0,
+          "method": "visibility-graph (9 waypoints)",
+          "pair_time_seconds": 5.7516949999990175,
+          "reblocking_events": 22315,
+          "share_of_pair_time": 0.09901993881485857,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22307,
+          "branch_expansions": 24977,
+          "destination": "T1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 5.749795800002175,
+          "reblocking_events": 22306,
+          "share_of_pair_time": 0.09898724259792,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22322,
+          "branch_expansions": 24977,
+          "destination": "T5",
+          "fallback_calls": 0,
+          "method": "visibility-graph (18 waypoints)",
+          "pair_time_seconds": 5.734169399998791,
+          "reblocking_events": 22321,
+          "share_of_pair_time": 0.09871822187059842,
+          "source": "A1",
+          "tangent_calls": 0
+        }
+      ],
+      "std_pair_time_seconds": 2.008903580926578,
+      "target_count": 8,
+      "top_10_pair_share": 0.9999966618593649,
+      "top_1_pair_share": 0.1018560860101498,
+      "top_5_pair_share": 0.5043326120044912,
+      "topology": "sequential_staggered_blocking",
+      "total_blocking_events": 223072,
+      "total_branch_expansions": 249770,
+      "total_fallback_calls": 0,
+      "total_instrumented_matrix_time_seconds": 58.0889967999974,
+      "total_measured_serial_pair_time_seconds": 58.08623060001264,
+      "total_reblocking_events": 223062,
+      "total_recursive_calls": 0,
+      "total_tangent_calls": 0,
+      "trace_based_4worker": {
+        "ideal_lower_bound_seconds": 14.52155765000316,
+        "simulated_4worker_makespan_seconds": 17.380895800008147,
+        "theoretical_task_level_speedup_excluding_ipc_startup": 3.3419583931908394,
+        "total_measured_serial_pair_time_seconds": 58.08623060001264
+      }
+    },
+    {
+      "correlations": {
+        "blocked_checks": {
+          "pearson": -0.9999078989745428,
+          "spearman": -0.5270056421742648
+        },
+        "blocking_events": {
+          "pearson": 0.9999052946526726,
+          "spearman": 0.5253507755876192
+        },
+        "branch_expansions": {
+          "pearson": 0.9999078989745428,
+          "spearman": 0.5270056421742648
+        },
+        "collision_tests": {
+          "pearson": 0.9999077699507857,
+          "spearman": 0.5259348738648432
+        },
+        "fallback_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "max_recursion_depth": {
+          "pearson": null,
+          "spearman": null
+        },
+        "reblocking_events": {
+          "pearson": 0.9999052945224671,
+          "spearman": 0.5253507755876192
+        },
+        "recursive_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "tangent_calls": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
+      "directed_pair_count": 156,
+      "environment": "sequential_staggered_blocking_001_t12.json",
+      "max_pair_time_seconds": 6.028625099999772,
+      "maximum_observed_recursion_depth": 0,
+      "mean_pair_time_seconds": 0.5992690557690926,
+      "median_pair_time_seconds": 2.4999972083605826e-06,
+      "min_pair_time_seconds": 2.2000021999701858e-06,
+      "node_count": 13,
+      "pairs_for_50pct_pair_time": 8,
+      "pairs_for_80pct_pair_time": 13,
+      "pairs_for_90pct_pair_time": 15,
+      "slowest_10_directed_pairs": [
+        {
+          "blocking_events": 22320,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (12 waypoints)",
+          "pair_time_seconds": 6.028625099999772,
+          "reblocking_events": 22319,
+          "share_of_pair_time": 0.06448694842537764,
+          "source": "T4",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22330,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (9 waypoints)",
+          "pair_time_seconds": 5.937850700000126,
+          "reblocking_events": 22329,
+          "share_of_pair_time": 0.06351595355440416,
+          "source": "T6",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22296,
+          "branch_expansions": 24977,
+          "destination": "T11",
+          "fallback_calls": 0,
+          "method": "visibility-graph (3 waypoints)",
+          "pair_time_seconds": 5.901227700000163,
+          "reblocking_events": 22295,
+          "share_of_pair_time": 0.06312420494290395,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22321,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 5.884283100000175,
+          "reblocking_events": 22320,
+          "share_of_pair_time": 0.06294295208206709,
+          "source": "T1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22299,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (8 waypoints)",
+          "pair_time_seconds": 5.878483400003461,
+          "reblocking_events": 22298,
+          "share_of_pair_time": 0.06288091389784316,
+          "source": "T7",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22287,
+          "branch_expansions": 24977,
+          "destination": "T10",
+          "fallback_calls": 0,
+          "method": "visibility-graph (8 waypoints)",
+          "pair_time_seconds": 5.877253700004076,
+          "reblocking_events": 22286,
+          "share_of_pair_time": 0.06286776005279165,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22296,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (3 waypoints)",
+          "pair_time_seconds": 5.854024000000209,
+          "reblocking_events": 22295,
+          "share_of_pair_time": 0.0626192767848428,
+          "source": "T11",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22287,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (8 waypoints)",
+          "pair_time_seconds": 5.8526159999964875,
+          "reblocking_events": 22286,
+          "share_of_pair_time": 0.06260421570174064,
+          "source": "T10",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22330,
+          "branch_expansions": 24977,
+          "destination": "T6",
+          "fallback_calls": 0,
+          "method": "visibility-graph (9 waypoints)",
+          "pair_time_seconds": 5.850818300001265,
+          "reblocking_events": 22329,
+          "share_of_pair_time": 0.06258498607890736,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 22336,
+          "branch_expansions": 24977,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (18 waypoints)",
+          "pair_time_seconds": 5.812879699995392,
+          "reblocking_events": 22335,
+          "share_of_pair_time": 0.062179164767857543,
+          "source": "T5",
+          "tangent_calls": 0
+        }
+      ],
+      "std_pair_time_seconds": 1.7728163247204107,
+      "target_count": 12,
+      "top_10_pair_share": 0.629806376288736,
+      "top_1_pair_share": 0.06448694842537764,
+      "top_5_pair_share": 0.316950972902596,
+      "topology": "sequential_staggered_blocking",
+      "total_blocking_events": 357020,
+      "total_branch_expansions": 399632,
+      "total_fallback_calls": 0,
+      "total_instrumented_matrix_time_seconds": 93.48965719999978,
+      "total_measured_serial_pair_time_seconds": 93.48597269997845,
+      "total_reblocking_events": 357004,
+      "total_recursive_calls": 0,
+      "total_tangent_calls": 0,
+      "trace_based_4worker": {
+        "ideal_lower_bound_seconds": 23.37149317499461,
+        "simulated_4worker_makespan_seconds": 23.411802099988563,
+        "theoretical_task_level_speedup_excluding_ipc_startup": 3.9931130589910513,
+        "total_measured_serial_pair_time_seconds": 93.48597269997845
+      }
+    },
+    {
+      "correlations": {
+        "blocked_checks": {
+          "pearson": -0.8010054863017102,
+          "spearman": -0.5260529019165191
+        },
+        "blocking_events": {
+          "pearson": 0.9999074198305832,
+          "spearman": 0.6103357473892993
+        },
+        "branch_expansions": {
+          "pearson": 0.9999059380686766,
+          "spearman": 0.6117681334379582
+        },
+        "collision_tests": {
+          "pearson": 0.9999003487900457,
+          "spearman": 0.6086451245190679
+        },
+        "fallback_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "max_recursion_depth": {
+          "pearson": null,
+          "spearman": null
+        },
+        "reblocking_events": {
+          "pearson": 0.9999074199531767,
+          "spearman": 0.6103357473892993
+        },
+        "recursive_calls": {
+          "pearson": null,
+          "spearman": null
+        },
+        "tangent_calls": {
+          "pearson": null,
+          "spearman": null
+        }
+      },
+      "directed_pair_count": 156,
+      "environment": "asymmetric_corridor_001_t12.json",
+      "max_pair_time_seconds": 1.6538736000002245,
+      "maximum_observed_recursion_depth": 0,
+      "mean_pair_time_seconds": 0.2278424474363699,
+      "median_pair_time_seconds": 2.1999949240125716e-06,
+      "min_pair_time_seconds": 1.8999999156221747e-06,
+      "node_count": 13,
+      "pairs_for_50pct_pair_time": 11,
+      "pairs_for_80pct_pair_time": 18,
+      "pairs_for_90pct_pair_time": 20,
+      "slowest_10_directed_pairs": [
+        {
+          "blocking_events": 10347,
+          "branch_expansions": 11176,
+          "destination": "T5",
+          "fallback_calls": 0,
+          "method": "visibility-graph (10 waypoints)",
+          "pair_time_seconds": 1.6538736000002245,
+          "reblocking_events": 10346,
+          "share_of_pair_time": 0.04653107428156495,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10360,
+          "branch_expansions": 11176,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (10 waypoints)",
+          "pair_time_seconds": 1.6465083000002778,
+          "reblocking_events": 10359,
+          "share_of_pair_time": 0.046323854502856664,
+          "source": "T12",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10358,
+          "branch_expansions": 11176,
+          "destination": "T6",
+          "fallback_calls": 0,
+          "method": "visibility-graph (4 waypoints)",
+          "pair_time_seconds": 1.6447755999979563,
+          "reblocking_events": 10357,
+          "share_of_pair_time": 0.0462751056791765,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10360,
+          "branch_expansions": 11176,
+          "destination": "T12",
+          "fallback_calls": 0,
+          "method": "visibility-graph (10 waypoints)",
+          "pair_time_seconds": 1.6444550000014715,
+          "reblocking_events": 10359,
+          "share_of_pair_time": 0.04626608572610928,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10349,
+          "branch_expansions": 11176,
+          "destination": "T7",
+          "fallback_calls": 0,
+          "method": "visibility-graph (4 waypoints)",
+          "pair_time_seconds": 1.635843299998669,
+          "reblocking_events": 10348,
+          "share_of_pair_time": 0.0460237989803018,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10358,
+          "branch_expansions": 11176,
+          "destination": "T10",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 1.6310423000031733,
+          "reblocking_events": 10357,
+          "share_of_pair_time": 0.045888724759747,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10358,
+          "branch_expansions": 11176,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 1.6293252000032226,
+          "reblocking_events": 10357,
+          "share_of_pair_time": 0.04584041483591329,
+          "source": "T10",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10349,
+          "branch_expansions": 11176,
+          "destination": "A1",
+          "fallback_calls": 0,
+          "method": "visibility-graph (4 waypoints)",
+          "pair_time_seconds": 1.62503149999975,
+          "reblocking_events": 10348,
+          "share_of_pair_time": 0.04571961329835667,
+          "source": "T7",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10348,
+          "branch_expansions": 11176,
+          "destination": "T11",
+          "fallback_calls": 0,
+          "method": "visibility-graph (7 waypoints)",
+          "pair_time_seconds": 1.6221635999972932,
+          "reblocking_events": 10347,
+          "share_of_pair_time": 0.045638926075314716,
+          "source": "A1",
+          "tangent_calls": 0
+        },
+        {
+          "blocking_events": 10364,
+          "branch_expansions": 11176,
+          "destination": "T4",
+          "fallback_calls": 0,
+          "method": "visibility-graph (6 waypoints)",
+          "pair_time_seconds": 1.6194866000005277,
+          "reblocking_events": 10363,
+          "share_of_pair_time": 0.045563609747814704,
+          "source": "A1",
+          "tangent_calls": 0
+        }
+      ],
+      "std_pair_time_seconds": 0.5623553355263992,
+      "target_count": 12,
+      "top_10_pair_share": 0.4600712078871556,
+      "top_1_pair_share": 0.04653107428156495,
+      "top_5_pair_share": 0.2314199191700092,
+      "topology": "asymmetric_corridor",
+      "total_blocking_events": 227796,
+      "total_branch_expansions": 245872,
+      "total_fallback_calls": 0,
+      "total_instrumented_matrix_time_seconds": 35.54616449999594,
+      "total_measured_serial_pair_time_seconds": 35.5434218000737,
+      "total_reblocking_events": 227774,
+      "total_recursive_calls": 0,
+      "total_tangent_calls": 0,
+      "trace_based_4worker": {
+        "ideal_lower_bound_seconds": 8.885855450018425,
+        "simulated_4worker_makespan_seconds": 9.676672099987627,
+        "theoretical_task_level_speedup_excluding_ipc_startup": 3.6731038762922585,
+        "total_measured_serial_pair_time_seconds": 35.5434218000737
+      }
+    }
+  ],
+  "equivalence": [
+    {
+      "candidate_route": "A1,T9,T2,T10,T6,T11,T1,T7,T5,T3,T12,T4,T8,A1",
+      "differing_path_pairs": [],
+      "differing_status_pairs": [],
+      "environment": "c_trap_001_t12.json",
+      "labels_identical": true,
+      "matrix_shape_identical": true,
+      "max_matrix_distance_diff": 0.0,
+      "max_path_coordinate_diff": 0.0,
+      "points_diff": 0,
+      "reference_route": "A1,T9,T2,T10,T6,T11,T1,T7,T5,T3,T12,T4,T8,A1",
+      "route_distance_diff": 0.0,
+      "route_identical": true,
+      "targets_serviced_diff": 0
+    },
+    {
+      "candidate_route": "A1,T4,T1,T3,T2,A1",
+      "differing_path_pairs": [],
+      "differing_status_pairs": [],
+      "environment": "sequential_staggered_blocking_001_t04.json",
+      "labels_identical": true,
+      "matrix_shape_identical": true,
+      "max_matrix_distance_diff": 0.0,
+      "max_path_coordinate_diff": 0.0,
+      "points_diff": 0,
+      "reference_route": "A1,T4,T1,T3,T2,A1",
+      "route_distance_diff": 0.0,
+      "route_identical": true,
+      "targets_serviced_diff": 0
+    },
+    {
+      "candidate_route": "A1,T2,T3,T8,T6,T1,T5,T4,T7,A1",
+      "differing_path_pairs": [],
+      "differing_status_pairs": [],
+      "environment": "sequential_staggered_blocking_001_t08.json",
+      "labels_identical": true,
+      "matrix_shape_identical": true,
+      "max_matrix_distance_diff": 0.0,
+      "max_path_coordinate_diff": 0.0,
+      "points_diff": 0,
+      "reference_route": "A1,T2,T3,T8,T6,T1,T5,T4,T7,A1",
+      "route_distance_diff": 0.0,
+      "route_identical": true,
+      "targets_serviced_diff": 0
+    },
+    {
+      "candidate_route": "A1,T8,T3,T2,T12,T11,T1,T6,T5,T4,T9,T7,T10,A1",
+      "differing_path_pairs": [],
+      "differing_status_pairs": [],
+      "environment": "sequential_staggered_blocking_001_t12.json",
+      "labels_identical": true,
+      "matrix_shape_identical": true,
+      "max_matrix_distance_diff": 0.0,
+      "max_path_coordinate_diff": 0.0,
+      "points_diff": 0,
+      "reference_route": "A1,T8,T3,T2,T12,T11,T1,T6,T5,T4,T9,T7,T10,A1",
+      "route_distance_diff": 0.0,
+      "route_identical": true,
+      "targets_serviced_diff": 0
+    },
+    {
+      "candidate_route": "A1,T6,T4,T10,T12,T7,T2,T9,T11,T5,T1,T3,T8,A1",
+      "differing_path_pairs": [],
+      "differing_status_pairs": [],
+      "environment": "asymmetric_corridor_001_t12.json",
+      "labels_identical": true,
+      "matrix_shape_identical": true,
+      "max_matrix_distance_diff": 0.0,
+      "max_path_coordinate_diff": 0.0,
+      "points_diff": 0,
+      "reference_route": "A1,T6,T4,T10,T12,T7,T2,T9,T11,T5,T1,T3,T8,A1",
+      "route_distance_diff": 0.0,
+      "route_identical": true,
+      "targets_serviced_diff": 0
+    }
+  ],
+  "mission_planner_git_status": "",
+  "log_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_diagnostic_20260809-165543.log",
+  "pair_csv": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_pair_diagnostics_20260809-165543.csv",
+  "preservation_hashes_after": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_after.json",
+  "preservation_hashes_before": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_before.json",
+  "protected_hashes_match": true,
+  "summary_csv": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.csv",
+  "timestamp": "20260809-165543",
+  "unavailable_metrics": [
+    "exact fallback elapsed time",
+    "true recursive-call tree depth, because the current proposed boundary-navigation path is not recursive",
+    "exact branches producing final continuation versus rejected continuation inside Dijkstra without rewriting Dijkstra"
+  ]
+}

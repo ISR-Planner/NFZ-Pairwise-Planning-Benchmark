@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="920" viewBox="0 0 900 920">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="38" font-size="16" font-weight="bold">ctrap_i04_t12 validation preview</text>
+<rect x="40" y="60" width="800" height="800" fill="#fbfbfb" stroke="#111" stroke-width="1.5"/>
+<circle cx="441.169" cy="262.997" r="53.333" fill="#dc262611" stroke="#dc2626" stroke-width="1.5"/>
+<text x="445.169" y="258.997" font-size="11" fill="#991b1b">NFZ1</text>
+<circle cx="500.542" cy="321.871" r="80.000" fill="#dc262611" stroke="#dc2626" stroke-width="1.5"/>
+<text x="504.542" y="317.871" font-size="11" fill="#991b1b">NFZ2</text>
+<circle cx="521.065" cy="449.447" r="53.333" fill="#dc262611" stroke="#dc2626" stroke-width="1.5"/>
+<text x="525.065" y="445.447" font-size="11" fill="#991b1b">NFZ3</text>
+<circle cx="466.114" cy="533.472" r="80.000" fill="#dc262611" stroke="#dc2626" stroke-width="1.5"/>
+<text x="470.114" y="529.472" font-size="11" fill="#991b1b">NFZ4</text>
+<circle cx="389.820" cy="562.320" r="5.333" fill="#dc262611" stroke="#dc2626" stroke-width="1.5"/>
+<text x="393.820" y="558.320" font-size="11" fill="#991b1b">NFZ5</text>
+<polygon points="173.639,347.066 165.639,363.066 181.639,363.066" fill="#2563eb" stroke="#1e3a8a" stroke-width="1"/>
+<text x="183.639" y="355.066" font-size="11" fill="#1e3a8a">A1</text>
+<circle cx="680.715" cy="575.373" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="685.715" y="570.373" font-size="10" fill="#14532d">T1</text>
+<circle cx="738.822" cy="382.135" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="743.822" y="377.135" font-size="10" fill="#14532d">T2</text>
+<circle cx="676.568" cy="738.710" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="681.568" y="733.710" font-size="10" fill="#14532d">T3</text>
+<circle cx="829.056" cy="488.430" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="834.056" y="483.430" font-size="10" fill="#14532d">T4</text>
+<circle cx="812.063" cy="332.219" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="817.063" y="327.219" font-size="10" fill="#14532d">T5</text>
+<circle cx="810.569" cy="653.407" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="815.569" y="648.407" font-size="10" fill="#14532d">T6</text>
+<circle cx="770.002" cy="565.898" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="775.002" y="560.898" font-size="10" fill="#14532d">T7</text>
+<circle cx="768.472" cy="769.909" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="773.472" y="764.909" font-size="10" fill="#14532d">T8</text>
+<circle cx="745.825" cy="487.291" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="750.825" y="482.291" font-size="10" fill="#14532d">T9</text>
+<circle cx="709.591" cy="270.501" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="714.591" y="265.501" font-size="10" fill="#14532d">T10</text>
+<circle cx="732.358" cy="171.233" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="737.358" y="166.233" font-size="10" fill="#14532d">T11</text>
+<circle cx="676.650" cy="440.233" r="4.5" fill="#16a34a" stroke="#14532d" stroke-width="1"/>
+<text x="681.650" y="435.233" font-size="10" fill="#14532d">T12</text>
+<text x="40" y="890" font-size="16">Blue triangle: airport. Green circles: targets. Red rings: native NFZ boundaries. Orange dashed polygons: wrapped regions.</text>
+</svg>

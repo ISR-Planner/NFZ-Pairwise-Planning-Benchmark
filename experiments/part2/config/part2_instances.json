@@ -1,0 +1,40 @@
+{
+  "schema": "nfz_part2_instance_config_v1",
+  "created_at": "2026-08-12",
+  "part1_experiment_branch": "benchmark-part1-experiments",
+  "part1_experiment_commit": "73b9a7b60fa892bbf2220e6a961c1393ab28fbf5",
+  "dataset_generator_branch": "dataset-creator-app",
+  "dataset_generator_commit": "5f26eb8a5119af9854a5d49de3f900821701a689",
+  "mission_size": "t12",
+  "target_count": 12,
+  "topologies": [
+    "c_trap",
+    "sequential_staggered_blocking",
+    "asymmetric_corridor"
+  ],
+  "instances": [
+    {
+      "instance_id": "i01",
+      "seed": 20260813
+    },
+    {
+      "instance_id": "i02",
+      "seed": 20260814
+    },
+    {
+      "instance_id": "i03",
+      "seed": 20260815
+    },
+    {
+      "instance_id": "i04",
+      "seed": 20260816
+    },
+    {
+      "instance_id": "i05",
+      "seed": 20260817
+    }
+  ],
+  "planned_environment_count": 15,
+  "planned_primary_execution_count": 135,
+  "planned_sanity_repetition_count": 6
+}

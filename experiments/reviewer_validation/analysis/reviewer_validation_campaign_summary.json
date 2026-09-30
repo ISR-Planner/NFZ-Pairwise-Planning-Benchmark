@@ -1,0 +1,43 @@
+{
+  "created_at": "2026-08-14T06:55:19.033977+00:00",
+  "figure_artifacts": {
+    "cached_vg": "experiments\\reviewer_validation\\figures\\cached_vg_preprocessing_time.png",
+    "resolution_sensitivity": "experiments\\reviewer_validation\\figures\\resolution_sensitivity_tradeoff.png"
+  },
+  "integrity": {
+    "all_ok": true,
+    "extra_protected_files": [],
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_protected_files": []
+  },
+  "phase_results": {
+    "cached_vg": {
+      "recorded_executions": 45,
+      "regression_environments": 15,
+      "resumed_from_existing_artifact": true
+    },
+    "connectivity": {
+      "csv": "experiments\\reviewer_validation\\connectivity\\frozen_matrix_connectivity.csv",
+      "json": "experiments\\reviewer_validation\\connectivity\\frozen_matrix_connectivity.json",
+      "markdown": "experiments\\reviewer_validation\\analysis\\CONNECTIVITY_SUMMARY.md",
+      "rows": 351
+    },
+    "conservatism": {
+      "recorded_environments": 5
+    },
+    "high_fidelity": {
+      "recorded_pair_checks": 9,
+      "resumed_from_existing_artifact": true
+    },
+    "sensitivity": {
+      "recorded_executions": 72,
+      "resumed_from_existing_artifact": true
+    }
+  },
+  "schema": "paper1_reviewer_validation_campaign_summary_v1",
+  "timing_artifacts": {
+    "repeated_timing_summary_csv": "experiments\\reviewer_validation\\analysis\\reviewer_validation_repeated_timing_summary.csv",
+    "repeated_timing_summary_json": "experiments\\reviewer_validation\\analysis\\reviewer_validation_repeated_timing_summary.json"
+  }
+}

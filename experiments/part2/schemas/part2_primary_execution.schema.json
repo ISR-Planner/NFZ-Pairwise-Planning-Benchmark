@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "nfz_part2_primary_execution.schema.json",
+  "title": "Part II Primary Execution Row",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "environment_filename",
+    "topology",
+    "instance_id",
+    "seed",
+    "method",
+    "target_count",
+    "matrix_build_time_seconds",
+    "solver_time_seconds",
+    "solver_completed",
+    "mission_feasible",
+    "mission_success",
+    "targets_serviced",
+    "route_distance"
+  ],
+  "properties": {
+    "environment_filename": {
+      "type": "string"
+    },
+    "topology": {
+      "type": "string"
+    },
+    "instance_id": {
+      "type": "string"
+    },
+    "seed": {
+      "type": "integer"
+    },
+    "method": {
+      "type": "string"
+    },
+    "target_count": {
+      "const": 12
+    },
+    "matrix_build_time_seconds": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "solver_time_seconds": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "solver_completed": {
+      "type": "boolean"
+    },
+    "mission_feasible": {
+      "type": "boolean"
+    },
+    "mission_success": {
+      "type": "boolean"
+    },
+    "targets_serviced": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "route_distance": {
+      "type": "number",
+      "minimum": 0
+    },
+    "failure_reason": {
+      "type": ["string", "null"]
+    }
+  }
+}

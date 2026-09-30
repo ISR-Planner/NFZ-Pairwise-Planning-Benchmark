@@ -1,0 +1,28 @@
+target_count,environment,method,matrix_time_seconds,solver_time_seconds,solver_completed,mission_feasible,mission_success,targets_serviced,service_fraction,mission_distance,mission_point_count,failure_reason,status
+4,composite_adversarial_001_t04,proposed,410.63352669999585,58.358351299997594,True,True,True,4,1.0,389.7505312920051,20,,success
+4,composite_adversarial_001_t04,euclidean,0.00027260000206297264,58.31764790000307,True,True,True,4,1.0,368.04623648844665,20,,success
+4,composite_adversarial_001_t04,collision_rejection,0.0002860999957192689,0.005835000003571622,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+4,composite_adversarial_001_t04,visibility_graph,344.5111797999998,58.10829929999454,True,True,True,4,1.0,389.7505312920051,20,,success
+4,composite_adversarial_001_t04,grid_astar,0.6564196999970591,58.05891399999382,True,True,True,4,1.0,415.02091980893226,20,,success
+4,composite_adversarial_001_t04,appatt_raw,0.0008494000067003071,58.19468930000585,True,True,False,1,0.25,276.46704421794914,5,serviced 1/4 benchmark targets,partial
+4,composite_adversarial_001_t04,appatt_bspline,0.002382200000283774,0.005809700000099838,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+4,composite_adversarial_001_t04,tig_raw,0.0007445000010193326,0.0059951000002911314,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+4,composite_adversarial_001_t04,tig_bezier,0.0012952000033692457,0.006130399997346103,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+8,composite_adversarial_001_t08,proposed,1347.7405578000034,58.606291000003694,True,True,True,8,1.0,421.8007755657511,40,,success
+8,composite_adversarial_001_t08,euclidean,0.00020840000070165843,58.38335389999702,True,True,True,8,1.0,394.8827842763679,40,,success
+8,composite_adversarial_001_t08,collision_rejection,0.0004534999970928766,0.01502980000077514,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+8,composite_adversarial_001_t08,visibility_graph,1133.7712891999981,58.383612599995104,True,True,True,8,1.0,421.8007755657511,40,,success
+8,composite_adversarial_001_t08,grid_astar,0.7125984000012977,58.70954580000398,True,True,True,8,1.0,468.44816923016447,40,,success
+8,composite_adversarial_001_t08,appatt_raw,0.0024370999963139184,87.91221009999572,True,True,True,8,1.0,485.0291446065153,40,,success
+8,composite_adversarial_001_t08,appatt_bspline,0.010419400001410395,0.015565200003038626,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+8,composite_adversarial_001_t08,tig_raw,0.0022160999942570925,0.015604399995936546,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+8,composite_adversarial_001_t08,tig_bezier,0.003801200000452809,0.015308599999116268,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+12,composite_adversarial_001_t12,proposed,2984.7807777999988,89.18091179999465,True,True,True,12,1.0,470.06988729119325,60,,success
+12,composite_adversarial_001_t12,euclidean,0.00024190000112866983,89.31962660000136,True,True,True,12,1.0,451.3494851200327,60,,success
+12,composite_adversarial_001_t12,collision_rejection,0.000742199998057913,1.5444558000017423,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+12,composite_adversarial_001_t12,visibility_graph,2516.260679900006,88.81924700000673,True,True,True,12,1.0,470.06988729119325,60,,success
+12,composite_adversarial_001_t12,grid_astar,0.7778957999980776,59.5570172000007,True,True,False,10,0.8333333333333334,493.9103073318144,50,serviced 10/12 benchmark targets,partial
+12,composite_adversarial_001_t12,appatt_raw,0.004817299995920621,117.76653350000561,True,True,False,10,0.8333333333333334,494.67231269868154,50,serviced 10/12 benchmark targets,partial
+12,composite_adversarial_001_t12,appatt_bspline,0.02270469999348279,1.5390791999961948,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible
+12,composite_adversarial_001_t12,tig_raw,0.0048826999991433695,59.55468910001218,True,True,False,1,0.08333333333333333,213.48797209219532,5,serviced 1/12 benchmark targets,partial
+12,composite_adversarial_001_t12,tig_bezier,0.010775599992484786,1.5458101000112947,True,False,False,0,0.0,0.0,0,airport disconnected from target graph,infeasible

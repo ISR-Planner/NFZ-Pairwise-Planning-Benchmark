@@ -1,0 +1,28 @@
+{
+  "analysis_artifacts": {
+    "crossover_analysis_csv": "experiments\\part2\\analysis\\part2_proposed_diagnostic_crossover_analysis.csv",
+    "crossover_analysis_json": "experiments\\part2\\analysis\\part2_proposed_diagnostic_crossover_analysis.json",
+    "environment_summary_csv": "experiments\\part2\\analysis\\part2_proposed_diagnostic_environment_summary.csv",
+    "environment_summary_json": "experiments\\part2\\analysis\\part2_proposed_diagnostic_environment_summary.json",
+    "exploratory_associations_csv": "experiments\\part2\\analysis\\part2_proposed_diagnostic_exploratory_associations.csv",
+    "exploratory_associations_json": "experiments\\part2\\analysis\\part2_proposed_diagnostic_exploratory_associations.json",
+    "markdown_summary": "experiments\\part2\\analysis\\PART2_PROPOSED_DIAGNOSTIC_SUMMARY.md",
+    "pair_diagnostics_csv": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\part2_proposed_diagnostic_20260812-204803_pair_records.csv",
+    "pair_diagnostics_jsonl": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\part2_proposed_diagnostic_20260812-204803_pair_records.jsonl",
+    "part1_context_csv": "experiments\\part2\\analysis\\part2_proposed_diagnostic_part1_context.csv",
+    "part1_context_json": "experiments\\part2\\analysis\\part2_proposed_diagnostic_part1_context.json",
+    "topology_summary_csv": "experiments\\part2\\analysis\\part2_proposed_diagnostic_topology_summary.csv",
+    "topology_summary_json": "experiments\\part2\\analysis\\part2_proposed_diagnostic_topology_summary.json"
+  },
+  "campaign_id": "part2_proposed_diagnostic_20260812-204803",
+  "diagnostic_manifest_csv": "experiments\\part2\\manifests\\part2_proposed_diagnostic_manifest.csv",
+  "diagnostic_manifest_json": "experiments\\part2\\manifests\\part2_proposed_diagnostic_manifest.json",
+  "execution_order": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\execution_order.json",
+  "functional_equivalence": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\functional_equivalence.json",
+  "pair_diagnostics_csv": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\part2_proposed_diagnostic_20260812-204803_pair_records.csv",
+  "pair_diagnostics_jsonl": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\part2_proposed_diagnostic_20260812-204803_pair_records.jsonl",
+  "progress_manifest": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803\\campaign_status.json",
+  "run": "run_01_20260812-204803",
+  "run_directory": "experiments\\part2\\results\\diagnostics\\proposed_branching\\run_01_20260812-204803",
+  "schema": "nfz_part2_proposed_diagnostic_campaign_artifacts_v1"
+}

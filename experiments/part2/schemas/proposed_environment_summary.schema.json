@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "nfz_part2_proposed_environment_summary.schema.json",
+  "title": "Part II Proposed Environment Diagnostic Summary",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "environment_id",
+    "topology",
+    "instance_id",
+    "seed",
+    "directed_pair_count",
+    "branch_counts",
+    "branch_percentages",
+    "branch_time_aggregate_sec",
+    "diagnostic_runtime_sec"
+  ],
+  "properties": {
+    "schema": {
+      "const": "nfz_part2_proposed_environment_summary_v1"
+    },
+    "environment_id": {
+      "type": "string"
+    },
+    "topology": {
+      "type": "string"
+    },
+    "instance_id": {
+      "type": "string"
+    },
+    "seed": {
+      "type": ["integer", "null"]
+    },
+    "directed_pair_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "branch_counts": {
+      "$ref": "#/$defs/branchCounts"
+    },
+    "branch_percentages": {
+      "$ref": "#/$defs/branchPercentages"
+    },
+    "branch_time_aggregate_sec": {
+      "$ref": "#/$defs/branchPercentages"
+    },
+    "diagnostic_runtime_sec": {
+      "type": "number",
+      "minimum": 0
+    }
+  },
+  "$defs": {
+    "branchCounts": {
+      "type": "object",
+      "required": ["direct", "single_region", "multi_region_visibility", "failed"],
+      "properties": {
+        "direct": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "single_region": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "multi_region_visibility": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "failed": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "branchPercentages": {
+      "type": "object",
+      "required": ["direct", "single_region", "multi_region_visibility", "failed"],
+      "properties": {
+        "direct": {
+          "type": "number",
+          "minimum": 0
+        },
+        "single_region": {
+          "type": "number",
+          "minimum": 0
+        },
+        "multi_region_visibility": {
+          "type": "number",
+          "minimum": 0
+        },
+        "failed": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    }
+  }
+}

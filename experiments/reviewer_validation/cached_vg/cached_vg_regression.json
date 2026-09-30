@@ -1,0 +1,155 @@
+{
+  "rows": [
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "ctrap_i01_t12",
+      "instance_id": "i01",
+      "max_distance_delta": 0.0,
+      "topology": "c_trap"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "ctrap_i02_t12",
+      "instance_id": "i02",
+      "max_distance_delta": 0.0,
+      "topology": "c_trap"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "ctrap_i03_t12",
+      "instance_id": "i03",
+      "max_distance_delta": 0.0,
+      "topology": "c_trap"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "ctrap_i04_t12",
+      "instance_id": "i04",
+      "max_distance_delta": 0.0,
+      "topology": "c_trap"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "ctrap_i05_t12",
+      "instance_id": "i05",
+      "max_distance_delta": 0.0,
+      "topology": "c_trap"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "sequential_i01_t12",
+      "instance_id": "i01",
+      "max_distance_delta": 0.0,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "sequential_i02_t12",
+      "instance_id": "i02",
+      "max_distance_delta": 0.0,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "sequential_i03_t12",
+      "instance_id": "i03",
+      "max_distance_delta": 0.0,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "sequential_i04_t12",
+      "instance_id": "i04",
+      "max_distance_delta": 0.0,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "sequential_i05_t12",
+      "instance_id": "i05",
+      "max_distance_delta": 0.0,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "asymmetric_i01_t12",
+      "instance_id": "i01",
+      "max_distance_delta": 0.0,
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "asymmetric_i02_t12",
+      "instance_id": "i02",
+      "max_distance_delta": 0.0,
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "asymmetric_i03_t12",
+      "instance_id": "i03",
+      "max_distance_delta": 0.0,
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "asymmetric_i04_t12",
+      "instance_id": "i04",
+      "max_distance_delta": 0.0,
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "connectivity_agreement": true,
+      "differing_availability": 0,
+      "differing_distance_values": 0,
+      "distance_values_within_tolerance": true,
+      "environment_id": "asymmetric_i05_t12",
+      "instance_id": "i05",
+      "max_distance_delta": 0.0,
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "schema": "paper1_cached_vg_regression_v1"
+}

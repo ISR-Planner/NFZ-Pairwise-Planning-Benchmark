@@ -1,0 +1,81 @@
+{
+  "branch_counts": {
+    "direct": 132,
+    "failed": 0,
+    "multi_region_visibility": 0,
+    "single_region": 24
+  },
+  "branch_percentages": {
+    "direct": 0.8461538461538461,
+    "failed": 0.0,
+    "multi_region_visibility": 0.0,
+    "single_region": 0.15384615384615385
+  },
+  "branch_time_aggregate_sec": {
+    "direct": 0.0003220998914912343,
+    "failed": 0.0,
+    "multi_region_visibility": 0.0,
+    "single_region": 0.230378300009761
+  },
+  "branch_time_stats": {
+    "direct": {
+      "count": 132,
+      "max_sec": 8.500006515532732e-06,
+      "mean_sec": 2.4401506931154113e-06,
+      "median_sec": 2.0999577827751637e-06,
+      "min_sec": 1.800013706088066e-06
+    },
+    "failed": {
+      "count": 0,
+      "max_sec": null,
+      "mean_sec": null,
+      "median_sec": null,
+      "min_sec": null
+    },
+    "multi_region_visibility": {
+      "count": 0,
+      "max_sec": null,
+      "mean_sec": null,
+      "median_sec": null,
+      "min_sec": null
+    },
+    "single_region": {
+      "count": 24,
+      "max_sec": 0.01236379996407777,
+      "mean_sec": 0.009599095833740042,
+      "median_sec": 0.009209200012264773,
+      "min_sec": 0.007474700047168881
+    }
+  },
+  "cluster_count": 1,
+  "counter_availability": {
+    "available": [
+      "native_nfz_count",
+      "cluster_count",
+      "singleton_region_count",
+      "multi_nfz_cluster_count",
+      "wrapped_region_count",
+      "relevant_blocking_region_count",
+      "tangent_call_count",
+      "blocking_checks",
+      "reblocking_checks"
+    ],
+    "unavailable_without_algorithm_changes": [
+      "tangent_exit_check_count",
+      "visibility_edge_clearance_checks"
+    ]
+  },
+  "diagnostic_runtime_sec": 0.2322715000482276,
+  "directed_pair_count": 156,
+  "environment_id": "c_trap_001_t12",
+  "instance_id": "part1_controlled_001",
+  "multi_nfz_cluster_count": 1,
+  "native_nfz_count": 5,
+  "node_count": 13,
+  "schema": "nfz_part2_proposed_environment_summary_v1",
+  "seed": null,
+  "singleton_region_count": 0,
+  "target_count": 12,
+  "topology": "c_trap",
+  "wrapped_region_count": 1
+}

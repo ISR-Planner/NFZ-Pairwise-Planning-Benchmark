@@ -1,0 +1,1237 @@
+{
+  "conditions": [
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 1,
+      "instance_id": "i01",
+      "method": "proposed",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 2,
+      "instance_id": "i01",
+      "method": "euclidean",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 3,
+      "instance_id": "i01",
+      "method": "collision_rejection",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 4,
+      "instance_id": "i01",
+      "method": "visibility_graph",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 5,
+      "instance_id": "i01",
+      "method": "grid_astar",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 6,
+      "instance_id": "i01",
+      "method": "appatt_raw",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 7,
+      "instance_id": "i01",
+      "method": "appatt_bspline",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 8,
+      "instance_id": "i01",
+      "method": "tig_raw",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 9,
+      "instance_id": "i01",
+      "method": "tig_bezier",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 10,
+      "instance_id": "i02",
+      "method": "proposed",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 11,
+      "instance_id": "i02",
+      "method": "euclidean",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 12,
+      "instance_id": "i02",
+      "method": "collision_rejection",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 13,
+      "instance_id": "i02",
+      "method": "visibility_graph",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 14,
+      "instance_id": "i02",
+      "method": "grid_astar",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 15,
+      "instance_id": "i02",
+      "method": "appatt_raw",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 16,
+      "instance_id": "i02",
+      "method": "appatt_bspline",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 17,
+      "instance_id": "i02",
+      "method": "tig_raw",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 18,
+      "instance_id": "i02",
+      "method": "tig_bezier",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 19,
+      "instance_id": "i03",
+      "method": "proposed",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 20,
+      "instance_id": "i03",
+      "method": "euclidean",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 21,
+      "instance_id": "i03",
+      "method": "collision_rejection",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 22,
+      "instance_id": "i03",
+      "method": "visibility_graph",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 23,
+      "instance_id": "i03",
+      "method": "grid_astar",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 24,
+      "instance_id": "i03",
+      "method": "appatt_raw",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 25,
+      "instance_id": "i03",
+      "method": "appatt_bspline",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 26,
+      "instance_id": "i03",
+      "method": "tig_raw",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 27,
+      "instance_id": "i03",
+      "method": "tig_bezier",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 28,
+      "instance_id": "i04",
+      "method": "proposed",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 29,
+      "instance_id": "i04",
+      "method": "euclidean",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 30,
+      "instance_id": "i04",
+      "method": "collision_rejection",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 31,
+      "instance_id": "i04",
+      "method": "visibility_graph",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 32,
+      "instance_id": "i04",
+      "method": "grid_astar",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 33,
+      "instance_id": "i04",
+      "method": "appatt_raw",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 34,
+      "instance_id": "i04",
+      "method": "appatt_bspline",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 35,
+      "instance_id": "i04",
+      "method": "tig_raw",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 36,
+      "instance_id": "i04",
+      "method": "tig_bezier",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 37,
+      "instance_id": "i05",
+      "method": "proposed",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 38,
+      "instance_id": "i05",
+      "method": "euclidean",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 39,
+      "instance_id": "i05",
+      "method": "collision_rejection",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 40,
+      "instance_id": "i05",
+      "method": "visibility_graph",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 41,
+      "instance_id": "i05",
+      "method": "grid_astar",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 42,
+      "instance_id": "i05",
+      "method": "appatt_raw",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 43,
+      "instance_id": "i05",
+      "method": "appatt_bspline",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 44,
+      "instance_id": "i05",
+      "method": "tig_raw",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 45,
+      "instance_id": "i05",
+      "method": "tig_bezier",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 46,
+      "instance_id": "i01",
+      "method": "proposed",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 47,
+      "instance_id": "i01",
+      "method": "euclidean",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 48,
+      "instance_id": "i01",
+      "method": "collision_rejection",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 49,
+      "instance_id": "i01",
+      "method": "visibility_graph",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 50,
+      "instance_id": "i01",
+      "method": "grid_astar",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 51,
+      "instance_id": "i01",
+      "method": "appatt_raw",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 52,
+      "instance_id": "i01",
+      "method": "appatt_bspline",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 53,
+      "instance_id": "i01",
+      "method": "tig_raw",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 54,
+      "instance_id": "i01",
+      "method": "tig_bezier",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 55,
+      "instance_id": "i02",
+      "method": "proposed",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 56,
+      "instance_id": "i02",
+      "method": "euclidean",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 57,
+      "instance_id": "i02",
+      "method": "collision_rejection",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 58,
+      "instance_id": "i02",
+      "method": "visibility_graph",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 59,
+      "instance_id": "i02",
+      "method": "grid_astar",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 60,
+      "instance_id": "i02",
+      "method": "appatt_raw",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 61,
+      "instance_id": "i02",
+      "method": "appatt_bspline",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 62,
+      "instance_id": "i02",
+      "method": "tig_raw",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 63,
+      "instance_id": "i02",
+      "method": "tig_bezier",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 64,
+      "instance_id": "i03",
+      "method": "proposed",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 65,
+      "instance_id": "i03",
+      "method": "euclidean",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 66,
+      "instance_id": "i03",
+      "method": "collision_rejection",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 67,
+      "instance_id": "i03",
+      "method": "visibility_graph",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 68,
+      "instance_id": "i03",
+      "method": "grid_astar",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 69,
+      "instance_id": "i03",
+      "method": "appatt_raw",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 70,
+      "instance_id": "i03",
+      "method": "appatt_bspline",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 71,
+      "instance_id": "i03",
+      "method": "tig_raw",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 72,
+      "instance_id": "i03",
+      "method": "tig_bezier",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 73,
+      "instance_id": "i04",
+      "method": "proposed",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 74,
+      "instance_id": "i04",
+      "method": "euclidean",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 75,
+      "instance_id": "i04",
+      "method": "collision_rejection",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 76,
+      "instance_id": "i04",
+      "method": "visibility_graph",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 77,
+      "instance_id": "i04",
+      "method": "grid_astar",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 78,
+      "instance_id": "i04",
+      "method": "appatt_raw",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 79,
+      "instance_id": "i04",
+      "method": "appatt_bspline",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 80,
+      "instance_id": "i04",
+      "method": "tig_raw",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 81,
+      "instance_id": "i04",
+      "method": "tig_bezier",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 82,
+      "instance_id": "i05",
+      "method": "proposed",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 83,
+      "instance_id": "i05",
+      "method": "euclidean",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 84,
+      "instance_id": "i05",
+      "method": "collision_rejection",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 85,
+      "instance_id": "i05",
+      "method": "visibility_graph",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 86,
+      "instance_id": "i05",
+      "method": "grid_astar",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 87,
+      "instance_id": "i05",
+      "method": "appatt_raw",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 88,
+      "instance_id": "i05",
+      "method": "appatt_bspline",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 89,
+      "instance_id": "i05",
+      "method": "tig_raw",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 90,
+      "instance_id": "i05",
+      "method": "tig_bezier",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 91,
+      "instance_id": "i01",
+      "method": "proposed",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 92,
+      "instance_id": "i01",
+      "method": "euclidean",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 93,
+      "instance_id": "i01",
+      "method": "collision_rejection",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 94,
+      "instance_id": "i01",
+      "method": "visibility_graph",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 95,
+      "instance_id": "i01",
+      "method": "grid_astar",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 96,
+      "instance_id": "i01",
+      "method": "appatt_raw",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 97,
+      "instance_id": "i01",
+      "method": "appatt_bspline",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 98,
+      "instance_id": "i01",
+      "method": "tig_raw",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 99,
+      "instance_id": "i01",
+      "method": "tig_bezier",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 100,
+      "instance_id": "i02",
+      "method": "proposed",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 101,
+      "instance_id": "i02",
+      "method": "euclidean",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 102,
+      "instance_id": "i02",
+      "method": "collision_rejection",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 103,
+      "instance_id": "i02",
+      "method": "visibility_graph",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 104,
+      "instance_id": "i02",
+      "method": "grid_astar",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 105,
+      "instance_id": "i02",
+      "method": "appatt_raw",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 106,
+      "instance_id": "i02",
+      "method": "appatt_bspline",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 107,
+      "instance_id": "i02",
+      "method": "tig_raw",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 108,
+      "instance_id": "i02",
+      "method": "tig_bezier",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 109,
+      "instance_id": "i03",
+      "method": "proposed",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 110,
+      "instance_id": "i03",
+      "method": "euclidean",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 111,
+      "instance_id": "i03",
+      "method": "collision_rejection",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 112,
+      "instance_id": "i03",
+      "method": "visibility_graph",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 113,
+      "instance_id": "i03",
+      "method": "grid_astar",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 114,
+      "instance_id": "i03",
+      "method": "appatt_raw",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 115,
+      "instance_id": "i03",
+      "method": "appatt_bspline",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 116,
+      "instance_id": "i03",
+      "method": "tig_raw",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 117,
+      "instance_id": "i03",
+      "method": "tig_bezier",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 118,
+      "instance_id": "i04",
+      "method": "proposed",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 119,
+      "instance_id": "i04",
+      "method": "euclidean",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 120,
+      "instance_id": "i04",
+      "method": "collision_rejection",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 121,
+      "instance_id": "i04",
+      "method": "visibility_graph",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 122,
+      "instance_id": "i04",
+      "method": "grid_astar",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 123,
+      "instance_id": "i04",
+      "method": "appatt_raw",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 124,
+      "instance_id": "i04",
+      "method": "appatt_bspline",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 125,
+      "instance_id": "i04",
+      "method": "tig_raw",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 126,
+      "instance_id": "i04",
+      "method": "tig_bezier",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 127,
+      "instance_id": "i05",
+      "method": "proposed",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 128,
+      "instance_id": "i05",
+      "method": "euclidean",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 129,
+      "instance_id": "i05",
+      "method": "collision_rejection",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 130,
+      "instance_id": "i05",
+      "method": "visibility_graph",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 131,
+      "instance_id": "i05",
+      "method": "grid_astar",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 132,
+      "instance_id": "i05",
+      "method": "appatt_raw",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 133,
+      "instance_id": "i05",
+      "method": "appatt_bspline",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 134,
+      "instance_id": "i05",
+      "method": "tig_raw",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 135,
+      "instance_id": "i05",
+      "method": "tig_bezier",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "methods": [
+    "proposed",
+    "euclidean",
+    "collision_rejection",
+    "visibility_graph",
+    "grid_astar",
+    "appatt_raw",
+    "appatt_bspline",
+    "tig_raw",
+    "tig_bezier"
+  ],
+  "order": "for each topology, for each instance i01-i05, run all nine primary methods",
+  "schema": "nfz_part2_primary_execution_order_v1",
+  "topologies": [
+    "c_trap",
+    "sequential_staggered_blocking",
+    "asymmetric_corridor"
+  ]
+}

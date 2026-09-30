@@ -1,0 +1,65 @@
+{
+  "conditions": [
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 1,
+      "instance_id": "i03",
+      "method": "proposed",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 2,
+      "instance_id": "i03",
+      "method": "visibility_graph",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 3,
+      "instance_id": "i03",
+      "method": "proposed",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 4,
+      "instance_id": "i03",
+      "method": "visibility_graph",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 5,
+      "instance_id": "i03",
+      "method": "proposed",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 6,
+      "instance_id": "i03",
+      "method": "visibility_graph",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "instance_id": "i03",
+  "methods": [
+    "proposed",
+    "visibility_graph"
+  ],
+  "order": "for each topology, run proposed then visibility_graph for instance i03",
+  "schema": "nfz_part2_sanity_execution_order_v1"
+}

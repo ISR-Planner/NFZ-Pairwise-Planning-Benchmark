@@ -1,0 +1,1 @@
+"""APPATT-style benchmark method."""

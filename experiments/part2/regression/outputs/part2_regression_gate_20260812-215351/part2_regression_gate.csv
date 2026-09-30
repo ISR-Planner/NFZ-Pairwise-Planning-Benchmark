@@ -1,0 +1,5 @@
+case_id,label,passed,reference_runtime_sec,diagnostic_runtime_sec,diagnostic_overhead_pct,max_matrix_delta,max_path_delta,route_distance_delta,matrix_values_equal,paths_equal,route_equal,mission_success_equal,mission_feasible_equal,targets_serviced_equal,failure_reason_equal
+c_trap_t12,C-Trap t12,True,0.2239389000023948,0.2322715000482276,3.7209256836323195,0.0,0.0,0.0,True,True,True,True,True,True,True
+sequential_staggered_blocking_t12,Sequential Staggered Blocking t12,True,59.967958699999144,90.047385199985,50.1591635801108,0.0,0.0,0.0,True,True,True,True,True,True,True
+asymmetric_corridor_t12,Asymmetric Corridor t12,True,24.48722719999205,34.476185699983034,40.79252590915736,0.0,0.0,0.0,True,True,True,True,True,True,True
+composite_adversarial_t12,Composite Adversarial t12,True,2971.728721499996,5293.733880600019,78.13651166409221,0.0,0.0,0.0,True,True,True,True,True,True,True

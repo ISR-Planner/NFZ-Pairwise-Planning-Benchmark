@@ -1,0 +1,500 @@
+{
+  "rows": [
+    {
+      "environment_id": "ctrap_i01_t12",
+      "instance_id": "i01",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T1,T7,T9,T2,T10,T6,T11,T4,T12,T3,T5,T8,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T1,T7,T9,T2,T10,T6,T11,T4,T12,T3,T5,T8,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "instance_id": "i02",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T9,T8,T7,T11,T1,T5,T6,T4,T12,T2,T10,T3,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T9,T8,T7,T11,T1,T5,T6,T4,T12,T2,T10,T3,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "instance_id": "i03",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T10,T9,T3,T11,T1,T5,T12,T8,T7,T2,T6,T4,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T10,T9,T3,T11,T1,T5,T12,T8,T7,T2,T6,T4,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "instance_id": "i04",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T11,T10,T5,T2,T12,T9,T4,T7,T6,T8,T3,T1,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T11,T10,T5,T2,T12,T9,T4,T7,T6,T8,T3,T1,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "instance_id": "i05",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T4,T8,T5,T7,T10,T12,T9,T6,T3,T2,T11,T1,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T4,T8,T5,T7,T10,T12,T9,T6,T3,T2,T11,T1,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "instance_id": "i01",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T10,T1,T5,T11,T2,T12,T7,T9,T3,T8,T4,T6,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T10,T1,T5,T11,T2,T12,T7,T9,T3,T8,T4,T6,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "instance_id": "i02",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T10,T7,T3,T4,T9,T6,T8,T2,T5,T11,T12,T1,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T10,T7,T3,T4,T9,T6,T8,T2,T5,T11,T12,T1,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "instance_id": "i03",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T6,T2,T11,T10,T7,T8,T12,T4,T1,T3,T5,T9,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T6,T2,T11,T10,T7,T8,T12,T4,T1,T3,T5,T9,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "instance_id": "i04",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T7,T11,T5,T9,T4,T10,T2,T6,T8,T1,T12,T3,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T7,T11,T5,T9,T4,T10,T2,T6,T8,T1,T12,T3,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "instance_id": "i05",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T2,T10,T1,T11,T12,T6,T4,T7,T3,T8,T9,T5,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T2,T10,T1,T11,T12,T6,T4,T7,T3,T8,T9,T5,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "instance_id": "i01",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T11,T4,T1,T5,T12,T10,T6,T3,T9,T8,T2,T7,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T11,T4,T1,T5,T12,T10,T6,T3,T9,T8,T2,T7,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "instance_id": "i02",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T7,T4,T1,T2,T10,T9,T6,T11,T5,T3,T12,T8,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T7,T4,T1,T2,T10,T9,T6,T11,T5,T3,T12,T8,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "instance_id": "i03",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T9,T5,T4,T7,T11,T3,T8,T2,T1,T10,T6,T12,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T9,T5,T4,T7,T11,T3,T8,T2,T1,T10,T6,T12,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "instance_id": "i04",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T9,T3,T7,T8,T12,T5,T4,T10,T1,T2,T11,T6,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T9,T3,T7,T8,T12,T5,T4,T10,T1,T2,T11,T6,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "instance_id": "i05",
+      "matrix_comparison": {
+        "availability_equal": true,
+        "differing_availability": [],
+        "differing_values": [],
+        "labels_equal": true,
+        "max_matrix_delta": 0.0,
+        "shape_equal": true,
+        "values_equal": true
+      },
+      "passed": true,
+      "path_comparison": {
+        "differing_paths": [],
+        "max_path_delta": 0.0,
+        "path_keys_equal": true,
+        "paths_equal": true
+      },
+      "route_comparison": {
+        "candidate_sequence": "A1,T12,T9,T8,T7,T2,T5,T10,T4,T1,T6,T11,T3,A1",
+        "failure_reason_equal": true,
+        "mission_feasible_equal": true,
+        "mission_success_equal": true,
+        "points_equal": true,
+        "primary_record_distance_delta": 0.0,
+        "reference_sequence": "A1,T12,T9,T8,T7,T2,T5,T10,T4,T1,T6,T11,T3,A1",
+        "route_distance_delta": 0.0,
+        "route_equal": true,
+        "targets_serviced_equal": true
+      },
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "schema": "nfz_part2_proposed_functional_equivalence_v1"
+}

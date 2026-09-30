@@ -1,0 +1,20 @@
+{
+  "campaign_id": "part2_proposed_diagnostic_20260812-204803",
+  "completed_diagnostic_environments": 15,
+  "completed_pair_records": 2340,
+  "current_environment_id": null,
+  "expected_diagnostic_environments": 15,
+  "expected_pair_records": 2340,
+  "functional_discrepancies": [],
+  "functional_discrepancy_count": 0,
+  "infrastructure_failure_count": 0,
+  "infrastructure_failures": [],
+  "pending_diagnostic_environments": 0,
+  "pending_environment_ids": [],
+  "primary_executions_added": 0,
+  "run": "run_01_20260812-204803",
+  "sanity_repetitions": 0,
+  "schema": "nfz_part2_proposed_diagnostic_progress_v1",
+  "status": "complete",
+  "updated_at": "2026-08-13T01:59:25.327258+00:00"
+}

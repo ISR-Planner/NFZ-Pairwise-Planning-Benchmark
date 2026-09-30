@@ -1,0 +1,19 @@
+{
+  "analysis_artifacts": {
+    "comparison_csv": "experiments\\part2\\analysis\\part2_sanity_repetition_comparison.csv",
+    "comparison_json": "experiments\\part2\\analysis\\part2_sanity_repetition_comparison.json",
+    "markdown_summary": "experiments\\part2\\analysis\\PART2_SANITY_REPETITION_SUMMARY.md"
+  },
+  "campaign_id": "part2_sanity_repetition_20260812-211108",
+  "execution_order": "experiments\\part2\\results\\sanity\\run_01_20260812-211108\\execution_order.json",
+  "finalized_from_saved_rows": true,
+  "progress_manifest": "experiments\\part2\\results\\sanity\\run_01_20260812-211108\\campaign_status.json",
+  "results_csv": "experiments\\part2\\results\\sanity\\run_01_20260812-211108\\part2_sanity_repetition_20260812-211108.csv",
+  "results_json": "experiments\\part2\\results\\sanity\\run_01_20260812-211108\\part2_sanity_repetition_20260812-211108.json",
+  "results_jsonl": "experiments\\part2\\results\\sanity\\run_01_20260812-211108\\part2_sanity_repetition_20260812-211108_rows.jsonl",
+  "run": "run_01_20260812-211108",
+  "run_directory": "experiments\\part2\\results\\sanity\\run_01_20260812-211108",
+  "sanity_manifest_csv": "experiments\\part2\\manifests\\part2_sanity_manifest.csv",
+  "sanity_manifest_json": "experiments\\part2\\manifests\\part2_sanity_manifest.json",
+  "schema": "nfz_part2_sanity_campaign_artifacts_v1"
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "nfz_part2_provenance_manifest.schema.json",
+  "title": "Part II Provenance Manifest",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "schema",
+    "repository",
+    "part2_branch",
+    "part2_commit",
+    "part1_experiment_commit",
+    "dataset_generator_commit",
+    "artifact_hashes"
+  ],
+  "properties": {
+    "schema": {
+      "const": "nfz_part2_provenance_manifest_v1"
+    },
+    "repository": {
+      "type": "string"
+    },
+    "part2_branch": {
+      "type": "string"
+    },
+    "part2_commit": {
+      "type": "string"
+    },
+    "part1_experiment_commit": {
+      "type": "string"
+    },
+    "dataset_generator_commit": {
+      "type": "string"
+    },
+    "artifact_hashes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "sha256"],
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string",
+            "pattern": "^[A-Fa-f0-9]{64}$"
+          }
+        }
+      }
+    }
+  }
+}

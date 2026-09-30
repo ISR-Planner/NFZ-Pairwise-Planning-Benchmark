@@ -1,0 +1,19 @@
+{
+  "campaign_id": "part2_sanity_repetition_20260812-211108",
+  "completed_executions": 6,
+  "current_condition_key": null,
+  "diagnostics_enabled": false,
+  "expected_executions": 6,
+  "functional_mismatch_count": 0,
+  "functional_mismatches": [],
+  "infrastructure_failure_count": 0,
+  "infrastructure_failures": [],
+  "pending_condition_keys": [],
+  "pending_executions": 0,
+  "primary_campaign_rerun": false,
+  "run": "run_01_20260812-211108",
+  "sanity_repetitions": 6,
+  "schema": "nfz_part2_sanity_progress_v1",
+  "status": "complete",
+  "updated_at": "2026-08-13T02:18:51.154348+00:00"
+}

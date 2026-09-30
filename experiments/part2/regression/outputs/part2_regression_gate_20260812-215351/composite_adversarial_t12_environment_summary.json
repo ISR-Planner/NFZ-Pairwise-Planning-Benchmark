@@ -1,0 +1,81 @@
+{
+  "branch_counts": {
+    "direct": 54,
+    "failed": 0,
+    "multi_region_visibility": 102,
+    "single_region": 0
+  },
+  "branch_percentages": {
+    "direct": 0.34615384615384615,
+    "failed": 0.0,
+    "multi_region_visibility": 0.6538461538461539,
+    "single_region": 0.0
+  },
+  "branch_time_aggregate_sec": {
+    "direct": 0.000592199619859457,
+    "failed": 0.0,
+    "multi_region_visibility": 5293.6916824003565,
+    "single_region": 0.0
+  },
+  "branch_time_stats": {
+    "direct": {
+      "count": 54,
+      "max_sec": 2.3399945348501205e-05,
+      "mean_sec": 1.0966659627026982e-05,
+      "median_sec": 1.1499971151351929e-05,
+      "min_sec": 5.00003807246685e-06
+    },
+    "failed": {
+      "count": 0,
+      "max_sec": null,
+      "mean_sec": null,
+      "median_sec": null,
+      "min_sec": null
+    },
+    "multi_region_visibility": {
+      "count": 102,
+      "max_sec": 54.61714139999822,
+      "mean_sec": 51.89893806274859,
+      "median_sec": 51.207350200013025,
+      "min_sec": 50.45403919997625
+    },
+    "single_region": {
+      "count": 0,
+      "max_sec": null,
+      "mean_sec": null,
+      "median_sec": null,
+      "min_sec": null
+    }
+  },
+  "cluster_count": 6,
+  "counter_availability": {
+    "available": [
+      "native_nfz_count",
+      "cluster_count",
+      "singleton_region_count",
+      "multi_nfz_cluster_count",
+      "wrapped_region_count",
+      "relevant_blocking_region_count",
+      "tangent_call_count",
+      "blocking_checks",
+      "reblocking_checks"
+    ],
+    "unavailable_without_algorithm_changes": [
+      "tangent_exit_check_count",
+      "visibility_edge_clearance_checks"
+    ]
+  },
+  "diagnostic_runtime_sec": 5293.733880600019,
+  "directed_pair_count": 156,
+  "environment_id": "composite_adversarial_001_t12",
+  "instance_id": "part1_composite_001",
+  "multi_nfz_cluster_count": 6,
+  "native_nfz_count": 16,
+  "node_count": 13,
+  "schema": "nfz_part2_proposed_environment_summary_v1",
+  "seed": null,
+  "singleton_region_count": 0,
+  "target_count": 12,
+  "topology": "composite_adversarial",
+  "wrapped_region_count": 6
+}

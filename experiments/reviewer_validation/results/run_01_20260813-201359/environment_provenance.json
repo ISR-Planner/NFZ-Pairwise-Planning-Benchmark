@@ -1,0 +1,25 @@
+{
+  "branch": "paper1-reviewer-validation",
+  "environment_info": {
+    "available_physical_memory_gb": 33.93,
+    "background_process_policy": "no benchmark-specific background workers launched",
+    "cpu_affinity_policy": "not modified by script",
+    "cpu_name": "13th Gen Intel(R) Core(TM) i9-13900K",
+    "cpu_only": true,
+    "garbage_collection_policy": "default CPython garbage collection",
+    "logical_cpu_count": 32,
+    "os": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "process_reuse": "one process for this campaign script",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "python_executable": "python",
+    "python_version": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]",
+    "python_version_short": "3.13.9",
+    "thread_behavior": "single Python process; no explicit worker pool for reviewer-validation wrappers",
+    "timer": "time.perf_counter",
+    "total_physical_memory_gb": 63.75
+  },
+  "git_commit": "3683ea5727a8c2a3b67ddd1ef025e8f3fc6c2bf8"
+}

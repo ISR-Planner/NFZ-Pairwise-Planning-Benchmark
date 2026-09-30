@@ -1,0 +1,115 @@
+{
+  "campaign_id": "part2_generalization_primary_20260812-194711",
+  "rows": [
+    {
+      "feasible": 15,
+      "infeasible": 0,
+      "mean_matrix_time": 26.986884573330947,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 3.7942041266709565,
+      "mean_successful_mission_distance": 442.25733470829266,
+      "method": "proposed",
+      "partial": 0,
+      "runs": 15,
+      "successes": 15
+    },
+    {
+      "feasible": 15,
+      "infeasible": 0,
+      "mean_matrix_time": 0.0002031866538648804,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 3.805029666660509,
+      "mean_successful_mission_distance": 437.8963852757687,
+      "method": "euclidean",
+      "partial": 0,
+      "runs": 15,
+      "successes": 15
+    },
+    {
+      "feasible": 10,
+      "infeasible": 5,
+      "mean_matrix_time": 0.0003801333407560984,
+      "mean_service_fraction": 0.65,
+      "mean_solver_time": 1.580754933335508,
+      "mean_successful_mission_distance": 460.55207378264714,
+      "method": "collision_rejection",
+      "partial": 2,
+      "runs": 15,
+      "successes": 8
+    },
+    {
+      "feasible": 15,
+      "infeasible": 0,
+      "mean_matrix_time": 30.563451140001415,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 3.7972092666702033,
+      "mean_successful_mission_distance": 442.25735853432826,
+      "method": "visibility_graph",
+      "partial": 0,
+      "runs": 15,
+      "successes": 15
+    },
+    {
+      "feasible": 15,
+      "infeasible": 0,
+      "mean_matrix_time": 0.4516570800022843,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 3.7268923333341566,
+      "mean_successful_mission_distance": 466.3286818984542,
+      "method": "grid_astar",
+      "partial": 0,
+      "runs": 15,
+      "successes": 15
+    },
+    {
+      "feasible": 15,
+      "infeasible": 0,
+      "mean_matrix_time": 0.0015941666555590928,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 3.793532006655975,
+      "mean_successful_mission_distance": 444.3381202428178,
+      "method": "appatt_raw",
+      "partial": 0,
+      "runs": 15,
+      "successes": 15
+    },
+    {
+      "feasible": 10,
+      "infeasible": 5,
+      "mean_matrix_time": 0.0044050599914044145,
+      "mean_service_fraction": 0.65,
+      "mean_solver_time": 1.575348233334565,
+      "mean_successful_mission_distance": 460.55207378264714,
+      "method": "appatt_bspline",
+      "partial": 2,
+      "runs": 15,
+      "successes": 8
+    },
+    {
+      "feasible": 15,
+      "infeasible": 0,
+      "mean_matrix_time": 0.001769340003374964,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 3.7968110266684865,
+      "mean_successful_mission_distance": 444.1105662500182,
+      "method": "tig_raw",
+      "partial": 0,
+      "runs": 15,
+      "successes": 15
+    },
+    {
+      "feasible": 10,
+      "infeasible": 5,
+      "mean_matrix_time": 0.0028494666679762305,
+      "mean_service_fraction": 0.65,
+      "mean_solver_time": 1.6533797333405043,
+      "mean_successful_mission_distance": 459.29487795807046,
+      "method": "tig_bezier",
+      "partial": 2,
+      "runs": 15,
+      "successes": 8
+    }
+  ],
+  "run": "run_01_20260812-194711",
+  "schema": "nfz_part2_primary_run01_execution_summary_v1"
+}

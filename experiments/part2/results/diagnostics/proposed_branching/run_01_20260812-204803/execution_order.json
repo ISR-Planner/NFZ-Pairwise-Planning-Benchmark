@@ -1,0 +1,132 @@
+{
+  "conditions": [
+    {
+      "environment_id": "ctrap_i01_t12",
+      "execution_index": 1,
+      "instance_id": "i01",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i02_t12",
+      "execution_index": 2,
+      "instance_id": "i02",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i03_t12",
+      "execution_index": 3,
+      "instance_id": "i03",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i04_t12",
+      "execution_index": 4,
+      "instance_id": "i04",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "ctrap_i05_t12",
+      "execution_index": 5,
+      "instance_id": "i05",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+      "topology": "c_trap"
+    },
+    {
+      "environment_id": "sequential_i01_t12",
+      "execution_index": 6,
+      "instance_id": "i01",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i02_t12",
+      "execution_index": 7,
+      "instance_id": "i02",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i03_t12",
+      "execution_index": 8,
+      "instance_id": "i03",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i04_t12",
+      "execution_index": 9,
+      "instance_id": "i04",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "sequential_i05_t12",
+      "execution_index": 10,
+      "instance_id": "i05",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_id": "asymmetric_i01_t12",
+      "execution_index": 11,
+      "instance_id": "i01",
+      "seed": 20260813,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i02_t12",
+      "execution_index": 12,
+      "instance_id": "i02",
+      "seed": 20260814,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i03_t12",
+      "execution_index": 13,
+      "instance_id": "i03",
+      "seed": 20260815,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i04_t12",
+      "execution_index": 14,
+      "instance_id": "i04",
+      "seed": 20260816,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_id": "asymmetric_i05_t12",
+      "execution_index": 15,
+      "instance_id": "i05",
+      "seed": 20260817,
+      "source_mission_file": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "method": "proposed_diagnostic",
+  "order": "for each topology, for each instance i01-i05, run Proposed diagnostic mode",
+  "schema": "nfz_part2_proposed_diagnostic_execution_order_v1",
+  "topologies": [
+    "c_trap",
+    "sequential_staggered_blocking",
+    "asymmetric_corridor"
+  ]
+}

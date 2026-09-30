@@ -1,0 +1,1020 @@
+{
+  "topology_name": "Composite Adversarial Stress",
+  "topology_stem": "composite_adversarial",
+  "seed": 20260809,
+  "dataset_files": [
+    "composite_adversarial_001_t04.json",
+    "composite_adversarial_001_t08.json",
+    "composite_adversarial_001_t12.json"
+  ],
+  "motif_membership": [
+    {
+      "nfz_id": "NFZ01",
+      "motif": "C-Trap",
+      "cluster": "c_trap_chain",
+      "local_center_km": {
+        "x": 28.704,
+        "y": 104.666
+      },
+      "radius_km": 10
+    },
+    {
+      "nfz_id": "NFZ02",
+      "motif": "C-Trap",
+      "cluster": "c_trap_chain",
+      "local_center_km": {
+        "x": 42.984,
+        "y": 95.486
+      },
+      "radius_km": 15
+    },
+    {
+      "nfz_id": "NFZ03",
+      "motif": "C-Trap",
+      "cluster": "c_trap_chain",
+      "local_center_km": {
+        "x": 49.104,
+        "y": 79.676
+      },
+      "radius_km": 10
+    },
+    {
+      "nfz_id": "NFZ04",
+      "motif": "C-Trap",
+      "cluster": "c_trap_chain",
+      "local_center_km": {
+        "x": 42.984,
+        "y": 63.866
+      },
+      "radius_km": 15
+    },
+    {
+      "nfz_id": "NFZ05",
+      "motif": "C-Trap",
+      "cluster": "c_trap_chain",
+      "local_center_km": {
+        "x": 31.224,
+        "y": 56.306
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ06",
+      "motif": "Sequential Staggered Blocking",
+      "cluster": "sequential_pair_1",
+      "local_center_km": {
+        "x": 67.0,
+        "y": 50.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ07",
+      "motif": "Sequential Staggered Blocking",
+      "cluster": "sequential_pair_1",
+      "local_center_km": {
+        "x": 67.0,
+        "y": 58.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ08",
+      "motif": "Sequential Staggered Blocking",
+      "cluster": "sequential_pair_2",
+      "local_center_km": {
+        "x": 84.0,
+        "y": 87.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ09",
+      "motif": "Sequential Staggered Blocking",
+      "cluster": "sequential_pair_2",
+      "local_center_km": {
+        "x": 84.0,
+        "y": 95.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ10",
+      "motif": "Sequential Staggered Blocking",
+      "cluster": "sequential_pair_3",
+      "local_center_km": {
+        "x": 101.0,
+        "y": 53.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ11",
+      "motif": "Sequential Staggered Blocking",
+      "cluster": "sequential_pair_3",
+      "local_center_km": {
+        "x": 101.0,
+        "y": 61.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ12",
+      "motif": "Asymmetric Corridor",
+      "cluster": "asymmetric_upper_3",
+      "local_center_km": {
+        "x": 116.0,
+        "y": 94.0
+      },
+      "radius_km": 10
+    },
+    {
+      "nfz_id": "NFZ13",
+      "motif": "Asymmetric Corridor",
+      "cluster": "asymmetric_upper_3",
+      "local_center_km": {
+        "x": 127.0,
+        "y": 96.0
+      },
+      "radius_km": 10
+    },
+    {
+      "nfz_id": "NFZ14",
+      "motif": "Asymmetric Corridor",
+      "cluster": "asymmetric_upper_3",
+      "local_center_km": {
+        "x": 137.0,
+        "y": 94.0
+      },
+      "radius_km": 5
+    },
+    {
+      "nfz_id": "NFZ15",
+      "motif": "Asymmetric Corridor",
+      "cluster": "asymmetric_lower_2",
+      "local_center_km": {
+        "x": 118.0,
+        "y": 55.0
+      },
+      "radius_km": 10
+    },
+    {
+      "nfz_id": "NFZ16",
+      "motif": "Asymmetric Corridor",
+      "cluster": "asymmetric_lower_2",
+      "local_center_km": {
+        "x": 132.0,
+        "y": 58.0
+      },
+      "radius_km": 10
+    }
+  ],
+  "checks": [
+    {
+      "id": 1,
+      "name": "total NFZ count = 16",
+      "passed": true,
+      "detail": "16"
+    },
+    {
+      "id": 2,
+      "name": "C-Trap NFZ count = 5",
+      "passed": true,
+      "detail": "5"
+    },
+    {
+      "id": 3,
+      "name": "Sequential NFZ count = 6",
+      "passed": true,
+      "detail": "6"
+    },
+    {
+      "id": 4,
+      "name": "Asymmetric Corridor NFZ count = 5",
+      "passed": true,
+      "detail": "5"
+    },
+    {
+      "id": 5,
+      "name": "each motif satisfies structural rules",
+      "passed": true,
+      "detail": "c_trap=True; sequential=True; asymmetric=True"
+    },
+    {
+      "id": 6,
+      "name": "motifs remain distinct",
+      "passed": true,
+      "detail": "min_cross_motif_gap_km=2.117243; wrapped_regions=6"
+    },
+    {
+      "id": 7,
+      "name": "no cross-motif circle overlap",
+      "passed": true,
+      "detail": "min_cross_motif_gap_km=2.117243"
+    },
+    {
+      "id": 8,
+      "name": "multiple wrapped regions after clustering/wrapping",
+      "passed": true,
+      "detail": "wrapped_regions=6"
+    },
+    {
+      "id": 9,
+      "name": "airport outside NFZs",
+      "passed": true,
+      "detail": "circle_clearance=20.955632; hull_clearance=12.299804"
+    },
+    {
+      "id": 10,
+      "name": "all targets outside NFZs",
+      "passed": true,
+      "detail": "circle_clearance=3.341664; hull_clearance=3.350685"
+    },
+    {
+      "id": 11,
+      "name": "target spacing >= 15 km",
+      "passed": true,
+      "detail": "min_spacing=17.117243"
+    },
+    {
+      "id": 12,
+      "name": "target-circle clearance >= 2 km",
+      "passed": true,
+      "detail": "min_clearance=3.341664"
+    },
+    {
+      "id": 13,
+      "name": "target-hull clearance >= 1 km",
+      "passed": true,
+      "detail": "min_clearance=3.350685"
+    },
+    {
+      "id": 14,
+      "name": "workspace bounds respected",
+      "passed": true,
+      "detail": "airport=True; targets=True; circles=True"
+    },
+    {
+      "id": 15,
+      "name": "t04 targets preserved in t08/t12",
+      "passed": true,
+      "detail": "True"
+    },
+    {
+      "id": 16,
+      "name": "t08 targets preserved in t12",
+      "passed": true,
+      "detail": "True"
+    },
+    {
+      "id": 17,
+      "name": "NFZ geometry identical across t04/t08/t12",
+      "passed": true,
+      "detail": "True"
+    },
+    {
+      "id": 18,
+      "name": "airport identical across t04/t08/t12",
+      "passed": true,
+      "detail": "True"
+    },
+    {
+      "id": 19,
+      "name": "some airport-target segments interact with all three motif regions",
+      "passed": true,
+      "detail": "all_three_count=2"
+    },
+    {
+      "id": 20,
+      "name": "target-target mixture low/medium/high obstruction",
+      "passed": true,
+      "detail": "{\"high_2_or_3_motifs\": 2, \"low_0_motifs\": 27, \"medium_1_motif\": 37}"
+    },
+    {
+      "id": 21,
+      "name": "no obvious boundary bypass dominates",
+      "passed": true,
+      "detail": "min_ratio=1.493452; mean_ratio=2.090341; collision_free=16/24"
+    },
+    {
+      "id": 22,
+      "name": "geometric free-space connection remains possible",
+      "passed": true,
+      "detail": "all_targets_reachable=True; visited_nodes=19381"
+    }
+  ],
+  "metrics": {
+    "workspace_km": {
+      "width": 150.0,
+      "height": 150.0
+    },
+    "airport_local_km": {
+      "x": 10.0,
+      "y": 80.0
+    },
+    "target_local_km": [
+      {
+        "id": "T1",
+        "x": 145.0,
+        "y": 105.0
+      },
+      {
+        "id": "T2",
+        "x": 145.0,
+        "y": 55.0
+      },
+      {
+        "id": "T3",
+        "x": 128.0,
+        "y": 128.0
+      },
+      {
+        "id": "T4",
+        "x": 130.0,
+        "y": 28.0
+      },
+      {
+        "id": "T5",
+        "x": 112.0,
+        "y": 113.0
+      },
+      {
+        "id": "T6",
+        "x": 112.0,
+        "y": 42.0
+      },
+      {
+        "id": "T7",
+        "x": 145.0,
+        "y": 83.0
+      },
+      {
+        "id": "T8",
+        "x": 145.0,
+        "y": 18.0
+      },
+      {
+        "id": "T9",
+        "x": 125.0,
+        "y": 76.0
+      },
+      {
+        "id": "T10",
+        "x": 97.0,
+        "y": 125.0
+      },
+      {
+        "id": "T11",
+        "x": 98.0,
+        "y": 30.0
+      },
+      {
+        "id": "T12",
+        "x": 145.0,
+        "y": 130.0
+      }
+    ],
+    "min_cross_motif_circle_gap_km": 2.117243,
+    "wrapped_region_count": 6,
+    "min_wrapped_region_gap_km": 2.0,
+    "min_target_spacing_km": 17.117243,
+    "min_target_circle_clearance_km": 3.341664,
+    "min_target_wrapped_hull_clearance_km": 3.350685,
+    "airport_circle_clearance_km": 20.955632,
+    "airport_wrapped_hull_clearance_km": 12.299804,
+    "c_trap": {
+      "radii_counts": {
+        "1": 0,
+        "2": 0,
+        "5": 1,
+        "10": 2,
+        "15": 2
+      },
+      "mouth_distance_km": 48.425613,
+      "bbox_km": [
+        18.704,
+        48.866,
+        59.104,
+        114.666
+      ],
+      "adjacent_partial_overlaps": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "sequential_staggered_blocking": {
+      "pair_orientations_degrees": [
+        90.0,
+        90.0,
+        90.0
+      ],
+      "wrapped_hull_gaps_km": [
+        7.0,
+        7.0
+      ],
+      "cluster_center_y_km": [
+        54.0,
+        91.0,
+        57.0
+      ],
+      "pattern": "low/high/low mirror of high/low/high"
+    },
+    "asymmetric_corridor": {
+      "upper_cluster_count": 3,
+      "lower_cluster_count": 2,
+      "corridor_gap_km": 18.281767,
+      "x_overlap_km": 34.0,
+      "corridor_probe_clear": true
+    },
+    "airport_target_intersections": [
+      {
+        "target": "T1",
+        "motifs": [
+          "C-Trap",
+          "Sequential Staggered Blocking",
+          "Asymmetric Corridor"
+        ],
+        "motif_count": 3
+      },
+      {
+        "target": "T2",
+        "motifs": [
+          "C-Trap",
+          "Sequential Staggered Blocking",
+          "Asymmetric Corridor"
+        ],
+        "motif_count": 3
+      },
+      {
+        "target": "T3",
+        "motifs": [
+          "C-Trap"
+        ],
+        "motif_count": 1
+      },
+      {
+        "target": "T4",
+        "motifs": [
+          "C-Trap",
+          "Sequential Staggered Blocking"
+        ],
+        "motif_count": 2
+      },
+      {
+        "target": "T5",
+        "motifs": [
+          "C-Trap"
+        ],
+        "motif_count": 1
+      },
+      {
+        "target": "T6",
+        "motifs": [
+          "C-Trap",
+          "Sequential Staggered Blocking"
+        ],
+        "motif_count": 2
+      },
+      {
+        "target": "T7",
+        "motifs": [
+          "C-Trap"
+        ],
+        "motif_count": 1
+      },
+      {
+        "target": "T8",
+        "motifs": [
+          "C-Trap",
+          "Sequential Staggered Blocking"
+        ],
+        "motif_count": 2
+      },
+      {
+        "target": "T9",
+        "motifs": [
+          "C-Trap"
+        ],
+        "motif_count": 1
+      },
+      {
+        "target": "T10",
+        "motifs": [
+          "C-Trap"
+        ],
+        "motif_count": 1
+      },
+      {
+        "target": "T11",
+        "motifs": [
+          "C-Trap",
+          "Sequential Staggered Blocking"
+        ],
+        "motif_count": 2
+      },
+      {
+        "target": "T12",
+        "motifs": [
+          "C-Trap"
+        ],
+        "motif_count": 1
+      }
+    ],
+    "target_target_obstruction_counts": {
+      "low_0_motifs": 27,
+      "medium_1_motif": 37,
+      "high_2_or_3_motifs": 2
+    },
+    "target_target_examples": [
+      {
+        "pair": [
+          "T1",
+          "T2"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T1",
+          "T3"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T1",
+          "T5"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T1",
+          "T7"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T1",
+          "T8"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T1",
+          "T10"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T1",
+          "T12"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T2",
+          "T4"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T2",
+          "T7"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T2",
+          "T8"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T2",
+          "T12"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      },
+      {
+        "pair": [
+          "T3",
+          "T5"
+        ],
+        "motifs": [],
+        "motif_count": 0
+      }
+    ],
+    "boundary_bypass": {
+      "tested_boundary_polylines": 24,
+      "collision_free_boundary_polylines": 16,
+      "min_length_ratio_vs_direct": 1.493452,
+      "mean_length_ratio_vs_direct": 2.090341,
+      "passes_no_obvious_dominating_bypass_screen": true,
+      "candidates": [
+        {
+          "target": "T1",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.257907,
+          "collision_free": true
+        },
+        {
+          "target": "T2",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 1.893728,
+          "collision_free": true
+        },
+        {
+          "target": "T3",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.480588,
+          "collision_free": false
+        },
+        {
+          "target": "T4",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 1.666893,
+          "collision_free": true
+        },
+        {
+          "target": "T5",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.658448,
+          "collision_free": false
+        },
+        {
+          "target": "T6",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 1.966035,
+          "collision_free": true
+        },
+        {
+          "target": "T7",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.132807,
+          "collision_free": true
+        },
+        {
+          "target": "T8",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 1.501114,
+          "collision_free": true
+        },
+        {
+          "target": "T9",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.268194,
+          "collision_free": false
+        },
+        {
+          "target": "T10",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.87905,
+          "collision_free": false
+        },
+        {
+          "target": "T11",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 1.857475,
+          "collision_free": true
+        },
+        {
+          "target": "T12",
+          "boundary_y_km": 5.0,
+          "length_ratio_vs_direct": 2.327006,
+          "collision_free": true
+        },
+        {
+          "target": "T1",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 1.748057,
+          "collision_free": true
+        },
+        {
+          "target": "T2",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 2.112235,
+          "collision_free": true
+        },
+        {
+          "target": "T3",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 1.569992,
+          "collision_free": true
+        },
+        {
+          "target": "T4",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 2.309182,
+          "collision_free": false
+        },
+        {
+          "target": "T5",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 1.85625,
+          "collision_free": true
+        },
+        {
+          "target": "T6",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 2.480511,
+          "collision_free": false
+        },
+        {
+          "target": "T7",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 1.940262,
+          "collision_free": true
+        },
+        {
+          "target": "T8",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 2.201184,
+          "collision_free": true
+        },
+        {
+          "target": "T9",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 2.163909,
+          "collision_free": false
+        },
+        {
+          "target": "T10",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 1.756016,
+          "collision_free": true
+        },
+        {
+          "target": "T11",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 2.64789,
+          "collision_free": false
+        },
+        {
+          "target": "T12",
+          "boundary_y_km": 145.0,
+          "length_ratio_vs_direct": 1.493452,
+          "collision_free": true
+        }
+      ]
+    },
+    "connectivity": {
+      "method": "independent 1 km occupancy-grid Dijkstra connectivity check; not a benchmark method",
+      "grid_step_km": 1.0,
+      "sample_clearance_km": 0.05,
+      "visited_free_nodes": 19381,
+      "airport_grid_node": [
+        10,
+        80
+      ],
+      "all_targets_reachable": true,
+      "targets": [
+        {
+          "target": "T1",
+          "nearest_grid_node": [
+            145,
+            105
+          ],
+          "reachable": true,
+          "grid_path_length_km": 165.941125
+        },
+        {
+          "target": "T2",
+          "nearest_grid_node": [
+            145,
+            55
+          ],
+          "reachable": true,
+          "grid_path_length_km": 160.325902
+        },
+        {
+          "target": "T3",
+          "nearest_grid_node": [
+            128,
+            128
+          ],
+          "reachable": true,
+          "grid_path_length_km": 150.183766
+        },
+        {
+          "target": "T4",
+          "nearest_grid_node": [
+            130,
+            28
+          ],
+          "reachable": true,
+          "grid_path_length_km": 147.39697
+        },
+        {
+          "target": "T5",
+          "nearest_grid_node": [
+            112,
+            113
+          ],
+          "reachable": true,
+          "grid_path_length_km": 129.627417
+        },
+        {
+          "target": "T6",
+          "nearest_grid_node": [
+            112,
+            42
+          ],
+          "reachable": true,
+          "grid_path_length_km": 123.59798
+        },
+        {
+          "target": "T7",
+          "nearest_grid_node": [
+            145,
+            83
+          ],
+          "reachable": true,
+          "grid_path_length_km": 168.610173
+        },
+        {
+          "target": "T8",
+          "nearest_grid_node": [
+            145,
+            18
+          ],
+          "reachable": true,
+          "grid_path_length_km": 166.539105
+        },
+        {
+          "target": "T9",
+          "nearest_grid_node": [
+            125,
+            76
+          ],
+          "reachable": true,
+          "grid_path_length_km": 145.710678
+        },
+        {
+          "target": "T10",
+          "nearest_grid_node": [
+            97,
+            125
+          ],
+          "reachable": true,
+          "grid_path_length_km": 117.941125
+        },
+        {
+          "target": "T11",
+          "nearest_grid_node": [
+            98,
+            30
+          ],
+          "reachable": true,
+          "grid_path_length_km": 114.568542
+        },
+        {
+          "target": "T12",
+          "nearest_grid_node": [
+            145,
+            130
+          ],
+          "reachable": true,
+          "grid_path_length_km": 168.012193
+        }
+      ]
+    }
+  },
+  "overall_passed": true,
+  "notes": [
+    "NFZ is the conceptual obstacle term used by this dataset family.",
+    "The native NFZ-aware mission schema field `sams` is preserved literally for compatibility.",
+    "No benchmark planner or matrix method is used for generation or validation.",
+    "Connectivity is checked by an independent geometric occupancy-grid search only.",
+    "No geometric stress score was used for candidate ranking; this is a single deterministic candidate."
+  ],
+  "original_dataset_hash_verification": {
+    "byte_identical": true,
+    "before_manifest": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\validation\\original_dataset_hashes_before.json",
+    "after_manifest": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\validation\\original_dataset_hashes_after.json",
+    "comparisons": [
+      {
+        "file": "asymmetric_corridor_001_t04.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 9341,
+        "bytes_after": 9341,
+        "sha256_before": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+        "sha256_after": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+        "byte_identical": true
+      },
+      {
+        "file": "asymmetric_corridor_001_t08.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 9949,
+        "bytes_after": 9949,
+        "sha256_before": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+        "sha256_after": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+        "byte_identical": true
+      },
+      {
+        "file": "asymmetric_corridor_001_t12.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 10558,
+        "bytes_after": 10558,
+        "sha256_before": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+        "sha256_after": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+        "byte_identical": true
+      },
+      {
+        "file": "c_trap_001_t04.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 9338,
+        "bytes_after": 9338,
+        "sha256_before": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+        "sha256_after": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+        "byte_identical": true
+      },
+      {
+        "file": "c_trap_001_t08.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 9944,
+        "bytes_after": 9944,
+        "sha256_before": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+        "sha256_after": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+        "byte_identical": true
+      },
+      {
+        "file": "c_trap_001_t12.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 10554,
+        "bytes_after": 10554,
+        "sha256_before": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+        "sha256_after": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+        "byte_identical": true
+      },
+      {
+        "file": "sequential_staggered_blocking_001_t04.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 9484,
+        "bytes_after": 9484,
+        "sha256_before": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+        "sha256_after": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+        "byte_identical": true
+      },
+      {
+        "file": "sequential_staggered_blocking_001_t08.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 10091,
+        "bytes_after": 10091,
+        "sha256_before": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+        "sha256_after": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+        "byte_identical": true
+      },
+      {
+        "file": "sequential_staggered_blocking_001_t12.json",
+        "present_before": true,
+        "present_after": true,
+        "bytes_before": 10700,
+        "bytes_after": 10700,
+        "sha256_before": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+        "sha256_after": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+        "byte_identical": true
+      }
+    ]
+  },
+  "created_files": [
+    "dataset\\composite_adversarial_001_t04.json",
+    "dataset\\composite_adversarial_001_t08.json",
+    "dataset\\composite_adversarial_001_t12.json",
+    "validation\\previews\\composite_adversarial_001_t04.svg",
+    "validation\\previews\\composite_adversarial_001_t08.svg",
+    "validation\\previews\\composite_adversarial_001_t12.svg",
+    "validation\\composite_adversarial_validation.json",
+    "validation\\composite_adversarial_validation.md",
+    "validation\\original_dataset_hashes_after.json",
+    "README.md"
+  ]
+}

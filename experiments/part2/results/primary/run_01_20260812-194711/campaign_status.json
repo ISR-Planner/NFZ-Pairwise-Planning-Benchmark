@@ -1,0 +1,15 @@
+{
+  "campaign_id": "part2_generalization_primary_20260812-194711",
+  "completed_conditions": 135,
+  "current_condition": null,
+  "expected_conditions": 135,
+  "infrastructure_failure_count": 0,
+  "infrastructure_failures": [],
+  "method_result_failure_count": 21,
+  "pending_condition_keys": [],
+  "pending_conditions": 0,
+  "run": "run_01_20260812-194711",
+  "schema": "nfz_part2_primary_progress_v1",
+  "status": "complete",
+  "updated_at": "2026-08-13T01:08:35.811849+00:00"
+}

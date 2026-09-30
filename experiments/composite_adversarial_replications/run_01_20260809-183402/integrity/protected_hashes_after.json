@@ -1,0 +1,1734 @@
+{
+  "timestamp": "20260809-183402",
+  "created_at_local": "2026-08-09T21:35:13",
+  "scope": "composite adversarial preservation manifest after 27-run benchmark",
+  "categories": {
+    "composite_environments": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t04.json",
+        "relative_to_repo": "dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t04.json",
+        "bytes": 10934,
+        "sha256": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t08.json",
+        "relative_to_repo": "dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t08.json",
+        "bytes": 11542,
+        "sha256": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t12.json",
+        "relative_to_repo": "dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t12.json",
+        "bytes": 12153,
+        "sha256": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9"
+      }
+    ],
+    "original_nine_environments": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t04.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\asymmetric_corridor_001_t04.json",
+        "bytes": 9341,
+        "sha256": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t08.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\asymmetric_corridor_001_t08.json",
+        "bytes": 9949,
+        "sha256": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t12.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\asymmetric_corridor_001_t12.json",
+        "bytes": 10558,
+        "sha256": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t04.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\c_trap_001_t04.json",
+        "bytes": 9338,
+        "sha256": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t08.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\c_trap_001_t08.json",
+        "bytes": 9944,
+        "sha256": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t12.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\c_trap_001_t12.json",
+        "bytes": 10554,
+        "sha256": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t04.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t04.json",
+        "bytes": 9484,
+        "sha256": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t08.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t08.json",
+        "bytes": 10091,
+        "sha256": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t12.json",
+        "relative_to_repo": "dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t12.json",
+        "bytes": 10700,
+        "sha256": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de"
+      }
+    ],
+    "main_benchmark_artifacts": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.csv",
+        "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107.csv",
+        "bytes": 37358,
+        "sha256": "57ad9f8fccc73a7a5e0394e21aad008aad22e5e1e927214db6a8aeb06eed2f6c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.json",
+        "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107.json",
+        "bytes": 213444,
+        "sha256": "a58ebaa1c47b736cc33aa7e066d7456c25a37d8a08fe718a3a3e8f25a62071ec"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.log",
+        "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107.log",
+        "bytes": 463679,
+        "sha256": "7d7c3885ba86d3024b92d7a596a4b98ceab5b909145c20109dd501b634df44ff"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_analysis.csv",
+        "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107_analysis.csv",
+        "bytes": 5650,
+        "sha256": "cd9ac7d0a235ecdc77740627c8787eb69a4d03101a8422271c1195ebfbd59eca"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_analysis.md",
+        "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107_analysis.md",
+        "bytes": 8777,
+        "sha256": "592cc8056e894f34862f808609c84190ed2f75494aab69d56d60d83ef5f9e0d5"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107_rows.jsonl",
+        "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107_rows.jsonl",
+        "bytes": 82558,
+        "sha256": "609f31d86b44fe0e566e27885d4ab01cbd18f3e3f2d3db12b07e6675c8a2356b"
+      }
+    ],
+    "diagnostic_artifacts": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_after.json",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_after.json",
+        "bytes": 4168,
+        "sha256": "c1cd0717e1440e630131b7c0f57aa2bc6ab7447e7e6a9dc1e33640d02781c9c6"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_before.json",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_before.json",
+        "bytes": 4116,
+        "sha256": "1b2c32a294bbfa1ef2a150eeebc4672292031aceafa21a8e5859e018586cb19a"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_analysis_20260809-165543.md",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_analysis_20260809-165543.md",
+        "bytes": 11846,
+        "sha256": "df631b889e47d8ea6757958398e99b3d267f4c819d71584e7329286c88eaec78"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_diagnostic_20260809-165543.log",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_diagnostic_20260809-165543.log",
+        "bytes": 31890,
+        "sha256": "117f7f6264096d8912dd79b65c2f200de568bb87a47db8ea0d260c9b8c243422"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.csv",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.csv",
+        "bytes": 2066,
+        "sha256": "26137f00c87b91e28bb8a172b1e7da5af2da2518367c612587a9faf071a64cba"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.json",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.json",
+        "bytes": 38666,
+        "sha256": "53a5a217f7ddfa7d25f9b057cefa02c418e15e8d2bdac5339cfe0e711bda775e"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\diagnostics\\proposed_branching\\results\\proposed_pair_diagnostics_20260809-165543.csv",
+        "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_pair_diagnostics_20260809-165543.csv",
+        "bytes": 2822726,
+        "sha256": "2552841ccb73ff0e1dad5e08a289b95e70224eb98225099389c80de58e4a49fb"
+      }
+    ],
+    "method_sources": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\proposed\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\proposed\\__init__.py",
+        "bytes": 44,
+        "sha256": "919aa8838fdbd0d7648d7d01b9d2e6eefd6a8308c9c11df716537d1099550db3"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\proposed\\method.py",
+        "relative_to_repo": "experiments\\methods\\proposed\\method.py",
+        "bytes": 1281,
+        "sha256": "9d9d452d3e07bd1146e76b86f0477c373b44a1636ffa24751842d3cb92ec5aa0"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\proposed\\README.md",
+        "relative_to_repo": "experiments\\methods\\proposed\\README.md",
+        "bytes": 1482,
+        "sha256": "af9b4bfd08bccc24df1feff98d966655b61501f72d024c738bf0f8cb42301e08"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\euclidean\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\euclidean\\__init__.py",
+        "bytes": 49,
+        "sha256": "4a0f930ee0962b73134c600466557db23c90502906a3bd9a5050b8f333c6ac97"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\euclidean\\method.py",
+        "relative_to_repo": "experiments\\methods\\euclidean\\method.py",
+        "bytes": 3858,
+        "sha256": "3cca1981ec83adaa4bb5ed66c329de2253948f5e20217df816aebd4d96b48d6b"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\euclidean\\README.md",
+        "relative_to_repo": "experiments\\methods\\euclidean\\README.md",
+        "bytes": 542,
+        "sha256": "4a5421d111edc02bf52ac1bae77d421bd021fb24cb1e0512843b275f7bcca2ba"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\collision_rejection\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\collision_rejection\\__init__.py",
+        "bytes": 45,
+        "sha256": "2148e85f88192d71fd75cd5b6c513eadb2ecc5befbc9f8bc861bd9dc141d555a"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\collision_rejection\\method.py",
+        "relative_to_repo": "experiments\\methods\\collision_rejection\\method.py",
+        "bytes": 7655,
+        "sha256": "078194908c7dacf6d928dc7655aab9cb5125e0df4164aaa58f9481ed0170b10c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\collision_rejection\\README.md",
+        "relative_to_repo": "experiments\\methods\\collision_rejection\\README.md",
+        "bytes": 1085,
+        "sha256": "6d58a7f1827d129dd806232ecf51afe91e4cc24934afeb4035456ef42b0d7583"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\visibility_graph\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\visibility_graph\\__init__.py",
+        "bytes": 41,
+        "sha256": "71be6eabb2d0e92f77e1e6daa0b26e5de71204335cd63ca8c53c9907134b5ff5"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\visibility_graph\\method.py",
+        "relative_to_repo": "experiments\\methods\\visibility_graph\\method.py",
+        "bytes": 16428,
+        "sha256": "cec98d500657b6e9562ab70df9893a97af1f713683ceffc20ac176f08b677fa1"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\visibility_graph\\README.md",
+        "relative_to_repo": "experiments\\methods\\visibility_graph\\README.md",
+        "bytes": 2110,
+        "sha256": "3ee37ad7fdb51388332a94c8cd13881faace1ef78fb57532cc20b1bbbbc69848"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\grid_astar\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\grid_astar\\__init__.py",
+        "bytes": 32,
+        "sha256": "e67ebb170181b481bcde9407683ffcfa4e85e508bfcda02de6776f32f8dae2d7"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\grid_astar\\method.py",
+        "relative_to_repo": "experiments\\methods\\grid_astar\\method.py",
+        "bytes": 16739,
+        "sha256": "0c3d4d6bd43247eb080e0259a576a7a0af180310507feef2333168bb96da1112"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\grid_astar\\README.md",
+        "relative_to_repo": "experiments\\methods\\grid_astar\\README.md",
+        "bytes": 2058,
+        "sha256": "ff42d5d0da30596e06f512a21a94e6c7aac4267caada6495d817fdf6d285e677"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_raw\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\appatt_raw\\__init__.py",
+        "bytes": 44,
+        "sha256": "f13dba1fe8b7ac9897f84bc2bd0be538771224a0216c73174f159fda60a95e81"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_raw\\method.py",
+        "relative_to_repo": "experiments\\methods\\appatt_raw\\method.py",
+        "bytes": 1369,
+        "sha256": "e710993adff47d7e5218e0cb128044a53de5a32a6e0f4c08c9071e9f7595e129"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_raw\\README.md",
+        "relative_to_repo": "experiments\\methods\\appatt_raw\\README.md",
+        "bytes": 497,
+        "sha256": "b3681ef950faca18e984a56dd86d8ddf3f79f743bbf34ea2f916c0fa817ad8e6"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_bspline\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\appatt_bspline\\__init__.py",
+        "bytes": 61,
+        "sha256": "bcf3590be638c977e482a1407891f492e55d31d31852f2361cba5b3061939ce4"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_bspline\\method.py",
+        "relative_to_repo": "experiments\\methods\\appatt_bspline\\method.py",
+        "bytes": 15966,
+        "sha256": "d3493a64519a8ae1fb09de8a706334857ccb0082cb9fa65c50c68fd7e7ac16e8"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\appatt_bspline\\README.md",
+        "relative_to_repo": "experiments\\methods\\appatt_bspline\\README.md",
+        "bytes": 1658,
+        "sha256": "455eb1b9fb178a7c55b27b52b6c43e8235c178f96d5a36bc0fbbc033fbec896c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_raw\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\tig_raw\\__init__.py",
+        "bytes": 34,
+        "sha256": "51414de810dc08788031bb32abdd0163de16bd8d0b31d8a7faae2df34f1fea85"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_raw\\method.py",
+        "relative_to_repo": "experiments\\methods\\tig_raw\\method.py",
+        "bytes": 39711,
+        "sha256": "e700ad2dabfd11c7e36ed8754bb2810fb19c589985ba5b987084206a6806aa2a"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_raw\\README.md",
+        "relative_to_repo": "experiments\\methods\\tig_raw\\README.md",
+        "bytes": 1844,
+        "sha256": "23c71b6cc66e5c559bd08854ed60f4264660e5cf18c1d594c3dd2568e654a06b"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_bezier\\__init__.py",
+        "relative_to_repo": "experiments\\methods\\tig_bezier\\__init__.py",
+        "bytes": 62,
+        "sha256": "df3d2e63a2e65f0bdfd385a03f2ec3c34d3a9747afc77ab41fceaf212a238df5"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_bezier\\method.py",
+        "relative_to_repo": "experiments\\methods\\tig_bezier\\method.py",
+        "bytes": 562,
+        "sha256": "c73bd3d7195469cd0aa6b19062f8d84087447e71e876185411abeeaae83eb1c2"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\methods\\tig_bezier\\README.md",
+        "relative_to_repo": "experiments\\methods\\tig_bezier\\README.md",
+        "bytes": 1720,
+        "sha256": "8abd1d1fd6891c9c930eedaa49456c61751664e49b9c3f0d58dc5e4d56bd7599"
+      }
+    ],
+    "benchmark_harness_sources": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\run_benchmark.py",
+        "relative_to_repo": "experiments\\run_benchmark.py",
+        "bytes": 2887,
+        "sha256": "83aefd42336736bfa7a1bc8f5429ad389e13412b145694831d274a7f30ff4a8e"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\__init__.py",
+        "relative_to_repo": "experiments\\benchmark\\__init__.py",
+        "bytes": 56,
+        "sha256": "93d83979760fc7b3cbc07deb5a6a322cc2b33f1fab09687b536d142af6e3ee22"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\matrix_builders.py",
+        "relative_to_repo": "experiments\\benchmark\\matrix_builders.py",
+        "bytes": 3330,
+        "sha256": "2e921829a5be3b310c584e71a5a91a72eeb011863ed7e8b6442892f68035e778"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\native_io.py",
+        "relative_to_repo": "experiments\\benchmark\\native_io.py",
+        "bytes": 3284,
+        "sha256": "16b24b1130cc6a83df318a0986d7223cebe91e5cdf9cb85cb820182de0a631d0"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\planner_bridge.py",
+        "relative_to_repo": "experiments\\benchmark\\planner_bridge.py",
+        "bytes": 3046,
+        "sha256": "81b2f927e1fb9eb3ba64dea838685223b93eac748f073ea41e9914bd2f088730"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\benchmark\\runner.py",
+        "relative_to_repo": "experiments\\benchmark\\runner.py",
+        "bytes": 10066,
+        "sha256": "0b3f5e39b98bd8cb89b7c12104626e261a911d8241aa09da660c2d1af01c4763"
+      }
+    ],
+    "mission_planner_solver_sources": [
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\__init__.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\__init__.py",
+        "bytes": 258,
+        "sha256": "38d0330322bba5c1009b540c6890749696c0bd87085b87f0f6da93d9e0bc2179"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\airport_rules.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\airport_rules.py",
+        "bytes": 1321,
+        "sha256": "6a210c426dc54167aa69f2d69f5949b00db3294b18b8f3a0281ba174f368c4d0"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\animation_frame.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\animation_frame.py",
+        "bytes": 11683,
+        "sha256": "df449500979e540ca268f78189797b8c00f248131dc19b3a9b4c48ecdc773f29"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\archive\\post_optimizer_v1.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\archive\\post_optimizer_v1.py",
+        "bytes": 42613,
+        "sha256": "112555164d5b1494fd51fe3508ae07c1dfd7fc7058e4e1fee6a4cb95bf89ebc1"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\archive\\target_allocator_v1.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\archive\\target_allocator_v1.py",
+        "bytes": 33819,
+        "sha256": "91c86b325152c58b6cb0e4b23137d64afc1058b97f28eb381346e90265c95b88"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\constraints.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\constraints.py",
+        "bytes": 3501,
+        "sha256": "94d99cfa532855e507308d33f8148420f900e854b2af35aa06a02d2c11649188"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\delivery_solver.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\delivery_solver.py",
+        "bytes": 5017,
+        "sha256": "ab30ea2f9b0fba48d1d4a72fd63ca4ea0925f767d0eae40a14215269f605a346"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\matrix_cache.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\matrix_cache.py",
+        "bytes": 3916,
+        "sha256": "2fbe2703e791d4c69734d48b9412748c7052be4f44c026dc5e4511e76777c427"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\mission_parser.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\mission_parser.py",
+        "bytes": 3300,
+        "sha256": "13d24321a6b0b60b3c84c5784a8dfeb94552c95b935c3ade7755584acae87170"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_distance_calculator.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_distance_calculator.py",
+        "bytes": 2536,
+        "sha256": "376497794e3853711d1d496ac103916f471057f15cf1ea064c5feb28875b641b"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_trajectory_planner.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_trajectory_planner.py",
+        "bytes": 3876,
+        "sha256": "fc748ae097e778afd323fcd0c2cf871f57ef6003c6bfc528c15359bdd953a51c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\opportunistic_refuel.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\opportunistic_refuel.py",
+        "bytes": 28371,
+        "sha256": "b82c6337c00f113fe677480c332414e9f69ef34fec02b177ff8af4d2418dcf7c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\__init__.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\__init__.py",
+        "bytes": 82,
+        "sha256": "56f68cb501cf003b804730dd878ec43abbc8ca654667a1e40e13ad3a1739741e"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\common.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\common.py",
+        "bytes": 7808,
+        "sha256": "d6ec6f76afca8e720a3ddaeeac093325054395744830a7aa2fff1dd028a33408"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\crossing_removal.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\crossing_removal.py",
+        "bytes": 11643,
+        "sha256": "7b4bef5cee2643dbd28cbaaba52a4fa696535bb2f331bfc22a02a08dce326f46"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\insert_missed.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\insert_missed.py",
+        "bytes": 11654,
+        "sha256": "001deb9052339191094ce343813601adbd1ff857932b1eb858edf641845cde94"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\or_opt.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\or_opt.py",
+        "bytes": 8484,
+        "sha256": "04aa2fdf3bc38812a2dd36a058d7c8dc2210cc337969f88a9fb04ba3ea1cbe59"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\pipeline.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\pipeline.py",
+        "bytes": 16338,
+        "sha256": "c1607e768040aa6a65e209437c5d1c490075dd8b52d3dca2d068636aaa6c60af"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\post_insert.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\post_insert.py",
+        "bytes": 46094,
+        "sha256": "995cf1641403c9590c54f34f642643bbbc07c1cc8e8079e4433e0ca15c93ab42"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\refuel_legs.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\refuel_legs.py",
+        "bytes": 12304,
+        "sha256": "ef11cb0eaf1ad3df120e3530c8bdb7ac47533d3b9006b9bad5dc0603c2d6bd4c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\regenerate.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\regenerate.py",
+        "bytes": 3300,
+        "sha256": "86a426fb437237f5e836adee7eb70dfab986ffdbe7bbbd28ed4f5b8e3af75a14"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\trajectory_swap.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\trajectory_swap.py",
+        "bytes": 76128,
+        "sha256": "f48960bd8dbd76564dd47093cca64b809356d1432d392df9c2e58c9ad5557a04"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\unified.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\unified.py",
+        "bytes": 17053,
+        "sha256": "e585d135ac6256f0a238c8dcc156aa41108937bcbb621cb490a8d2c66a84f879"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\orienteering_solver.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\orienteering_solver.py",
+        "bytes": 3146,
+        "sha256": "1a97196b3adbd0f3167cc4065ad7797bc0a043e93295dc8a5d13c58d36af9572"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\pipeline_runner.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\pipeline_runner.py",
+        "bytes": 8212,
+        "sha256": "d1135c2e2537bf9a74237ef4287829553dea605f532f6c95a32978e77997ad21"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\post_optimizer.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\post_optimizer.py",
+        "bytes": 1965,
+        "sha256": "8366942825cff0be7bd5ba095fb71911194c15c00822fd92ab3fa67ae476349f"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\projection.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\projection.py",
+        "bytes": 5989,
+        "sha256": "2f252a0608ad1db8be8b7cef99340d6f0ae5df67e632779b21d80b7ff6ffc8b8"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_expansion.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_expansion.py",
+        "bytes": 14625,
+        "sha256": "a26c4e7da68f61501c003729ca2edb9ea31b9d2edd68769b7d3e0c13823c2ba0"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_solver.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_solver.py",
+        "bytes": 41487,
+        "sha256": "bc26d58850285e04cd8997c755a7aa5029d1fca343c93c512b1fde641514a74e"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\routing_context.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\routing_context.py",
+        "bytes": 2527,
+        "sha256": "09af9566e567c051b1af2b35b2fbfe0022013e902647da2501fe33d0cf4a1aba"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_distance_matrix.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_distance_matrix.py",
+        "bytes": 27027,
+        "sha256": "cd5736ac37b946fa30d4303cdbc5caa4339f3ee380cbbf0972993973d06c1f23"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_navigation.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_navigation.py",
+        "bytes": 668,
+        "sha256": "0000d63605b78c07d418f6d858c42b826274bcc63753a4736769d8d2d83867cb"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_config.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_config.py",
+        "bytes": 866,
+        "sha256": "aa7eaf54c256c112b4cc80f834915737692df633d49f1b9fc14b7ec310567ea0"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_mission.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_mission.py",
+        "bytes": 110162,
+        "sha256": "211b69751caca5e6f94590ecd0d282a8c8906826cb3582c1ae2218a76cf4239b"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_one_leg.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_one_leg.py",
+        "bytes": 7073,
+        "sha256": "6f4152aec0187aca0f7e80cc1a30be825fab448ebb7fea27029ae660b437b164"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_bridge.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_bridge.py",
+        "bytes": 2301,
+        "sha256": "ecd02f52ba2199beacfb66f2f7ab09d51575391985ad2095ca57a8049d18d52c"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_interface.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_interface.py",
+        "bytes": 2403,
+        "sha256": "eff5f47722973b167060c77a41c4c934fece1364c61c8452cfc49d0418a96dc3"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\target_allocator.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\target_allocator.py",
+        "bytes": 41214,
+        "sha256": "b65f612f921e439910712b4dbb9f51ec27d05e37766dae689ec31a817daf3798"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner.py",
+        "bytes": 20358,
+        "sha256": "9514a22391c961707a18fb77bf93419b354e58690659d0079128fdcc9a9fff54"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner_poly.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner_poly.py",
+        "bytes": 7299,
+        "sha256": "9930f3a042ec8af13218c5d622218ef27a00fcc3d3f5893211775c1b14d86c88"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_drones.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_drones.py",
+        "bytes": 22156,
+        "sha256": "327d2dfdc0b3e76647ba6c3945d71936178a328fdab4dcd7624fe58efa4572a7"
+      },
+      {
+        "path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_sorties.py",
+        "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_sorties.py",
+        "bytes": 9789,
+        "sha256": "716dd263a01ad523819c753d256f9592876395a888b8d745197a2b543a94b534"
+      }
+    ]
+  },
+  "counts": {
+    "composite_environments": 3,
+    "original_nine_environments": 9,
+    "main_benchmark_artifacts": 6,
+    "diagnostic_artifacts": 7,
+    "method_sources": 27,
+    "benchmark_harness_sources": 6,
+    "mission_planner_solver_sources": 42
+  },
+  "total_files": 100,
+  "matches_before": true,
+  "comparisons": [
+    {
+      "category": "composite_environments",
+      "relative_to_repo": "dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10934,
+      "bytes_after": 10934,
+      "sha256_before": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "sha256_after": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "byte_identical": true
+    },
+    {
+      "category": "composite_environments",
+      "relative_to_repo": "dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 11542,
+      "bytes_after": 11542,
+      "sha256_before": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "sha256_after": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "byte_identical": true
+    },
+    {
+      "category": "composite_environments",
+      "relative_to_repo": "dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 12153,
+      "bytes_after": 12153,
+      "sha256_before": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "sha256_after": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\asymmetric_corridor_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9341,
+      "bytes_after": 9341,
+      "sha256_before": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+      "sha256_after": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\asymmetric_corridor_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9949,
+      "bytes_after": 9949,
+      "sha256_before": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+      "sha256_after": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\asymmetric_corridor_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10558,
+      "bytes_after": 10558,
+      "sha256_before": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+      "sha256_after": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\c_trap_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9338,
+      "bytes_after": 9338,
+      "sha256_before": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+      "sha256_after": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\c_trap_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9944,
+      "bytes_after": 9944,
+      "sha256_before": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+      "sha256_after": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\c_trap_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10554,
+      "bytes_after": 10554,
+      "sha256_before": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+      "sha256_after": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t04.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9484,
+      "bytes_after": 9484,
+      "sha256_before": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+      "sha256_after": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t08.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10091,
+      "bytes_after": 10091,
+      "sha256_before": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+      "sha256_after": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+      "byte_identical": true
+    },
+    {
+      "category": "original_nine_environments",
+      "relative_to_repo": "dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t12.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10700,
+      "bytes_after": 10700,
+      "sha256_before": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+      "sha256_after": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+      "byte_identical": true
+    },
+    {
+      "category": "main_benchmark_artifacts",
+      "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107.csv",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 37358,
+      "bytes_after": 37358,
+      "sha256_before": "57ad9f8fccc73a7a5e0394e21aad008aad22e5e1e927214db6a8aeb06eed2f6c",
+      "sha256_after": "57ad9f8fccc73a7a5e0394e21aad008aad22e5e1e927214db6a8aeb06eed2f6c",
+      "byte_identical": true
+    },
+    {
+      "category": "main_benchmark_artifacts",
+      "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 213444,
+      "bytes_after": 213444,
+      "sha256_before": "a58ebaa1c47b736cc33aa7e066d7456c25a37d8a08fe718a3a3e8f25a62071ec",
+      "sha256_after": "a58ebaa1c47b736cc33aa7e066d7456c25a37d8a08fe718a3a3e8f25a62071ec",
+      "byte_identical": true
+    },
+    {
+      "category": "main_benchmark_artifacts",
+      "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107.log",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 463679,
+      "bytes_after": 463679,
+      "sha256_before": "7d7c3885ba86d3024b92d7a596a4b98ceab5b909145c20109dd501b634df44ff",
+      "sha256_after": "7d7c3885ba86d3024b92d7a596a4b98ceab5b909145c20109dd501b634df44ff",
+      "byte_identical": true
+    },
+    {
+      "category": "main_benchmark_artifacts",
+      "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107_analysis.csv",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 5650,
+      "bytes_after": 5650,
+      "sha256_before": "cd9ac7d0a235ecdc77740627c8787eb69a4d03101a8422271c1195ebfbd59eca",
+      "sha256_after": "cd9ac7d0a235ecdc77740627c8787eb69a4d03101a8422271c1195ebfbd59eca",
+      "byte_identical": true
+    },
+    {
+      "category": "main_benchmark_artifacts",
+      "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107_analysis.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 8777,
+      "bytes_after": 8777,
+      "sha256_before": "592cc8056e894f34862f808609c84190ed2f75494aab69d56d60d83ef5f9e0d5",
+      "sha256_after": "592cc8056e894f34862f808609c84190ed2f75494aab69d56d60d83ef5f9e0d5",
+      "byte_identical": true
+    },
+    {
+      "category": "main_benchmark_artifacts",
+      "relative_to_repo": "experiments\\results\\main_benchmark_run_20260809-160107_rows.jsonl",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 82558,
+      "bytes_after": 82558,
+      "sha256_before": "609f31d86b44fe0e566e27885d4ab01cbd18f3e3f2d3db12b07e6675c8a2356b",
+      "sha256_after": "609f31d86b44fe0e566e27885d4ab01cbd18f3e3f2d3db12b07e6675c8a2356b",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_after.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 4168,
+      "bytes_after": 4168,
+      "sha256_before": "c1cd0717e1440e630131b7c0f57aa2bc6ab7447e7e6a9dc1e33640d02781c9c6",
+      "sha256_after": "c1cd0717e1440e630131b7c0f57aa2bc6ab7447e7e6a9dc1e33640d02781c9c6",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\preservation_hashes_before.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 4116,
+      "bytes_after": 4116,
+      "sha256_before": "1b2c32a294bbfa1ef2a150eeebc4672292031aceafa21a8e5859e018586cb19a",
+      "sha256_after": "1b2c32a294bbfa1ef2a150eeebc4672292031aceafa21a8e5859e018586cb19a",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_analysis_20260809-165543.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 11846,
+      "bytes_after": 11846,
+      "sha256_before": "df631b889e47d8ea6757958398e99b3d267f4c819d71584e7329286c88eaec78",
+      "sha256_after": "df631b889e47d8ea6757958398e99b3d267f4c819d71584e7329286c88eaec78",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_diagnostic_20260809-165543.log",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 31890,
+      "bytes_after": 31890,
+      "sha256_before": "117f7f6264096d8912dd79b65c2f200de568bb87a47db8ea0d260c9b8c243422",
+      "sha256_after": "117f7f6264096d8912dd79b65c2f200de568bb87a47db8ea0d260c9b8c243422",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.csv",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2066,
+      "bytes_after": 2066,
+      "sha256_before": "26137f00c87b91e28bb8a172b1e7da5af2da2518367c612587a9faf071a64cba",
+      "sha256_after": "26137f00c87b91e28bb8a172b1e7da5af2da2518367c612587a9faf071a64cba",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_branching_summary_20260809-165543.json",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 38666,
+      "bytes_after": 38666,
+      "sha256_before": "53a5a217f7ddfa7d25f9b057cefa02c418e15e8d2bdac5339cfe0e711bda775e",
+      "sha256_after": "53a5a217f7ddfa7d25f9b057cefa02c418e15e8d2bdac5339cfe0e711bda775e",
+      "byte_identical": true
+    },
+    {
+      "category": "diagnostic_artifacts",
+      "relative_to_repo": "experiments\\diagnostics\\proposed_branching\\results\\proposed_pair_diagnostics_20260809-165543.csv",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2822726,
+      "bytes_after": 2822726,
+      "sha256_before": "2552841ccb73ff0e1dad5e08a289b95e70224eb98225099389c80de58e4a49fb",
+      "sha256_after": "2552841ccb73ff0e1dad5e08a289b95e70224eb98225099389c80de58e4a49fb",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\appatt_bspline\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1658,
+      "bytes_after": 1658,
+      "sha256_before": "455eb1b9fb178a7c55b27b52b6c43e8235c178f96d5a36bc0fbbc033fbec896c",
+      "sha256_after": "455eb1b9fb178a7c55b27b52b6c43e8235c178f96d5a36bc0fbbc033fbec896c",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\appatt_bspline\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 61,
+      "bytes_after": 61,
+      "sha256_before": "bcf3590be638c977e482a1407891f492e55d31d31852f2361cba5b3061939ce4",
+      "sha256_after": "bcf3590be638c977e482a1407891f492e55d31d31852f2361cba5b3061939ce4",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\appatt_bspline\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 15966,
+      "bytes_after": 15966,
+      "sha256_before": "d3493a64519a8ae1fb09de8a706334857ccb0082cb9fa65c50c68fd7e7ac16e8",
+      "sha256_after": "d3493a64519a8ae1fb09de8a706334857ccb0082cb9fa65c50c68fd7e7ac16e8",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\appatt_raw\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 497,
+      "bytes_after": 497,
+      "sha256_before": "b3681ef950faca18e984a56dd86d8ddf3f79f743bbf34ea2f916c0fa817ad8e6",
+      "sha256_after": "b3681ef950faca18e984a56dd86d8ddf3f79f743bbf34ea2f916c0fa817ad8e6",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\appatt_raw\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 44,
+      "bytes_after": 44,
+      "sha256_before": "f13dba1fe8b7ac9897f84bc2bd0be538771224a0216c73174f159fda60a95e81",
+      "sha256_after": "f13dba1fe8b7ac9897f84bc2bd0be538771224a0216c73174f159fda60a95e81",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\appatt_raw\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1369,
+      "bytes_after": 1369,
+      "sha256_before": "e710993adff47d7e5218e0cb128044a53de5a32a6e0f4c08c9071e9f7595e129",
+      "sha256_after": "e710993adff47d7e5218e0cb128044a53de5a32a6e0f4c08c9071e9f7595e129",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\collision_rejection\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1085,
+      "bytes_after": 1085,
+      "sha256_before": "6d58a7f1827d129dd806232ecf51afe91e4cc24934afeb4035456ef42b0d7583",
+      "sha256_after": "6d58a7f1827d129dd806232ecf51afe91e4cc24934afeb4035456ef42b0d7583",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\collision_rejection\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 45,
+      "bytes_after": 45,
+      "sha256_before": "2148e85f88192d71fd75cd5b6c513eadb2ecc5befbc9f8bc861bd9dc141d555a",
+      "sha256_after": "2148e85f88192d71fd75cd5b6c513eadb2ecc5befbc9f8bc861bd9dc141d555a",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\collision_rejection\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 7655,
+      "bytes_after": 7655,
+      "sha256_before": "078194908c7dacf6d928dc7655aab9cb5125e0df4164aaa58f9481ed0170b10c",
+      "sha256_after": "078194908c7dacf6d928dc7655aab9cb5125e0df4164aaa58f9481ed0170b10c",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\euclidean\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 542,
+      "bytes_after": 542,
+      "sha256_before": "4a5421d111edc02bf52ac1bae77d421bd021fb24cb1e0512843b275f7bcca2ba",
+      "sha256_after": "4a5421d111edc02bf52ac1bae77d421bd021fb24cb1e0512843b275f7bcca2ba",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\euclidean\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 49,
+      "bytes_after": 49,
+      "sha256_before": "4a0f930ee0962b73134c600466557db23c90502906a3bd9a5050b8f333c6ac97",
+      "sha256_after": "4a0f930ee0962b73134c600466557db23c90502906a3bd9a5050b8f333c6ac97",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\euclidean\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3858,
+      "bytes_after": 3858,
+      "sha256_before": "3cca1981ec83adaa4bb5ed66c329de2253948f5e20217df816aebd4d96b48d6b",
+      "sha256_after": "3cca1981ec83adaa4bb5ed66c329de2253948f5e20217df816aebd4d96b48d6b",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\grid_astar\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2058,
+      "bytes_after": 2058,
+      "sha256_before": "ff42d5d0da30596e06f512a21a94e6c7aac4267caada6495d817fdf6d285e677",
+      "sha256_after": "ff42d5d0da30596e06f512a21a94e6c7aac4267caada6495d817fdf6d285e677",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\grid_astar\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 32,
+      "bytes_after": 32,
+      "sha256_before": "e67ebb170181b481bcde9407683ffcfa4e85e508bfcda02de6776f32f8dae2d7",
+      "sha256_after": "e67ebb170181b481bcde9407683ffcfa4e85e508bfcda02de6776f32f8dae2d7",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\grid_astar\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 16739,
+      "bytes_after": 16739,
+      "sha256_before": "0c3d4d6bd43247eb080e0259a576a7a0af180310507feef2333168bb96da1112",
+      "sha256_after": "0c3d4d6bd43247eb080e0259a576a7a0af180310507feef2333168bb96da1112",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\proposed\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1482,
+      "bytes_after": 1482,
+      "sha256_before": "af9b4bfd08bccc24df1feff98d966655b61501f72d024c738bf0f8cb42301e08",
+      "sha256_after": "af9b4bfd08bccc24df1feff98d966655b61501f72d024c738bf0f8cb42301e08",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\proposed\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 44,
+      "bytes_after": 44,
+      "sha256_before": "919aa8838fdbd0d7648d7d01b9d2e6eefd6a8308c9c11df716537d1099550db3",
+      "sha256_after": "919aa8838fdbd0d7648d7d01b9d2e6eefd6a8308c9c11df716537d1099550db3",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\proposed\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1281,
+      "bytes_after": 1281,
+      "sha256_before": "9d9d452d3e07bd1146e76b86f0477c373b44a1636ffa24751842d3cb92ec5aa0",
+      "sha256_after": "9d9d452d3e07bd1146e76b86f0477c373b44a1636ffa24751842d3cb92ec5aa0",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\tig_bezier\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1720,
+      "bytes_after": 1720,
+      "sha256_before": "8abd1d1fd6891c9c930eedaa49456c61751664e49b9c3f0d58dc5e4d56bd7599",
+      "sha256_after": "8abd1d1fd6891c9c930eedaa49456c61751664e49b9c3f0d58dc5e4d56bd7599",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\tig_bezier\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 62,
+      "bytes_after": 62,
+      "sha256_before": "df3d2e63a2e65f0bdfd385a03f2ec3c34d3a9747afc77ab41fceaf212a238df5",
+      "sha256_after": "df3d2e63a2e65f0bdfd385a03f2ec3c34d3a9747afc77ab41fceaf212a238df5",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\tig_bezier\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 562,
+      "bytes_after": 562,
+      "sha256_before": "c73bd3d7195469cd0aa6b19062f8d84087447e71e876185411abeeaae83eb1c2",
+      "sha256_after": "c73bd3d7195469cd0aa6b19062f8d84087447e71e876185411abeeaae83eb1c2",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\tig_raw\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1844,
+      "bytes_after": 1844,
+      "sha256_before": "23c71b6cc66e5c559bd08854ed60f4264660e5cf18c1d594c3dd2568e654a06b",
+      "sha256_after": "23c71b6cc66e5c559bd08854ed60f4264660e5cf18c1d594c3dd2568e654a06b",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\tig_raw\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 34,
+      "bytes_after": 34,
+      "sha256_before": "51414de810dc08788031bb32abdd0163de16bd8d0b31d8a7faae2df34f1fea85",
+      "sha256_after": "51414de810dc08788031bb32abdd0163de16bd8d0b31d8a7faae2df34f1fea85",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\tig_raw\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 39711,
+      "bytes_after": 39711,
+      "sha256_before": "e700ad2dabfd11c7e36ed8754bb2810fb19c589985ba5b987084206a6806aa2a",
+      "sha256_after": "e700ad2dabfd11c7e36ed8754bb2810fb19c589985ba5b987084206a6806aa2a",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\visibility_graph\\README.md",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2110,
+      "bytes_after": 2110,
+      "sha256_before": "3ee37ad7fdb51388332a94c8cd13881faace1ef78fb57532cc20b1bbbbc69848",
+      "sha256_after": "3ee37ad7fdb51388332a94c8cd13881faace1ef78fb57532cc20b1bbbbc69848",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\visibility_graph\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 41,
+      "bytes_after": 41,
+      "sha256_before": "71be6eabb2d0e92f77e1e6daa0b26e5de71204335cd63ca8c53c9907134b5ff5",
+      "sha256_after": "71be6eabb2d0e92f77e1e6daa0b26e5de71204335cd63ca8c53c9907134b5ff5",
+      "byte_identical": true
+    },
+    {
+      "category": "method_sources",
+      "relative_to_repo": "experiments\\methods\\visibility_graph\\method.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 16428,
+      "bytes_after": 16428,
+      "sha256_before": "cec98d500657b6e9562ab70df9893a97af1f713683ceffc20ac176f08b677fa1",
+      "sha256_after": "cec98d500657b6e9562ab70df9893a97af1f713683ceffc20ac176f08b677fa1",
+      "byte_identical": true
+    },
+    {
+      "category": "benchmark_harness_sources",
+      "relative_to_repo": "experiments\\benchmark\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 56,
+      "bytes_after": 56,
+      "sha256_before": "93d83979760fc7b3cbc07deb5a6a322cc2b33f1fab09687b536d142af6e3ee22",
+      "sha256_after": "93d83979760fc7b3cbc07deb5a6a322cc2b33f1fab09687b536d142af6e3ee22",
+      "byte_identical": true
+    },
+    {
+      "category": "benchmark_harness_sources",
+      "relative_to_repo": "experiments\\benchmark\\matrix_builders.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3330,
+      "bytes_after": 3330,
+      "sha256_before": "2e921829a5be3b310c584e71a5a91a72eeb011863ed7e8b6442892f68035e778",
+      "sha256_after": "2e921829a5be3b310c584e71a5a91a72eeb011863ed7e8b6442892f68035e778",
+      "byte_identical": true
+    },
+    {
+      "category": "benchmark_harness_sources",
+      "relative_to_repo": "experiments\\benchmark\\native_io.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3284,
+      "bytes_after": 3284,
+      "sha256_before": "16b24b1130cc6a83df318a0986d7223cebe91e5cdf9cb85cb820182de0a631d0",
+      "sha256_after": "16b24b1130cc6a83df318a0986d7223cebe91e5cdf9cb85cb820182de0a631d0",
+      "byte_identical": true
+    },
+    {
+      "category": "benchmark_harness_sources",
+      "relative_to_repo": "experiments\\benchmark\\planner_bridge.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3046,
+      "bytes_after": 3046,
+      "sha256_before": "81b2f927e1fb9eb3ba64dea838685223b93eac748f073ea41e9914bd2f088730",
+      "sha256_after": "81b2f927e1fb9eb3ba64dea838685223b93eac748f073ea41e9914bd2f088730",
+      "byte_identical": true
+    },
+    {
+      "category": "benchmark_harness_sources",
+      "relative_to_repo": "experiments\\benchmark\\runner.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 10066,
+      "bytes_after": 10066,
+      "sha256_before": "0b3f5e39b98bd8cb89b7c12104626e261a911d8241aa09da660c2d1af01c4763",
+      "sha256_after": "0b3f5e39b98bd8cb89b7c12104626e261a911d8241aa09da660c2d1af01c4763",
+      "byte_identical": true
+    },
+    {
+      "category": "benchmark_harness_sources",
+      "relative_to_repo": "experiments\\run_benchmark.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2887,
+      "bytes_after": 2887,
+      "sha256_before": "83aefd42336736bfa7a1bc8f5429ad389e13412b145694831d274a7f30ff4a8e",
+      "sha256_after": "83aefd42336736bfa7a1bc8f5429ad389e13412b145694831d274a7f30ff4a8e",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 258,
+      "bytes_after": 258,
+      "sha256_before": "38d0330322bba5c1009b540c6890749696c0bd87085b87f0f6da93d9e0bc2179",
+      "sha256_after": "38d0330322bba5c1009b540c6890749696c0bd87085b87f0f6da93d9e0bc2179",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\airport_rules.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1321,
+      "bytes_after": 1321,
+      "sha256_before": "6a210c426dc54167aa69f2d69f5949b00db3294b18b8f3a0281ba174f368c4d0",
+      "sha256_after": "6a210c426dc54167aa69f2d69f5949b00db3294b18b8f3a0281ba174f368c4d0",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\animation_frame.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 11683,
+      "bytes_after": 11683,
+      "sha256_before": "df449500979e540ca268f78189797b8c00f248131dc19b3a9b4c48ecdc773f29",
+      "sha256_after": "df449500979e540ca268f78189797b8c00f248131dc19b3a9b4c48ecdc773f29",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\archive\\post_optimizer_v1.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 42613,
+      "bytes_after": 42613,
+      "sha256_before": "112555164d5b1494fd51fe3508ae07c1dfd7fc7058e4e1fee6a4cb95bf89ebc1",
+      "sha256_after": "112555164d5b1494fd51fe3508ae07c1dfd7fc7058e4e1fee6a4cb95bf89ebc1",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\archive\\target_allocator_v1.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 33819,
+      "bytes_after": 33819,
+      "sha256_before": "91c86b325152c58b6cb0e4b23137d64afc1058b97f28eb381346e90265c95b88",
+      "sha256_after": "91c86b325152c58b6cb0e4b23137d64afc1058b97f28eb381346e90265c95b88",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\constraints.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3501,
+      "bytes_after": 3501,
+      "sha256_before": "94d99cfa532855e507308d33f8148420f900e854b2af35aa06a02d2c11649188",
+      "sha256_after": "94d99cfa532855e507308d33f8148420f900e854b2af35aa06a02d2c11649188",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\delivery_solver.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 5017,
+      "bytes_after": 5017,
+      "sha256_before": "ab30ea2f9b0fba48d1d4a72fd63ca4ea0925f767d0eae40a14215269f605a346",
+      "sha256_after": "ab30ea2f9b0fba48d1d4a72fd63ca4ea0925f767d0eae40a14215269f605a346",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\matrix_cache.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3916,
+      "bytes_after": 3916,
+      "sha256_before": "2fbe2703e791d4c69734d48b9412748c7052be4f44c026dc5e4511e76777c427",
+      "sha256_after": "2fbe2703e791d4c69734d48b9412748c7052be4f44c026dc5e4511e76777c427",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\mission_parser.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3300,
+      "bytes_after": 3300,
+      "sha256_before": "13d24321a6b0b60b3c84c5784a8dfeb94552c95b935c3ade7755584acae87170",
+      "sha256_after": "13d24321a6b0b60b3c84c5784a8dfeb94552c95b935c3ade7755584acae87170",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_distance_calculator.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2536,
+      "bytes_after": 2536,
+      "sha256_before": "376497794e3853711d1d496ac103916f471057f15cf1ea064c5feb28875b641b",
+      "sha256_after": "376497794e3853711d1d496ac103916f471057f15cf1ea064c5feb28875b641b",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\nfz_trajectory_planner.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3876,
+      "bytes_after": 3876,
+      "sha256_before": "fc748ae097e778afd323fcd0c2cf871f57ef6003c6bfc528c15359bdd953a51c",
+      "sha256_after": "fc748ae097e778afd323fcd0c2cf871f57ef6003c6bfc528c15359bdd953a51c",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\opportunistic_refuel.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 28371,
+      "bytes_after": 28371,
+      "sha256_before": "b82c6337c00f113fe677480c332414e9f69ef34fec02b177ff8af4d2418dcf7c",
+      "sha256_after": "b82c6337c00f113fe677480c332414e9f69ef34fec02b177ff8af4d2418dcf7c",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\__init__.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 82,
+      "bytes_after": 82,
+      "sha256_before": "56f68cb501cf003b804730dd878ec43abbc8ca654667a1e40e13ad3a1739741e",
+      "sha256_after": "56f68cb501cf003b804730dd878ec43abbc8ca654667a1e40e13ad3a1739741e",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\common.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 7808,
+      "bytes_after": 7808,
+      "sha256_before": "d6ec6f76afca8e720a3ddaeeac093325054395744830a7aa2fff1dd028a33408",
+      "sha256_after": "d6ec6f76afca8e720a3ddaeeac093325054395744830a7aa2fff1dd028a33408",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\crossing_removal.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 11643,
+      "bytes_after": 11643,
+      "sha256_before": "7b4bef5cee2643dbd28cbaaba52a4fa696535bb2f331bfc22a02a08dce326f46",
+      "sha256_after": "7b4bef5cee2643dbd28cbaaba52a4fa696535bb2f331bfc22a02a08dce326f46",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\insert_missed.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 11654,
+      "bytes_after": 11654,
+      "sha256_before": "001deb9052339191094ce343813601adbd1ff857932b1eb858edf641845cde94",
+      "sha256_after": "001deb9052339191094ce343813601adbd1ff857932b1eb858edf641845cde94",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\or_opt.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 8484,
+      "bytes_after": 8484,
+      "sha256_before": "04aa2fdf3bc38812a2dd36a058d7c8dc2210cc337969f88a9fb04ba3ea1cbe59",
+      "sha256_after": "04aa2fdf3bc38812a2dd36a058d7c8dc2210cc337969f88a9fb04ba3ea1cbe59",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\pipeline.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 16338,
+      "bytes_after": 16338,
+      "sha256_before": "c1607e768040aa6a65e209437c5d1c490075dd8b52d3dca2d068636aaa6c60af",
+      "sha256_after": "c1607e768040aa6a65e209437c5d1c490075dd8b52d3dca2d068636aaa6c60af",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\post_insert.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 46094,
+      "bytes_after": 46094,
+      "sha256_before": "995cf1641403c9590c54f34f642643bbbc07c1cc8e8079e4433e0ca15c93ab42",
+      "sha256_after": "995cf1641403c9590c54f34f642643bbbc07c1cc8e8079e4433e0ca15c93ab42",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\refuel_legs.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 12304,
+      "bytes_after": 12304,
+      "sha256_before": "ef11cb0eaf1ad3df120e3530c8bdb7ac47533d3b9006b9bad5dc0603c2d6bd4c",
+      "sha256_after": "ef11cb0eaf1ad3df120e3530c8bdb7ac47533d3b9006b9bad5dc0603c2d6bd4c",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\regenerate.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3300,
+      "bytes_after": 3300,
+      "sha256_before": "86a426fb437237f5e836adee7eb70dfab986ffdbe7bbbd28ed4f5b8e3af75a14",
+      "sha256_after": "86a426fb437237f5e836adee7eb70dfab986ffdbe7bbbd28ed4f5b8e3af75a14",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\trajectory_swap.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 76128,
+      "bytes_after": 76128,
+      "sha256_before": "f48960bd8dbd76564dd47093cca64b809356d1432d392df9c2e58c9ad5557a04",
+      "sha256_after": "f48960bd8dbd76564dd47093cca64b809356d1432d392df9c2e58c9ad5557a04",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\optimizers\\unified.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 17053,
+      "bytes_after": 17053,
+      "sha256_before": "e585d135ac6256f0a238c8dcc156aa41108937bcbb621cb490a8d2c66a84f879",
+      "sha256_after": "e585d135ac6256f0a238c8dcc156aa41108937bcbb621cb490a8d2c66a84f879",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\orienteering_solver.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 3146,
+      "bytes_after": 3146,
+      "sha256_before": "1a97196b3adbd0f3167cc4065ad7797bc0a043e93295dc8a5d13c58d36af9572",
+      "sha256_after": "1a97196b3adbd0f3167cc4065ad7797bc0a043e93295dc8a5d13c58d36af9572",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\pipeline_runner.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 8212,
+      "bytes_after": 8212,
+      "sha256_before": "d1135c2e2537bf9a74237ef4287829553dea605f532f6c95a32978e77997ad21",
+      "sha256_after": "d1135c2e2537bf9a74237ef4287829553dea605f532f6c95a32978e77997ad21",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\post_optimizer.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 1965,
+      "bytes_after": 1965,
+      "sha256_before": "8366942825cff0be7bd5ba095fb71911194c15c00822fd92ab3fa67ae476349f",
+      "sha256_after": "8366942825cff0be7bd5ba095fb71911194c15c00822fd92ab3fa67ae476349f",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\projection.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 5989,
+      "bytes_after": 5989,
+      "sha256_before": "2f252a0608ad1db8be8b7cef99340d6f0ae5df67e632779b21d80b7ff6ffc8b8",
+      "sha256_after": "2f252a0608ad1db8be8b7cef99340d6f0ae5df67e632779b21d80b7ff6ffc8b8",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_expansion.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 14625,
+      "bytes_after": 14625,
+      "sha256_before": "a26c4e7da68f61501c003729ca2edb9ea31b9d2edd68769b7d3e0c13823c2ba0",
+      "sha256_after": "a26c4e7da68f61501c003729ca2edb9ea31b9d2edd68769b7d3e0c13823c2ba0",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\refuel_solver.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 41487,
+      "bytes_after": 41487,
+      "sha256_before": "bc26d58850285e04cd8997c755a7aa5029d1fca343c93c512b1fde641514a74e",
+      "sha256_after": "bc26d58850285e04cd8997c755a7aa5029d1fca343c93c512b1fde641514a74e",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\routing_context.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2527,
+      "bytes_after": 2527,
+      "sha256_before": "09af9566e567c051b1af2b35b2fbfe0022013e902647da2501fe33d0cf4a1aba",
+      "sha256_after": "09af9566e567c051b1af2b35b2fbfe0022013e902647da2501fe33d0cf4a1aba",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_distance_matrix.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 27027,
+      "bytes_after": 27027,
+      "sha256_before": "cd5736ac37b946fa30d4303cdbc5caa4339f3ee380cbbf0972993973d06c1f23",
+      "sha256_after": "cd5736ac37b946fa30d4303cdbc5caa4339f3ee380cbbf0972993973d06c1f23",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\sam_navigation.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 668,
+      "bytes_after": 668,
+      "sha256_before": "0000d63605b78c07d418f6d858c42b826274bcc63753a4736769d8d2d83867cb",
+      "sha256_after": "0000d63605b78c07d418f6d858c42b826274bcc63753a4736769d8d2d83867cb",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_config.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 866,
+      "bytes_after": 866,
+      "sha256_before": "aa7eaf54c256c112b4cc80f834915737692df633d49f1b9fc14b7ec310567ea0",
+      "sha256_after": "aa7eaf54c256c112b4cc80f834915737692df633d49f1b9fc14b7ec310567ea0",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_mission.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 110162,
+      "bytes_after": 110162,
+      "sha256_before": "211b69751caca5e6f94590ecd0d282a8c8906826cb3582c1ae2218a76cf4239b",
+      "sha256_after": "211b69751caca5e6f94590ecd0d282a8c8906826cb3582c1ae2218a76cf4239b",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solve_one_leg.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 7073,
+      "bytes_after": 7073,
+      "sha256_before": "6f4152aec0187aca0f7e80cc1a30be825fab448ebb7fea27029ae660b437b164",
+      "sha256_after": "6f4152aec0187aca0f7e80cc1a30be825fab448ebb7fea27029ae660b437b164",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_bridge.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2301,
+      "bytes_after": 2301,
+      "sha256_before": "ecd02f52ba2199beacfb66f2f7ab09d51575391985ad2095ca57a8049d18d52c",
+      "sha256_after": "ecd02f52ba2199beacfb66f2f7ab09d51575391985ad2095ca57a8049d18d52c",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\solver_interface.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 2403,
+      "bytes_after": 2403,
+      "sha256_before": "eff5f47722973b167060c77a41c4c934fece1364c61c8452cfc49d0418a96dc3",
+      "sha256_after": "eff5f47722973b167060c77a41c4c934fece1364c61c8452cfc49d0418a96dc3",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\target_allocator.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 41214,
+      "bytes_after": 41214,
+      "sha256_before": "b65f612f921e439910712b4dbb9f51ec27d05e37766dae689ec31a817daf3798",
+      "sha256_after": "b65f612f921e439910712b4dbb9f51ec27d05e37766dae689ec31a817daf3798",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 20358,
+      "bytes_after": 20358,
+      "sha256_before": "9514a22391c961707a18fb77bf93419b354e58690659d0079128fdcc9a9fff54",
+      "sha256_after": "9514a22391c961707a18fb77bf93419b354e58690659d0079128fdcc9a9fff54",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\trajectory_planner_poly.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 7299,
+      "bytes_after": 7299,
+      "sha256_before": "9930f3a042ec8af13218c5d622218ef27a00fcc3d3f5893211775c1b14d86c88",
+      "sha256_after": "9930f3a042ec8af13218c5d622218ef27a00fcc3d3f5893211775c1b14d86c88",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_drones.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 22156,
+      "bytes_after": 22156,
+      "sha256_before": "327d2dfdc0b3e76647ba6c3945d71936178a328fdab4dcd7624fe58efa4572a7",
+      "sha256_after": "327d2dfdc0b3e76647ba6c3945d71936178a328fdab4dcd7624fe58efa4572a7",
+      "byte_identical": true
+    },
+    {
+      "category": "mission_planner_solver_sources",
+      "relative_to_repo": "NFZ-Pairwise-Planning-Benchmark\\server\\solver\\virtual_sorties.py",
+      "present_before": true,
+      "present_after": true,
+      "bytes_before": 9789,
+      "bytes_after": 9789,
+      "sha256_before": "716dd263a01ad523819c753d256f9592876395a888b8d745197a2b543a94b534",
+      "sha256_after": "716dd263a01ad523819c753d256f9592876395a888b8d745197a2b543a94b534",
+      "byte_identical": true
+    }
+  ]
+}

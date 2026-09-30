@@ -1,0 +1,50 @@
+{
+  "branch": "paper1-reviewer-validation",
+  "campaign_dir": "experiments\\reviewer_validation\\results\\run_01_20260813-201359",
+  "created_at": "2026-08-14T06:55:21.353725+00:00",
+  "git_commit": "3683ea5727a8c2a3b67ddd1ef025e8f3fc6c2bf8",
+  "phase_results": {
+    "cached_vg": {
+      "recorded_executions": 45,
+      "regression_environments": 15,
+      "resumed_from_existing_artifact": true
+    },
+    "connectivity": {
+      "csv": "experiments\\reviewer_validation\\connectivity\\frozen_matrix_connectivity.csv",
+      "json": "experiments\\reviewer_validation\\connectivity\\frozen_matrix_connectivity.json",
+      "markdown": "experiments\\reviewer_validation\\analysis\\CONNECTIVITY_SUMMARY.md",
+      "rows": 351
+    },
+    "conservatism": {
+      "recorded_environments": 5
+    },
+    "high_fidelity": {
+      "recorded_pair_checks": 9,
+      "resumed_from_existing_artifact": true
+    },
+    "sensitivity": {
+      "recorded_executions": 72,
+      "resumed_from_existing_artifact": true
+    }
+  },
+  "protected_integrity": {
+    "all_ok": true,
+    "extra_protected_files": [],
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_protected_files": []
+  },
+  "revf": {
+    "compiled": true,
+    "log": "paper_ieee_revF_full\\latexmk_build.log",
+    "page_count": 17,
+    "pdf": "paper_ieee_revF_full\\Benchmarking_NFZ_Pairwise_RevF_Full_IEEE.pdf",
+    "returncode": 0
+  },
+  "schema": "paper1_reviewer_validation_full_campaign_v1",
+  "status": "complete",
+  "summary_artifacts": {
+    "json": "experiments\\reviewer_validation\\analysis\\reviewer_validation_campaign_summary.json",
+    "markdown": "experiments\\reviewer_validation\\analysis\\REVIEWER_VALIDATION_FULL_SUMMARY.md"
+  }
+}

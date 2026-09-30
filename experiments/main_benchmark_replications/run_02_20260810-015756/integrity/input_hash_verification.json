@@ -1,0 +1,78 @@
+{
+  "all_byte_identical": true,
+  "created_at_local": "2026-08-10T01:57:56",
+  "inputs": [
+    {
+      "byte_identical": true,
+      "environment": "c_trap_001_t04.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\c_trap_001_t04.json",
+      "snapshot_sha256": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t04.json",
+      "source_sha256": "4ed8cc3e2391b3156a1493c991c6cd43f3f73214b67ae97f2d9255e9d5276aa0"
+    },
+    {
+      "byte_identical": true,
+      "environment": "c_trap_001_t08.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\c_trap_001_t08.json",
+      "snapshot_sha256": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t08.json",
+      "source_sha256": "c256b9e8bc5c4c2b3bf4d27b08679901d5603c1a18e7149949722e3dacc19038"
+    },
+    {
+      "byte_identical": true,
+      "environment": "c_trap_001_t12.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\c_trap_001_t12.json",
+      "snapshot_sha256": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\c_trap_001_t12.json",
+      "source_sha256": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50"
+    },
+    {
+      "byte_identical": true,
+      "environment": "sequential_staggered_blocking_001_t04.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\sequential_staggered_blocking_001_t04.json",
+      "snapshot_sha256": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t04.json",
+      "source_sha256": "86aa6eb40cefbcd039b47ac2e81fed2725dc67a02a1345765a95a25685eaf55e"
+    },
+    {
+      "byte_identical": true,
+      "environment": "sequential_staggered_blocking_001_t08.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\sequential_staggered_blocking_001_t08.json",
+      "snapshot_sha256": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t08.json",
+      "source_sha256": "39e90b38320e3a195b5b5a1e9d0daede38261c47e4ad80169d904f53f94aece6"
+    },
+    {
+      "byte_identical": true,
+      "environment": "sequential_staggered_blocking_001_t12.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\sequential_staggered_blocking_001_t12.json",
+      "snapshot_sha256": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\sequential_staggered_blocking_001_t12.json",
+      "source_sha256": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de"
+    },
+    {
+      "byte_identical": true,
+      "environment": "asymmetric_corridor_001_t04.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\asymmetric_corridor_001_t04.json",
+      "snapshot_sha256": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t04.json",
+      "source_sha256": "0991d9413871081b35b396776a0f79a33e33f7d450223fe0fb27c579dd6da28c"
+    },
+    {
+      "byte_identical": true,
+      "environment": "asymmetric_corridor_001_t08.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\asymmetric_corridor_001_t08.json",
+      "snapshot_sha256": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t08.json",
+      "source_sha256": "895b95d8c48ed9a8feccc356cdfb6d4bf2edf724f8956dc29d179bdbb950fff5"
+    },
+    {
+      "byte_identical": true,
+      "environment": "asymmetric_corridor_001_t12.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\asymmetric_corridor_001_t12.json",
+      "snapshot_sha256": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+      "source_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\dataset\\asymmetric_corridor_001_t12.json",
+      "source_sha256": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36"
+    }
+  ]
+}

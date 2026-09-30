@@ -1,0 +1,526 @@
+{
+  "expected_paired_condition_count": 81,
+  "functional_mismatch_count": 0,
+  "functional_mismatches": [],
+  "matrix_timing_by_method": [
+    {
+      "maximum_absolute_percent_difference": 4.838394807630707,
+      "mean_absolute_percent_difference": 0.9057093545205255,
+      "mean_run1": 17.60410929999812,
+      "mean_run2": 17.673758300000273,
+      "mean_run2_run1_ratio": 1.0077996958029134,
+      "median_absolute_percent_difference": 0.4147010669125889,
+      "method": "proposed"
+    },
+    {
+      "maximum_absolute_percent_difference": 32.09814753098922,
+      "mean_absolute_percent_difference": 9.993907149896584,
+      "mean_run1": 0.0001672333318209793,
+      "mean_run2": 0.0001634888855429987,
+      "mean_run2_run1_ratio": 0.9769746407010289,
+      "median_absolute_percent_difference": 4.921465370251009,
+      "method": "euclidean"
+    },
+    {
+      "maximum_absolute_percent_difference": 21.655643443492913,
+      "mean_absolute_percent_difference": 6.715396903753135,
+      "mean_run1": 0.0002797000011519736,
+      "mean_run2": 0.0002619999965342383,
+      "mean_run2_run1_ratio": 0.9420408197766604,
+      "median_absolute_percent_difference": 3.5430840527982914,
+      "method": "collision_rejection"
+    },
+    {
+      "maximum_absolute_percent_difference": 1.4465136748664802,
+      "mean_absolute_percent_difference": 0.7615411975359941,
+      "mean_run1": 22.369133322222396,
+      "mean_run2": 22.368025899998933,
+      "mean_run2_run1_ratio": 1.000593881730917,
+      "median_absolute_percent_difference": 0.6081142317428425,
+      "method": "visibility_graph"
+    },
+    {
+      "maximum_absolute_percent_difference": 6.740516788321964,
+      "mean_absolute_percent_difference": 3.0369828846184155,
+      "mean_run1": 0.3943642555556532,
+      "mean_run2": 0.39921740000136197,
+      "mean_run2_run1_ratio": 1.011712847961545,
+      "median_absolute_percent_difference": 2.3634672238003467,
+      "method": "grid_astar"
+    },
+    {
+      "maximum_absolute_percent_difference": 7.503382384629215,
+      "mean_absolute_percent_difference": 3.1214801755973554,
+      "mean_run1": 0.0010166888872239117,
+      "mean_run2": 0.000993755558738485,
+      "mean_run2_run1_ratio": 0.9778744990903654,
+      "median_absolute_percent_difference": 3.3485539790270793,
+      "method": "appatt_raw"
+    },
+    {
+      "maximum_absolute_percent_difference": 10.28784687487026,
+      "mean_absolute_percent_difference": 4.919706039686011,
+      "mean_run1": 0.002573922222331425,
+      "mean_run2": 0.0025643555563874543,
+      "mean_run2_run1_ratio": 0.9949430100340331,
+      "median_absolute_percent_difference": 4.382404319846516,
+      "method": "appatt_bspline"
+    },
+    {
+      "maximum_absolute_percent_difference": 12.151137279038398,
+      "mean_absolute_percent_difference": 4.066739626959895,
+      "mean_run1": 0.0010631222216438295,
+      "mean_run2": 0.001069100001283611,
+      "mean_run2_run1_ratio": 1.0010618698118896,
+      "median_absolute_percent_difference": 3.513321641933672,
+      "method": "tig_raw"
+    },
+    {
+      "maximum_absolute_percent_difference": 14.353184585532276,
+      "mean_absolute_percent_difference": 5.693276930973173,
+      "mean_run1": 0.0016246333349651347,
+      "mean_run2": 0.0015900888910336006,
+      "mean_run2_run1_ratio": 0.9903118589931165,
+      "median_absolute_percent_difference": 4.962925292995542,
+      "method": "tig_bezier"
+    }
+  ],
+  "mission_distance_difference_summary": {
+    "max_absolute_difference": 0.0,
+    "mean_absolute_difference": 0.0,
+    "nonzero_count": 0,
+    "nonzero_rows": []
+  },
+  "paired_condition_count": 81,
+  "proposed_topology_means": [
+    {
+      "run1_mean_matrix_time": 0.14893723333079834,
+      "run2_mean_matrix_time": 0.1523892666688577,
+      "topology": "c_trap"
+    },
+    {
+      "run1_mean_matrix_time": 37.217526233330624,
+      "run2_mean_matrix_time": 37.31421530000322,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "run1_mean_matrix_time": 15.445864433332948,
+      "run2_mean_matrix_time": 15.554670333328735,
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "run1": {
+    "csv": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\results\\main_benchmark_run_20260809-160107.csv",
+    "timestamp": "20260809-160107"
+  },
+  "run1_method_summary": [
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 17.60410929999812,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.529748377778257,
+      "mean_successful_mission_distance": 393.7912635845374,
+      "method": "proposed",
+      "partial": 0,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.0001672333318209793,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.513180888888504,
+      "mean_successful_mission_distance": 388.01600100143435,
+      "method": "euclidean",
+      "partial": 0,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 6,
+      "infeasible": 3,
+      "mean_matrix_time": 0.0002797000011519736,
+      "mean_service_fraction": 0.38425925925925924,
+      "mean_solver_time": 0.5298919222227091,
+      "mean_successful_mission_distance": 430.16106477183075,
+      "method": "collision_rejection",
+      "partial": 3,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 3
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 22.369133322222396,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.539611255555226,
+      "mean_successful_mission_distance": 393.792316046454,
+      "method": "visibility_graph",
+      "partial": 0,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.3943642555556532,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.528159488888276,
+      "mean_successful_mission_distance": 414.041256572983,
+      "method": "grid_astar",
+      "partial": 0,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.0010166888872239117,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.518712688889031,
+      "mean_successful_mission_distance": 400.80035012076127,
+      "method": "appatt_raw",
+      "partial": 0,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 6,
+      "infeasible": 3,
+      "mean_matrix_time": 0.002573922222331425,
+      "mean_service_fraction": 0.38425925925925924,
+      "mean_solver_time": 0.5329514555568393,
+      "mean_successful_mission_distance": 430.16106477183075,
+      "method": "appatt_bspline",
+      "partial": 3,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 3
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.0010631222216438295,
+      "mean_service_fraction": 0.9166666666666666,
+      "mean_solver_time": 1.6848977888908445,
+      "mean_successful_mission_distance": 409.57997922689395,
+      "method": "tig_raw",
+      "partial": 1,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 8
+    },
+    {
+      "feasible": 6,
+      "infeasible": 3,
+      "mean_matrix_time": 0.0016246333349651347,
+      "mean_service_fraction": 0.38425925925925924,
+      "mean_solver_time": 0.5270547000012206,
+      "mean_successful_mission_distance": 430.16106477183075,
+      "method": "tig_bezier",
+      "partial": 3,
+      "run": "run_01",
+      "runs": 9,
+      "successes": 3
+    }
+  ],
+  "run2": {
+    "csv": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\results\\main_benchmark_run_02_20260810-015756.csv",
+    "directory": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756",
+    "json": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\results\\main_benchmark_run_02_20260810-015756.json",
+    "log": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756\\logs\\main_benchmark_run_02_20260810-015756.log",
+    "timestamp": "20260810-015756"
+  },
+  "run2_method_summary": [
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 17.673758300000273,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.534189400001196,
+      "mean_successful_mission_distance": 393.7912635845374,
+      "method": "proposed",
+      "partial": 0,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.0001634888855429987,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.5456723666672283,
+      "mean_successful_mission_distance": 388.01600100143435,
+      "method": "euclidean",
+      "partial": 0,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 6,
+      "infeasible": 3,
+      "mean_matrix_time": 0.0002619999965342383,
+      "mean_service_fraction": 0.38425925925925924,
+      "mean_solver_time": 0.5364625000010064,
+      "mean_successful_mission_distance": 430.16106477183075,
+      "method": "collision_rejection",
+      "partial": 3,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 3
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 22.368025899998933,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.5303387000021758,
+      "mean_successful_mission_distance": 393.792316046454,
+      "method": "visibility_graph",
+      "partial": 0,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.39921740000136197,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.5361026333331314,
+      "mean_successful_mission_distance": 414.041256572983,
+      "method": "grid_astar",
+      "partial": 0,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.000993755558738485,
+      "mean_service_fraction": 1.0,
+      "mean_solver_time": 2.54048878888716,
+      "mean_successful_mission_distance": 400.80035012076127,
+      "method": "appatt_raw",
+      "partial": 0,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 9
+    },
+    {
+      "feasible": 6,
+      "infeasible": 3,
+      "mean_matrix_time": 0.0025643555563874543,
+      "mean_service_fraction": 0.38425925925925924,
+      "mean_solver_time": 0.5311101222258812,
+      "mean_successful_mission_distance": 430.16106477183075,
+      "method": "appatt_bspline",
+      "partial": 3,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 3
+    },
+    {
+      "feasible": 9,
+      "infeasible": 0,
+      "mean_matrix_time": 0.001069100001283611,
+      "mean_service_fraction": 0.9166666666666666,
+      "mean_solver_time": 1.7020129999986642,
+      "mean_successful_mission_distance": 409.57997922689395,
+      "method": "tig_raw",
+      "partial": 1,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 8
+    },
+    {
+      "feasible": 6,
+      "infeasible": 3,
+      "mean_matrix_time": 0.0015900888910336006,
+      "mean_service_fraction": 0.38425925925925924,
+      "mean_solver_time": 0.5304418000014266,
+      "mean_successful_mission_distance": 430.16106477183075,
+      "method": "tig_bezier",
+      "partial": 3,
+      "run": "run_02",
+      "runs": 9,
+      "successes": 3
+    }
+  ],
+  "solver_timing_by_method": [
+    {
+      "maximum_absolute_percent_difference": 16.43265445769813,
+      "mean_absolute_percent_difference": 4.390360513053084,
+      "mean_run1": 2.529748377778257,
+      "mean_run2": 2.534189400001196,
+      "mean_run2_run1_ratio": 1.038740672170561,
+      "median_absolute_percent_difference": 1.2379582482110578,
+      "method": "proposed"
+    },
+    {
+      "maximum_absolute_percent_difference": 14.584675469848424,
+      "mean_absolute_percent_difference": 3.6165389697896226,
+      "mean_run1": 2.513180888888504,
+      "mean_run2": 2.5456723666672283,
+      "mean_run2_run1_ratio": 1.0352890004683728,
+      "median_absolute_percent_difference": 1.5968894419481614,
+      "method": "euclidean"
+    },
+    {
+      "maximum_absolute_percent_difference": 72.75831197712705,
+      "mean_absolute_percent_difference": 17.81934306515623,
+      "mean_run1": 0.5298919222227091,
+      "mean_run2": 0.5364625000010064,
+      "mean_run2_run1_ratio": 1.1781934306515622,
+      "median_absolute_percent_difference": 8.342866618733346,
+      "method": "collision_rejection"
+    },
+    {
+      "maximum_absolute_percent_difference": 36.70866764969088,
+      "mean_absolute_percent_difference": 7.386236119143669,
+      "mean_run1": 2.539611255555226,
+      "mean_run2": 2.5303387000021758,
+      "mean_run2_run1_ratio": 1.0602405266322061,
+      "median_absolute_percent_difference": 1.346501527510116,
+      "method": "visibility_graph"
+    },
+    {
+      "maximum_absolute_percent_difference": 36.25353857844016,
+      "mean_absolute_percent_difference": 8.301102541260029,
+      "mean_run1": 2.528159488888276,
+      "mean_run2": 2.5361026333331314,
+      "mean_run2_run1_ratio": 1.0730798217112092,
+      "median_absolute_percent_difference": 2.1758318514008157,
+      "method": "grid_astar"
+    },
+    {
+      "maximum_absolute_percent_difference": 20.73391002098043,
+      "mean_absolute_percent_difference": 5.6657396795531065,
+      "mean_run1": 2.518712688889031,
+      "mean_run2": 2.54048878888716,
+      "mean_run2_run1_ratio": 1.051437169491282,
+      "median_absolute_percent_difference": 1.5304425743297052,
+      "method": "appatt_raw"
+    },
+    {
+      "maximum_absolute_percent_difference": 333.33637765688434,
+      "mean_absolute_percent_difference": 54.66351061205178,
+      "mean_run1": 0.5329514555568393,
+      "mean_run2": 0.5311101222258812,
+      "mean_run2_run1_ratio": 1.5403590776535547,
+      "median_absolute_percent_difference": 17.770599000328453,
+      "method": "appatt_bspline"
+    },
+    {
+      "maximum_absolute_percent_difference": 45.55059179845314,
+      "mean_absolute_percent_difference": 10.41280119414986,
+      "mean_run1": 1.6848977888908445,
+      "mean_run2": 1.7020129999986642,
+      "mean_run2_run1_ratio": 1.1041280119414987,
+      "median_absolute_percent_difference": 1.2566894459331899,
+      "method": "tig_raw"
+    },
+    {
+      "maximum_absolute_percent_difference": 92.83821274768462,
+      "mean_absolute_percent_difference": 30.356387529143202,
+      "mean_run1": 0.5270547000012206,
+      "mean_run2": 0.5304418000014266,
+      "mean_run2_run1_ratio": 1.3011560103497346,
+      "median_absolute_percent_difference": 21.892553673304825,
+      "method": "tig_bezier"
+    }
+  ],
+  "vg_proposed_ratios": [
+    {
+      "environment_filename": "c_trap_001_t04.json",
+      "run1_vg_proposed_ratio": 163.8003023609607,
+      "run2_vg_proposed_ratio": 164.9889518413537,
+      "target_count": 4,
+      "topology": "c_trap"
+    },
+    {
+      "environment_filename": "c_trap_001_t08.json",
+      "run1_vg_proposed_ratio": 181.62195482008187,
+      "run2_vg_proposed_ratio": 182.35582644469588,
+      "target_count": 8,
+      "topology": "c_trap"
+    },
+    {
+      "environment_filename": "c_trap_001_t12.json",
+      "run1_vg_proposed_ratio": 194.53120846933737,
+      "run2_vg_proposed_ratio": 182.86934694939757,
+      "target_count": 12,
+      "topology": "c_trap"
+    },
+    {
+      "environment_filename": "sequential_staggered_blocking_001_t04.json",
+      "run1_vg_proposed_ratio": 0.44268244911923277,
+      "run2_vg_proposed_ratio": 0.43843451409974654,
+      "target_count": 4,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_filename": "sequential_staggered_blocking_001_t08.json",
+      "run1_vg_proposed_ratio": 0.43946815041901693,
+      "run2_vg_proposed_ratio": 0.43811905441202803,
+      "target_count": 8,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_filename": "sequential_staggered_blocking_001_t12.json",
+      "run1_vg_proposed_ratio": 0.4367568723485923,
+      "run2_vg_proposed_ratio": 0.4377673589213751,
+      "target_count": 12,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "environment_filename": "asymmetric_corridor_001_t04.json",
+      "run1_vg_proposed_ratio": 1.514378417363384,
+      "run2_vg_proposed_ratio": 1.5223673873001051,
+      "target_count": 4,
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_filename": "asymmetric_corridor_001_t08.json",
+      "run1_vg_proposed_ratio": 1.5207204497909828,
+      "run2_vg_proposed_ratio": 1.5139338290714768,
+      "target_count": 8,
+      "topology": "asymmetric_corridor"
+    },
+    {
+      "environment_filename": "asymmetric_corridor_001_t12.json",
+      "run1_vg_proposed_ratio": 1.5011609548896674,
+      "run2_vg_proposed_ratio": 1.4955244994014367,
+      "target_count": 12,
+      "topology": "asymmetric_corridor"
+    }
+  ],
+  "visibility_graph_topology_means": [
+    {
+      "run1_mean_matrix_time": 27.473145766666374,
+      "run2_mean_matrix_time": 27.34435039999759,
+      "topology": "c_trap"
+    },
+    {
+      "run1_mean_matrix_time": 16.317968099998932,
+      "run2_mean_matrix_time": 16.342593300001074,
+      "topology": "sequential_staggered_blocking"
+    },
+    {
+      "run1_mean_matrix_time": 23.31628610000189,
+      "run2_mean_matrix_time": 23.41713399999814,
+      "topology": "asymmetric_corridor"
+    }
+  ]
+}

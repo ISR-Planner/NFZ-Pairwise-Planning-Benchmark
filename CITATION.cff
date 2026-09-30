@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the associated Paper I manuscript when using these artifacts."
+type: dataset
+title: "NFZ-Pairwise-Planning-Benchmark"
+authors:
+  - family-names: "Chapman"
+    given-names: "Johnny L."
+    name-suffix: "Sr."
+  - family-names: "Ali"
+    given-names: "Kamal"
+  - family-names: "Newton"
+    given-names: "Brandon"
+  - family-names: "Nicholson"
+    given-names: "Amaru"
+  - family-names: "Thoma"
+    given-names: "Brent"
+  - family-names: "Wooten"
+    given-names: "Kershard"
+abstract: >-
+  Public benchmark artifacts supporting "Benchmarking No-Fly-Zone-Aware
+  Pairwise Cost Preprocessing for Multi-UAS Orienteering."
+keywords:
+  - multi-UAS
+  - no-fly zones
+  - path planning
+  - orienteering
+  - benchmark

@@ -1,0 +1,12 @@
+{
+  "completed": 81,
+  "current_environment": null,
+  "current_method": null,
+  "infrastructure_error_count": 0,
+  "last_status": "partial",
+  "run_directory": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\main_benchmark_replications\\run_02_20260810-015756",
+  "run_timestamp": "20260810-015756",
+  "status": "complete",
+  "total": 81,
+  "updated_at": "2026-08-10T07:08:16.729915+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "branch": "benchmark-part2-generalization",
+  "dataset_generator_commit": "5f26eb8a5119af9854a5d49de3f900821701a689",
+  "dataset_manifest": "experiments\\part2\\manifests\\part2_dataset_manifest.json",
+  "dataset_manifest_hash": "EBDD2A1B86741A266B78371C04C001FD4D2797E91E90C44EB2AA56F6CA053A58",
+  "diagnostics_enabled": false,
+  "environment_info": {
+    "available_physical_memory_gb": 32.82,
+    "cpu_name": "13th Gen Intel(R) Core(TM) i9-13900K",
+    "cpu_only": true,
+    "logical_cpu_count": 32,
+    "os": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "python_executable": "<local-path>\\python.exe",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "python_version_short": "3.14.0",
+    "total_physical_memory_gb": 63.75
+  },
+  "execution_mode": "primary_uninstrumented",
+  "frozen_primary_commit": "ff7d3f36d7cbbcfb9cb9d2e1232e3feae33a5d85",
+  "git_commit": "12a21ecf614d8b261cd27b39665142c6fdbb006b",
+  "part1_experiment_commit": "73b9a7b60fa892bbf2220e6a961c1393ab28fbf5",
+  "part2_infrastructure_commit": "1163ae8164f9ffe7ad60dc8cfd1dd7cebcfca0ba",
+  "proposed_parallel_executions": 0,
+  "schema": "nfz_part2_sanity_environment_provenance_v1"
+}

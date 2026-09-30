@@ -1,0 +1,39 @@
+{
+  "timestamp": "20260809-222140",
+  "run_directory": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140",
+  "source": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset",
+  "snapshot": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot",
+  "files": [
+    {
+      "file": "composite_adversarial_001_t04.json",
+      "original_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t04.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t04.json",
+      "original_bytes": 10934,
+      "snapshot_bytes": 10934,
+      "original_sha256": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "snapshot_sha256": "46a8ce0765b1d8f8ae48269cfc5c6d0170ce4f2f1421ac01056895ae89f3b23a",
+      "byte_identical": true
+    },
+    {
+      "file": "composite_adversarial_001_t08.json",
+      "original_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t08.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t08.json",
+      "original_bytes": 11542,
+      "snapshot_bytes": 11542,
+      "original_sha256": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "snapshot_sha256": "183935396ebb94c690c0a00bc9c84c06f142f9a05ba9ab0aec5c4234a60ab32b",
+      "byte_identical": true
+    },
+    {
+      "file": "composite_adversarial_001_t12.json",
+      "original_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\dataset_creator_app\\composite_adversarial\\dataset\\composite_adversarial_001_t12.json",
+      "snapshot_path": "<local-path>\\NFZ-Pairwise-Planning-Benchmark\\experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+      "original_bytes": 12153,
+      "snapshot_bytes": 12153,
+      "original_sha256": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "snapshot_sha256": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+      "byte_identical": true
+    }
+  ],
+  "all_byte_identical": true
+}

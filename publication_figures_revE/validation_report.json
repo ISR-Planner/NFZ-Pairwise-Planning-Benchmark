@@ -1,0 +1,801 @@
+{
+  "figures": [
+    {
+      "figure": "fig2_controlled_t12_proposed_environments",
+      "outputs": [
+        "publication_figures_revE\\fig2_controlled_t12_proposed_environments.svg",
+        "publication_figures_revE\\fig2_controlled_t12_proposed_environments.pdf",
+        "publication_figures_revE\\fig2_controlled_t12_proposed_environments.png"
+      ],
+      "panels": [
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "mission_path": "experiments\\main_benchmark_replications\\run_02_20260810-015756\\outputs\\proposed\\missions\\c_trap_001_t12__proposed__run_02_20260810-015756__mission_seg_20260810-0200_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 5,
+          "source_path": "experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\c_trap_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 7.019644405789034e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "mission_path": "experiments\\main_benchmark_replications\\run_02_20260810-015756\\outputs\\proposed\\missions\\sequential_staggered_blocking_001_t12__proposed__run_02_20260810-015756__mission_seg_20260810-0204_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 5,
+          "source_path": "experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\sequential_staggered_blocking_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 7.440030522450584e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            2,
+            3
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "mission_path": "experiments\\main_benchmark_replications\\run_02_20260810-015756\\outputs\\proposed\\missions\\asymmetric_corridor_001_t12__proposed__run_02_20260810-015756__mission_seg_20260810-0207_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 5,
+          "source_path": "experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\asymmetric_corridor_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 7.015687548344618e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        }
+      ]
+    },
+    {
+      "figure": "fig4_composite_t12_method_comparison",
+      "outputs": [
+        "publication_figures_revE\\fig4_composite_t12_method_comparison.svg",
+        "publication_figures_revE\\fig4_composite_t12_method_comparison.pdf",
+        "publication_figures_revE\\fig4_composite_t12_method_comparison.png"
+      ],
+      "panels": [
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 6,
+          "hull_overlay": true,
+          "method": "proposed",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260810-0017_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "visibility_graph",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260810-0101_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "grid_astar",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260810-0102_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "appatt_raw",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260810-0104_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        }
+      ]
+    },
+    {
+      "figure": "fig6_appatt_tig_raw_vs_smoothed",
+      "outputs": [
+        "publication_figures_revE\\fig6_appatt_tig_raw_vs_smoothed.svg",
+        "publication_figures_revE\\fig6_appatt_tig_raw_vs_smoothed.pdf",
+        "publication_figures_revE\\fig6_appatt_tig_raw_vs_smoothed.png"
+      ],
+      "panels": [
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "appatt_raw",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260810-0104_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "appatt_bspline",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260810-0104_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 1,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "tig_raw",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260810-0105_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        },
+        {
+          "cluster_sizes": [
+            5,
+            2,
+            2,
+            2,
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 6,
+          "hull_overlay": false,
+          "method": "tig_bezier",
+          "mission_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260810-0105_N1_1.json",
+          "nfz_count": 16,
+          "route_count": 5,
+          "source_path": "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 6,
+            "max_vertex_delta_km": 7.068382567152803e-13,
+            "stored_hull_count": 6,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12
+        }
+      ]
+    },
+    {
+      "figure": "fig10_part2_geometry_validation_15panel",
+      "outputs": [
+        "publication_figures_revE\\fig10_part2_geometry_validation_15panel.svg",
+        "publication_figures_revE\\fig10_part2_geometry_validation_15panel.pdf",
+        "publication_figures_revE\\fig10_part2_geometry_validation_15panel.png"
+      ],
+      "panels": [
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "instance_id": "i01",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i01_t12__proposed__mission_seg_20260812-1947_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 7.015687548344618e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "C-Trap"
+        },
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "instance_id": "i02",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i02_t12__proposed__mission_seg_20260812-1948_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 7.060163722632863e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "C-Trap"
+        },
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "instance_id": "i03",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i03_t12__proposed__mission_seg_20260812-1948_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 7.155345275737306e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "C-Trap"
+        },
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "instance_id": "i04",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i04_t12__proposed__mission_seg_20260812-1949_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 6.967033668020783e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "C-Trap"
+        },
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "instance_id": "i05",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i05_t12__proposed__mission_seg_20260812-1950_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 6.940533287609524e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "C-Trap"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "instance_id": "i01",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i01_t12__proposed__mission_seg_20260812-1952_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 7.057302750487171e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Sequential Staggered Blocking"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "instance_id": "i02",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i02_t12__proposed__mission_seg_20260812-1954_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 6.955158704668314e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Sequential Staggered Blocking"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "instance_id": "i03",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i03_t12__proposed__mission_seg_20260812-1957_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 7.15193789428213e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Sequential Staggered Blocking"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "instance_id": "i04",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i04_t12__proposed__mission_seg_20260812-2000_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 7.174458761558876e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Sequential Staggered Blocking"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "instance_id": "i05",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i05_t12__proposed__mission_seg_20260812-2002_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 6.949610205658502e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Sequential Staggered Blocking"
+        },
+        {
+          "cluster_sizes": [
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "instance_id": "i01",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i01_t12__proposed__mission_seg_20260812-2003_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 6.832395840944712e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Asymmetric Corridor"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            3
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "instance_id": "i02",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i02_t12__proposed__mission_seg_20260812-2004_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 7.226956677113316e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Asymmetric Corridor"
+        },
+        {
+          "cluster_sizes": [
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "instance_id": "i03",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i03_t12__proposed__mission_seg_20260812-2005_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 6.55896761309924e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Asymmetric Corridor"
+        },
+        {
+          "cluster_sizes": [
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "instance_id": "i04",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i04_t12__proposed__mission_seg_20260812-2006_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 6.364838012606436e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Asymmetric Corridor"
+        },
+        {
+          "cluster_sizes": [
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "instance_id": "i05",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i05_t12__proposed__mission_seg_20260812-2007_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 6.807132912170737e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Asymmetric Corridor"
+        }
+      ],
+      "readability_note": "Dense contact sheet; representative three-panel figure is also generated."
+    },
+    {
+      "figure": "fig10_part2_geometry_validation_representative_3panel",
+      "outputs": [
+        "publication_figures_revE\\fig10_part2_geometry_validation_representative_3panel.svg",
+        "publication_figures_revE\\fig10_part2_geometry_validation_representative_3panel.pdf",
+        "publication_figures_revE\\fig10_part2_geometry_validation_representative_3panel.png"
+      ],
+      "panels": [
+        {
+          "cluster_sizes": [
+            5
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 1,
+          "hull_overlay": true,
+          "instance_id": "i03",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i03_t12__proposed__mission_seg_20260812-1948_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 1,
+            "max_vertex_delta_km": 7.155345275737306e-13,
+            "stored_hull_count": 1,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "C-Trap"
+        },
+        {
+          "cluster_sizes": [
+            2,
+            2,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 3,
+          "hull_overlay": true,
+          "instance_id": "i03",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i03_t12__proposed__mission_seg_20260812-1957_N1_1.json",
+          "nfz_count": 6,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 3,
+            "max_vertex_delta_km": 7.15193789428213e-13,
+            "stored_hull_count": 3,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Sequential Staggered Blocking"
+        },
+        {
+          "cluster_sizes": [
+            3,
+            2
+          ],
+          "drawable_route_count": 0,
+          "hull_count": 2,
+          "hull_overlay": true,
+          "instance_id": "i03",
+          "mission_path": "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i03_t12__proposed__mission_seg_20260812-2005_N1_1.json",
+          "nfz_count": 5,
+          "route_count": 0,
+          "source_path": "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json",
+          "stored_hull_check": {
+            "computed_hull_count": 2,
+            "max_vertex_delta_km": 6.55896761309924e-13,
+            "stored_hull_count": 2,
+            "stored_hulls_present": true,
+            "vertex_counts_match": true
+          },
+          "target_count": 12,
+          "topology": "Asymmetric Corridor"
+        }
+      ]
+    }
+  ],
+  "generated_by": "scripts\\analysis\\generate_publication_figures_revE.py",
+  "input_hashes_sha256": {
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\input_snapshot\\composite_adversarial_001_t12.json": "26dfa01467ba67e59d25a6c3e83c1a902f9cb2b2258d7175411978454dd7c5e9",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_bspline\\missions\\composite_adversarial_001_t12__appatt_bspline__mission_seg_20260810-0104_N1_1.json": "8d4edbfedc853a922e286f5c34486a106bd6bc06576c5c90e674654991ee7bda",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\appatt_raw\\missions\\composite_adversarial_001_t12__appatt_raw__mission_seg_20260810-0104_N1_1.json": "aa7fedcaf5e43f417e774669ba4c88016ca8f9f11aab64f27acaad825364d6b2",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\grid_astar\\missions\\composite_adversarial_001_t12__grid_astar__mission_seg_20260810-0102_N1_1.json": "9093f89865792d9d9f99d02ecba82118a8e9362d721550a2369bfe2090b58917",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\proposed\\missions\\composite_adversarial_001_t12__proposed__mission_seg_20260810-0017_N1_1.json": "882e0bda6474adced2ea346a68017d2322f9e952a7496721f7fd7ac2910d734c",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_bezier\\missions\\composite_adversarial_001_t12__tig_bezier__mission_seg_20260810-0105_N1_1.json": "eba902a20e37211071800ccdcd9ee5b34136aece98ca7f63efc1ef59d4e6fac3",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\tig_raw\\missions\\composite_adversarial_001_t12__tig_raw__mission_seg_20260810-0105_N1_1.json": "415672b0963b4e071b947bf37f0be815ea4d708b4a38b5257063f8b53bb4f6b8",
+    "experiments\\composite_adversarial_replications\\run_02_20260809-222140\\outputs\\visibility_graph\\missions\\composite_adversarial_001_t12__visibility_graph__mission_seg_20260810-0101_N1_1.json": "bda0733a47a618cd75dcebb09a3a53b7235650cbdf230ce51a8a74695d1222f4",
+    "experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\asymmetric_corridor_001_t12.json": "73a4e66308c1d9df14d4b20127c3da8d33645f52b69b8b19abb12ad6943ceb36",
+    "experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\c_trap_001_t12.json": "63c1679911d2f622d697265ba6f47312b3c3cb8f41348a71f752b5d64a11bd50",
+    "experiments\\main_benchmark_replications\\run_02_20260810-015756\\input_snapshot\\sequential_staggered_blocking_001_t12.json": "21345e8d32be63bded03452fa614a5f5d9c7cde3518ed9e3f3d351c2ce92e8de",
+    "experiments\\main_benchmark_replications\\run_02_20260810-015756\\outputs\\proposed\\missions\\asymmetric_corridor_001_t12__proposed__run_02_20260810-015756__mission_seg_20260810-0207_N1_1.json": "31a23dca48c965a8ba0bbea9c499881d7f4bfa3f46db9b386b42c476dcb284ca",
+    "experiments\\main_benchmark_replications\\run_02_20260810-015756\\outputs\\proposed\\missions\\c_trap_001_t12__proposed__run_02_20260810-015756__mission_seg_20260810-0200_N1_1.json": "8ad65e40d5666519623d833d8a6de021e6b39d89d6288e3df2d49f26ba74fc0e",
+    "experiments\\main_benchmark_replications\\run_02_20260810-015756\\outputs\\proposed\\missions\\sequential_staggered_blocking_001_t12__proposed__run_02_20260810-015756__mission_seg_20260810-0204_N1_1.json": "c4e0849847a7e1cee129d5aee5cd0220647381292aa07fb60bafca293253b94f",
+    "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i01_t12.json": "9fed71fbec922496b3c8a23a2a330e6345cdf4e30310a45b3efbf6379fa89381",
+    "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i02_t12.json": "8305d66b257911466636e4af6bbce1b747f181c3681d43346446187fa7b31ff2",
+    "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i03_t12.json": "dc05a8e4327f4b3e058a847f80cf766f1b955ccea6705a30be4bf14dec63756b",
+    "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i04_t12.json": "676cc7986e39f3291f0964d7dad95bc1b86956b784b6df2609b8f7f554687dad",
+    "experiments\\part2\\datasets\\controlled_t12\\asymmetric_corridor\\asymmetric_i05_t12.json": "27a4fb26c61e1f2a98954d80e5223181fec18154abe005cc59feeac9e69547b9",
+    "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i01_t12.json": "12011c3e489c8c64af8906fd91d16f26626f95d8c93b73f550d3be46836b193a",
+    "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i02_t12.json": "70ad14cddeca2adadf035837d57d6559f926485f164839fc374f1113d35fdf4e",
+    "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i03_t12.json": "282ef759c694bcaba1b76a252d9f709c0a5a624951935aab4bb45b29693ec041",
+    "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i04_t12.json": "fc6306e44d24caf5fd1fc1a42c00bb8b4aa7c4b9ef45a4e2b60383b16fe000a5",
+    "experiments\\part2\\datasets\\controlled_t12\\c_trap\\ctrap_i05_t12.json": "68f728dab1409280c0fbc64a50a0f64c229c2e3e2cfaa2e2c42c5dbfbd47bfc4",
+    "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i01_t12.json": "52d5e9c7215308f9dcf988d56291363eb31eb5ff1f0b84d3e8ff303b2922a627",
+    "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i02_t12.json": "9b3253cd1d89f673fa672902943436ec7f494c1b756ccff1e6ca47901fe168e6",
+    "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i03_t12.json": "8de529de42c579bcb673bba0371f35c70af7cbd5a2444d48e8cfba7f63a31d5d",
+    "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i04_t12.json": "64a155c094cdd2ad6f7d7820b8b93c8db8fdf6ec1d93a5989cbf20e0361a4d27",
+    "experiments\\part2\\datasets\\controlled_t12\\sequential_staggered_blocking\\sequential_i05_t12.json": "de825985a891d8b6c2b1d3597c6369fb5505afbaf2c36616aa17db38906fbe43",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i01_t12__proposed__mission_seg_20260812-2003_N1_1.json": "199c73b4e167ef4d3dff6c0ee5a5a3c514c76503b770be29061c440a25a39bbd",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i02_t12__proposed__mission_seg_20260812-2004_N1_1.json": "548d3c5400d4843246b0e52aeb65aa558a12b71c8528ee1c247557e2223873ef",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i03_t12__proposed__mission_seg_20260812-2005_N1_1.json": "82acbfde391482a75271d368d4b32599dfc29510bf0cd928554c83b01c7f9031",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i04_t12__proposed__mission_seg_20260812-2006_N1_1.json": "2d081addaea6604a934382f4eb25a9dda0de57183dd594f09120a0c9fb6d228a",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\asymmetric_i05_t12__proposed__mission_seg_20260812-2007_N1_1.json": "f84c0e4996c7b5f2927cc738ef9a10f973cbe758c5d4629ebbe33c4a14085e30",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i01_t12__proposed__mission_seg_20260812-1947_N1_1.json": "44b58df5e80ce19a3ef9ed2db5273f912906109ba515cad98aa80091211cf9e6",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i02_t12__proposed__mission_seg_20260812-1948_N1_1.json": "29cc2eb6b0837d71c54caa743408dcd1da47e7fe66241e69efb45bf42ec88eac",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i03_t12__proposed__mission_seg_20260812-1948_N1_1.json": "fad33e6a48e6d17457481702ce8e7b33ec199ec5c37fe812c4a906b0e9f02c76",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i04_t12__proposed__mission_seg_20260812-1949_N1_1.json": "69488a4733764a09451d606d3c44b19a13f19833696ba408dab3b0552bc176a4",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\ctrap_i05_t12__proposed__mission_seg_20260812-1950_N1_1.json": "7fd2237e2af396512b3b3573e2c2ed1c0aa9344861797130635ed306e2f329fd",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i01_t12__proposed__mission_seg_20260812-1952_N1_1.json": "e7fc2e5d2a0b33a95b4cfa2b21e1a0afd0cdec32d6653ce62f2b9229d0205535",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i02_t12__proposed__mission_seg_20260812-1954_N1_1.json": "0cd3e7fedb9ff3e40ab55abf26c261e33416e2f3c991f5d2930c598f4b6df6bc",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i03_t12__proposed__mission_seg_20260812-1957_N1_1.json": "e80567f66db9d98b523fd1159a294c76ff74e4e024e7f63bdec4d7e26dbd48ae",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i04_t12__proposed__mission_seg_20260812-2000_N1_1.json": "295150cdedba88fde8121391acb1d4130b15e99edd45b70cefe326629f0acec9",
+    "experiments\\part2\\results\\primary\\run_01_20260812-194711\\outputs\\proposed\\missions\\sequential_i05_t12__proposed__mission_seg_20260812-2002_N1_1.json": "360f3beb6143d8002ebcbf5ee4a26bfaf3bc473b4e9ecea0c791ef5d397e5f07"
+  },
+  "output_directory": "publication_figures_revE",
+  "planner_wrapping_source": {
+    "functions": [
+      "wrap_sams",
+      "_cluster_overlapping_sams"
+    ],
+    "min_seg_km": 0.3,
+    "module": "path_planning_core.sam_wrapping"
+  },
+  "projection_source": {
+    "function": "_project_env_to_local_km",
+    "module": "server.solver.projection"
+  },
+  "terminology": "Legacy input SAM arrays are displayed as NFZ labels at render time only."
+}

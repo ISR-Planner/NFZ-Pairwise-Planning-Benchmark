@@ -1,0 +1,195 @@
+{
+    "schema":  "paper1_public_release_manifest_v1",
+    "repository_name":  "NFZ-Pairwise-Planning-Benchmark",
+    "paper_title":  "Benchmarking No-Fly-Zone-Aware Pairwise Cost Preprocessing for Multi-UAS Orienteering",
+    "distribution_statement":  "Distribution Statement A. Approved for public release; distribution is unlimited. Approved AFRL-2026-1658 24-09-2026.",
+    "public_file_count_including_checksum":  1163,
+    "counts":  {
+                   "part1_controlled_datasets":  9,
+                   "part1_composite_datasets":  3,
+                   "part1_controlled_run1_executions":  81,
+                   "part1_controlled_run2_executions":  81,
+                   "part1_composite_run1_executions":  27,
+                   "part1_composite_run2_executions":  27,
+                   "part1_total_executions":  216,
+                   "part2_datasets":  15,
+                   "part2_primary_executions":  135,
+                   "part2_proposed_diagnostic_executions":  15,
+                   "part2_sanity_repetitions":  6
+               },
+    "internal_source_commits":  {
+                                    "dataset":  "5f26eb8a5119af9854a5d49de3f900821701a689",
+                                    "part1":  "73b9a7b60fa892bbf2220e6a961c1393ab28fbf5",
+                                    "part2_primary_freeze":  "ff7d3f36d7cbbcfb9cb9d2e1232e3feae33a5d85",
+                                    "part2_completed":  "df37f713d0320481dbd50e80ca49e919326a20f8",
+                                    "reviewer_validation_source":  "4bcace45ebbb4649f79dc978cdf5d380a53562f7",
+                                    "reviewer_validation_current":  "9e3552db7452366d6f89589f96972ad0617bab18"
+                                },
+    "sanitized_release_candidate_commits":  {
+                                                "dataset":  "5bf57f8ae9a3bcc4cbcf07b7a9f4d46474fd3e47",
+                                                "part1":  "fa79039cfd93152a8caa5117bd4c4597ecae7d7c",
+                                                "part2":  "4bc5575f835394c71752b284db631a5456080b51",
+                                                "reviewer_validation":  "782201673d7ceaeb838eb0ddd58dcb9b589e0ede"
+                                            },
+    "part2_dataset_manifest_hashes":  {
+                                          "private_source_sha256":  "EBDD2A1B86741A266B78371C04C001FD4D2797E91E90C44EB2AA56F6CA053A58",
+                                          "sanitized_public_sha256":  "3B5E5B0FF7518154D3A04274378D3DBC593724B5A7609FA29739CA70CECE94E7"
+                                      },
+    "part1_private_manifest_reconciliation":  [
+                                                  {
+                                                      "classification":  "LOG/TRANSIENT",
+                                                      "path":  "experiments/composite_adversarial_replications/run_01_20260809-183402/logs/composite_adversarial_run_01_20260809-183402.log",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "LOG/TRANSIENT",
+                                                      "path":  "experiments/composite_adversarial_replications/run_02_20260809-222140/logs/composite_adversarial_run_02_20260809-222140.log",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "LOG/TRANSIENT",
+                                                      "path":  "experiments/diagnostics/proposed_branching/results/proposed_branching_diagnostic_20260809-165543.log",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "LOG/TRANSIENT",
+                                                      "path":  "experiments/main_benchmark_replications/run_02_20260810-015756/logs/main_benchmark_run_02_20260810-015756.log",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "OPTIONAL/DERIVED ANALYSIS OUTPUT",
+                                                      "path":  "experiments/results/main_benchmark_run_20260809-160107.csv",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "OPTIONAL/DERIVED ANALYSIS OUTPUT",
+                                                      "path":  "experiments/results/main_benchmark_run_20260809-160107.json",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "LOG/TRANSIENT",
+                                                      "path":  "experiments/results/main_benchmark_run_20260809-160107.log",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "OPTIONAL/DERIVED ANALYSIS OUTPUT",
+                                                      "path":  "experiments/results/main_benchmark_run_20260809-160107_analysis.csv",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "OPTIONAL/DERIVED ANALYSIS OUTPUT",
+                                                      "path":  "experiments/results/main_benchmark_run_20260809-160107_analysis.md",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "OPTIONAL/DERIVED ANALYSIS OUTPUT",
+                                                      "path":  "experiments/results/main_benchmark_run_20260809-160107_rows.jsonl",
+                                                      "action":  "omitted"
+                                                  },
+                                                  {
+                                                      "classification":  "REQUIRED FOR REPRODUCTION",
+                                                      "path":  "experiments/run_benchmark.py",
+                                                      "action":  "included as sanitized public copy"
+                                                  }
+                                              ],
+    "transformations":  [
+                            {
+                                "path":  "experiments/run_benchmark.py",
+                                "internal_source_commit":  "73b9a7b60fa892bbf2220e6a961c1393ab28fbf5",
+                                "sanitized_release_candidate_commit":  "fa79039cfd93152a8caa5117bd4c4597ecae7d7c",
+                                "public_sha256":  "80535dc316021ec063526557997627e5bbd96168cbbcdb990ff0d67f696c7917",
+                                "reason":  "Added required frozen runner with repository-relative default and release-facing descriptive text.",
+                                "bytes_changed":  true,
+                                "private_source_sha256":  "83aefd42336736bfa7a1bc8f5429ad389e13412b145694831d274a7f30ff4a8e"
+                            },
+                            {
+                                "path":  "experiments/benchmark/matrix_builders.py",
+                                "internal_source_commit":  "73b9a7b60fa892bbf2220e6a961c1393ab28fbf5",
+                                "sanitized_release_candidate_commit":  "fa79039cfd93152a8caa5117bd4c4597ecae7d7c",
+                                "public_sha256":  "e989095faf10a33d6783e43f89d4cbaedc22a832f24dffdce4dd41974e764303",
+                                "reason":  "Expressed the unchanged repository root through the equivalent parent.parent.parent path without altering scientific values.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/reviewer_validation/analysis/REVIEWER_VALIDATION_FULL_SUMMARY.md",
+                                "internal_source_commit":  "4bcace45ebbb4649f79dc978cdf5d380a53562f7",
+                                "sanitized_release_candidate_commit":  "782201673d7ceaeb838eb0ddd58dcb9b589e0ede",
+                                "public_sha256":  "a02a42381f1e5060623d8af0c0bde0870bb8667649601e9bbe9b2a02c0966814",
+                                "reason":  "Replaced residual user-specific Python executable path with python.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/reviewer_validation/results/run_01_20260813-201359/environment_provenance.json",
+                                "internal_source_commit":  "4bcace45ebbb4649f79dc978cdf5d380a53562f7",
+                                "sanitized_release_candidate_commit":  "782201673d7ceaeb838eb0ddd58dcb9b589e0ede",
+                                "public_sha256":  "a2de111f0cc0bbe1efd7fe79e01873722e6a32ddce7151e1dea7b4a30410bfd2",
+                                "reason":  "Replaced residual user-specific Python executable path with python.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/composite_adversarial_replications/composite_adversarial_integrity_manifest_20260810-015551.json",
+                                "internal_source_commit":  "73b9a7b60fa892bbf2220e6a961c1393ab28fbf5",
+                                "sanitized_release_candidate_commit":  "fa79039cfd93152a8caa5117bd4c4597ecae7d7c",
+                                "public_sha256":  "2d9c97855483ebc26042437046dc7c30a7046aa4c66402407bbaffc298f67a30",
+                                "reason":  "Replaced residual user-profile temporary path with a neutral marker.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/part2/PART2_EXPERIMENT_SPEC.md",
+                                "internal_source_commit":  "df37f713d0320481dbd50e80ca49e919326a20f8",
+                                "sanitized_release_candidate_commit":  "4bc5575f835394c71752b284db631a5456080b51",
+                                "public_sha256":  "5256213526f34f91540ab223d3230ad3fc341659f4eb4591d63b542b34dd8f66",
+                                "reason":  "Removed unverified placeholder GitHub URL.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/part2/manifests/part2_primary_run01_manifest.json",
+                                "internal_source_commit":  "df37f713d0320481dbd50e80ca49e919326a20f8",
+                                "sanitized_release_candidate_commit":  "4bc5575f835394c71752b284db631a5456080b51",
+                                "public_sha256":  "db9164dcc704a5ea4813b28ddb2e611775a20875c44225fc80180ce71d9fb937",
+                                "reason":  "Annotated private-source and sanitized-public dataset-manifest hash scope.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/part2/manifests/part2_proposed_diagnostic_manifest.json",
+                                "internal_source_commit":  "df37f713d0320481dbd50e80ca49e919326a20f8",
+                                "sanitized_release_candidate_commit":  "4bc5575f835394c71752b284db631a5456080b51",
+                                "public_sha256":  "d19348a6ecfdc6726f51b28fe83e20df737e77bf1de5bd8ba627e0b7ee1ab421",
+                                "reason":  "Annotated private-source and sanitized-public dataset-manifest hash scope.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/part2/manifests/part2_sanity_manifest.json",
+                                "internal_source_commit":  "df37f713d0320481dbd50e80ca49e919326a20f8",
+                                "sanitized_release_candidate_commit":  "4bc5575f835394c71752b284db631a5456080b51",
+                                "public_sha256":  "e08da81e84c5fb25c038e96c9bed389a4ef7c920078ffc2ac44b0086d0015dfc",
+                                "reason":  "Annotated private-source and sanitized-public dataset-manifest hash scope.",
+                                "bytes_changed":  true
+                            },
+                            {
+                                "path":  "experiments/reviewer_validation/scripts/run_reviewer_validation.py",
+                                "internal_source_commit":  "4bcace45ebbb4649f79dc978cdf5d380a53562f7",
+                                "sanitized_release_candidate_commit":  "782201673d7ceaeb838eb0ddd58dcb9b589e0ede",
+                                "public_sha256":  "4ab0751157e42ae118a0240ee12750e3d8c70fef556cc300c51d495657f85933",
+                                "reason":  "Removed the excluded internal editorial document from the public precondition list.",
+                                "bytes_changed":  true
+                            }
+                        ],
+    "excluded":  [
+                     "AGENTS.md",
+                     "release_metadata/",
+                     "experiments/part1/provenance_manifest.csv",
+                     "experiments/part1/provenance_manifest.json",
+                     "internal manuscript revision-planning document",
+                     "Paper I manuscript sources and outputs",
+                     "private correspondence and PA packages"
+                 ],
+    "intentional_placeholders":  {
+                                     "marker":  "\u003clocal-path\u003e",
+                                     "occurrences":  2714,
+                                     "purpose":  "Neutral replacement retained in frozen records where the original machine path is not needed for scientific interpretation."
+                                 },
+    "checksum_file":  "SHA256SUMS.txt",
+    "checksum_scope":  "Every public file except SHA256SUMS.txt itself.",
+    "license_status":  "NO PUBLIC SOFTWARE LICENSE ADDED - AUTHORIZATION REQUIRED"
+}
